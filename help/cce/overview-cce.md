@@ -29,7 +29,7 @@ ht-degree: 0%
       <img alt="從手寫字體到透過Creative Cloud Illustrator" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>從手寫字體到透過 Creative Cloud Illustrator （PDF）</strong></a>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>透過 Creative Cloud 從手寫字體轉換為Illustrator字體 （PDF）</strong></a>
     </div>
     <em>使用適用於企業的 Creative Cloud功能，Adobe行動和桌面應用程式可讓您在任何裝置上隨處擷取、轉換和創作</em>
     <br>
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>透過Creative Cloud Lightroom 網頁版InDesign （PDF）</strong></a>
     </div>
-    <em>使用Creative Cloud檔案和資料庫，將您的創造力從相機帶入最終設計</em>
+    <em>使用 Creative Cloud 檔案和資料庫，將您的創造力從相機帶入最終設計</em>
     <br>
   </td>
   <td>
@@ -59,12 +59,12 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="為您的「Creative Cloud Express頁新增幻影播放」" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+      <img alt="為您的「Creative Cloud Express頁面新增幻影播放」" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>為Creative Cloud Express頁面新增幻影播放 （PDF）</strong></a>
     </div>
-    <em>Adobe Spark Page提供一些令人驚豔且簡單易用的版面元件，可生動呈現您的網頁故事</em>
+    <em>Adobe Spark Page提供一些令人驚豔且便於使用的版面元件，可生動呈現您的網頁故事</em>
     <br>
   </td>
   <td>
@@ -111,7 +111,7 @@ ht-degree: 0%
     <div>
     <a href="compositepsipad.md"><strong>使用 Adobe [！適用于 iPad 的 DNL Stock] 和 Photoshop</strong></a>
     </div>
-    <em>讓Photoshop的力量觸手可及。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一</em>
+    <em>讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一</em>
     <br>
   </td>
   <td>
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>使用Photoshop製作活相片 — 第 1 部分 （PDF）</strong></a>
     </div>
-    <em>Adobe Photoshop可讓您在任何社交平臺上快速將短片轉變為讓觀眾驚動的活相片</em>
+    <em>Adobe Photoshop可讓您快速將短片轉變為在任何社交平臺上讓觀眾驚動的活相片。</em>
     <br>
   </td>
 </tr>
@@ -232,7 +232,7 @@ ht-degree: 0%
       <img alt="在 iPad （和 iPhone） 上試試Fresco手" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>在 iPad （和 iPhone） 上Fresco用手動</strong></a>
+   <a href="frescoworkshop.md"><strong>在 iPad （和 iPhone） 上試試Fresco手</strong></a>
     </div>
     <em>在這場 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界</em>
     <br>
@@ -281,7 +281,7 @@ ht-degree: 0%
     <div>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>使用 Adobe Portfolio （PDF） 展現您的最佳作品</strong></a>
     </div>
-    <em>Adobe Portfolio可讓您上傳、整理您的工作，並與世界各地的潛在員工和客戶分享您的作品</em>
+    <em>Adobe Portfolio可讓您上傳、整理工作，並與世界各地的潛在員工和客戶分享您的作品</em>
     <br>
   </td>
  </tr>
@@ -329,7 +329,7 @@ ht-degree: 0%
       <img alt="使用Creative Cloud Libraries從Illustrator分享文字樣式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用 Creative Cloud Libraries 從Illustrator共用文字樣式 （PDF）</strong></a>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用 Creative Cloud Libraries 共用Illustrator文字樣式 （PDF）</strong></a>
     </div>
     <em>在Illustrator中更聰明地工作，而不是更努力地工作</em>
     <br>
@@ -368,7 +368,7 @@ ht-degree: 0%
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>探索含 Creative Cloud 的字體 （PDF）</strong></a>
     </div>
-    <em>有時尋找適合專案的字體可能非常困難。 透過各種Creative Cloud應用程式和服務，現在尋找合適的字體有趣又鼓舞人心</em>
+    <em>有時尋找適合專案的字體可能非常困難。 透過各種Creative Cloud應用程式和服務，現在尋找合適的字型有趣又鼓舞人心</em>
     <br>
   </td>
   <td>
@@ -400,7 +400,7 @@ ht-degree: 0%
   </td>
    <td>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="利用Adobe Acrobat和InDesign，輕鬆收集和整合設計回饋意見" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+      <img alt="利用Adobe Acrobat和InDesign，輕鬆收集和整合設計意見回饋" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
    </a>
     <div>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>使用 Adobe Acrobat 和 InDesign 輕鬆收集和整合設計回饋意見 （PDF）</strong></a>

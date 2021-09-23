@@ -82,7 +82,7 @@ Acrobat和適用於企業的 Creative Cloud應用程式將從到期前 60 天開
 
 ![Acrobat過期訊息後](assets/acrobatafterexpire.png)
 
-如果後續嘗試啟動Acrobat，系統會提示使用者「立即登入」，然後出現 **** 選項建立自己的Adobe ID並進入試用模式。 但是，使用者建立的任何新Adobe ID將不會與您組織的授權相關聯，而且會對您的使用者造成額外的混淆。
+後續所有嘗試啟動Acrobat時，系統會提示使用者「立即登入」， **** 然後出現選項建立自己的Adobe ID並進入試用模式。 但是，使用者建立的任何新Adobe ID將不會與您組織的授權相關聯，而且會對您的使用者造成額外的混淆。
 
 ![Acrobat登入對話方塊 1](assets/acrobatsignin1.png)
 

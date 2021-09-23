@@ -28,7 +28,7 @@ ht-degree: 2%
     <div>
    <a href="cclibraries.md#tutorial1"><strong>建立CC Libraries</strong></a>
     </div>
-    <em>透過 Adobe Creative Cloud 資料庫，您可以在您最愛的Creative Cloud應用程式中管理、組織及存取標誌、顏色等專案。</em>
+    <em>透過Adobe Creative Cloud資料庫，您可以在您最愛的Creative Cloud應用程式中管理、組織及存取標誌、顏色等專案。</em>
     <br>
   </td>
    <td>
@@ -58,7 +58,7 @@ ht-degree: 2%
 
 在此教學課程中，您將瞭解如何：
 * 掌握您的資產和專案在品牌上
-* 新增! 與 Adobe XD 完整整合
+* 新增! 與 Adobe XD 完全整合
 
 **顯示者：**
 Ashley Dvorin，資深解決方案顧問 （數位媒體）
