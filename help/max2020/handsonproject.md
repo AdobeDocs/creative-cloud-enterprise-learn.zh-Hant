@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/faceMaskSplash.jpg)
 
-如果可以使用自己的圖稿自訂遮色片，這會不會酷炫嗎？ 透過「Adobe設計以列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈到他們的線上市集。
+如果可以使用自己的圖稿自訂遮色片，這會不會酷炫嗎？ 透過Adobe設計至列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈到他們的線上市集。
 
 ## 流覽臉罩專案教學課程
 
@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
    <a href="handsonproject.md#tutorial1"><strong>安裝「Photoshop設計以列印增效模組」</strong></a>
     </div>
-    <em>在Adobe Photoshop中使用功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合您的企業品牌需求</em>
+    <em>使用 Adobe Photoshop 中功能強大的選取和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
     <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/327096?hidetitle=true)
 
 **說明**
-瞭解如何安裝適用于 Photoshop 的設計至列印增效模組。
+瞭解如何安裝適用于 Photoshop 的設計以列印增效模組。
 
 在此教學課程中，您將瞭解如何：
 * 即時在服裝、配件、信紙和牆面藝術等產品上視覺化您的設計！

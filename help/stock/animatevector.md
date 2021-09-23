@@ -1,6 +1,6 @@
 ---
 title: 在Photoshop  [!DNL Stock]  中Animate Adobe向量插圖
-description: 使用可編輯的向量將動畫帶入電子報圖像中，以供Adobe [!DNL Stock]
+description: 使用適用于Adobe的可編輯向量，將動畫帶入電子報圖形中 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg

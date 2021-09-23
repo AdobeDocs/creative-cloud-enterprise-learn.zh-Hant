@@ -28,7 +28,7 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>在 iPad 上Photoshop入門簡介</strong></a>
     </div>
-    <em>進行介面導覽，並瞭解 Photoshop重新設計用於 Apple iPad 上的一些功能</em>
+    <em>進行介面導覽，並瞭解在 Apple iPad 上重新設計Photoshop使用中的一些功能</em>
     <br>
   </td>
   <td>

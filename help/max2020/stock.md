@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Stock]'
-description: 適用于企業的Adobe  [!DNL Stock]  可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產
+description: 適用于  [!DNL Stock]  企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial1"><strong>使用 Adobe [！DNL Stock]</strong></a>
     </div>
-    <em>使用由我們的人工智慧引擎 Adobe Sensei 提供支援的更好、更快的搜尋結果，找到完美的免版稅庫影像，以增強您的創意專案。</em>
+    <em>使用由我們的人工智慧引擎 Adobe Sensei 提供支援的更好、更快的搜尋結果，尋找完美的免版稅庫影像來增強您的創意專案</em>
     <br>
   </td>
   <td>
@@ -76,7 +76,7 @@ Victoria London， [!DNL Stock] 解決方案顧問 （數位媒體）
 在此教學課程中，您將瞭解如何：
 * 在 [!DNL Stock] 不離開AEM工作區的情況下，執行Adobe資產搜尋
 * 授權時將授權資產直接儲存至AEM檔案夾
-* 在網站上檢視從 [!DNL Stock] 您的授權記錄中AEM授權的 [!DNL Stock] 資產。
+* 在網站上檢視從您的授權記錄中AEM授權 [!DNL Stock] 的 [!DNL Stock] 資產。
 
 **顯示者：**
 ──Emily， Solutions Consultant （數位媒體）

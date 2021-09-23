@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # 為Adobe影像增添手繪美感 [!DNL Stock]
 
-使用 iPad 版 Photoshop，利用獨特的技術為您的影像增添深度和維度，提升創意行銷。
+使用 iPad 版 Photoshop，利用獨特的技術為您的影像增添深度和維度，進而提升創意行銷。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

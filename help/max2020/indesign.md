@@ -36,7 +36,7 @@ ht-degree: 0%
       <img alt="從InDesign共用以供審核" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>從InDesign共用以供審核</strong></a>
+   <a href="indesign.md#tutorial2"><strong>從 InDesign 共用以供審核</strong></a>
     </div>
     <em>設計師及其團隊成員的順暢創意審核體驗</em>
     <br>

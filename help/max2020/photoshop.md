@@ -28,7 +28,7 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
     <div>
    <a href="photoshop.md#tutorial1"><strong>編輯影像以符合您的Campaign</strong></a>
     </div>
-    <em>在Adobe Photoshop中使用功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合您的企業品牌需求</em>
+    <em>使用 Adobe Photoshop 中功能強大的選取和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **說明**
-在Adobe Photoshop中使用功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合企業品牌需求。
+使用Adobe Photoshop功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合企業品牌需求。
 
 在此教學課程中，您將瞭解如何：
 * 「物件選取工具」可讓您更快速、更輕鬆地選取專案
@@ -84,7 +84,7 @@ A.J Wood，資深解決方案顧問 （Digital Media）
 
 **Photoshop資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/photoshop.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/photoshop/using/whats-new.html) 和社群論壇連結的中樞。
+[學習與支援 ](https://helpx.adobe.com/support/photoshop.html) 是您其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/photoshop/using/whats-new.html) 和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

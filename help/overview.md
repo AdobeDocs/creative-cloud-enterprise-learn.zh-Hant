@@ -70,7 +70,7 @@ ht-degree: 10%
     <div>
    <a href="dva/overview-dva.md"><strong>Adobe影片</strong></a>
     </div>
-    <em>使用適用于視訊編輯、動態圖形、視覺效果、動畫等Adobe軟體和應用程式，將您的創意化為現實</em>
+    <em>使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實</em>
     <br>
   </td>
   <td>

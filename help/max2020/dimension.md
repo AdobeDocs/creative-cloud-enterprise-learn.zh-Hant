@@ -61,7 +61,7 @@ Jim Babbage，數位媒體資深解決方案顧問
 
 **Dimension 資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/dimension.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) 和社群論壇連結的中樞。
+[學習與支援 ](https://helpx.adobe.com/support/dimension.html) 是您其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) 和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

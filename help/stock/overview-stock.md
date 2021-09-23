@@ -15,7 +15,7 @@ ht-degree: 0%
 
 !![Creative Cloud Hero Image](../assets/ [!DNL Stock] .jpg）
 
-創意人員必須快速提供令人注目的全新視覺效果內容，以吸引眾人目光。 適用于 [!DNL Stock] 企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，這些全都可從他們每天使用的Adobe創意應用程式中完成。
+創意人員必須快速提供令人注目的全新視覺效果內容，以吸引眾人目光。 適用于 [!DNL Stock] 企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，全都可從他們每天使用的Adobe個創意應用程式中完成。
 
 
 ## 按一下以檢視Adobe [!DNL Stock] 教學課程
@@ -61,7 +61,7 @@ ht-degree: 0%
       <div>
       <a href="animatevector.md"><strong>Animate Adobe [！DNL Stock] Photoshop中的向量插圖</strong></a>
       </div>
-      <em>使用適用于 Adobe 的可編輯向量，將動畫帶入電子報圖像中 [！DNL Stock]</em>
+      <em>使用適用于 Adobe 的可編輯向量，將動畫帶入電子報圖形中 [！DNL Stock]</em>
       <br>
   </td>
    <td>
@@ -69,7 +69,7 @@ ht-degree: 0%
          <img alt="使用 Adobe [！DNL Stock] 和 Creative Cloud Express 影片" src="assets/annualreport.jpg" />
       </a>
       <div>
-      <a href="annualreport.md"><strong>使用以 Adobe [！DNL Stock] 和 Creative Cloud Express 影片</strong></a>
+      <a href="annualreport.md"><strong>使用 Adobe [！DNL Stock] 和 Creative Cloud Express 影片</strong></a>
       </div>
       <em>利用 Adobe [！DNL Stock] 和 Creative Cloud Express 影片</em>
       <br>
@@ -172,7 +172,7 @@ ht-degree: 0%
   </td>
   <td>
       <a href="interactivetourismphoto.md">
-         <img alt="使用Adobe [！DNL Stock] 和 XD" src="assets/interactivetourismphoto.jpg" />
+         <img alt="使用 Adobe [！DNL Stock] 和 XD" src="assets/interactivetourismphoto.jpg" />
       </a>
       <div>
       <a href="interactivetourismphoto.md"><strong>使用 Adobe [！DNL Stock] 和 XD</strong></a>
@@ -194,10 +194,10 @@ ht-degree: 0%
   </td>
  <td>
       <a href="brandgradients.md">
-         <img alt="使用精美漸層和Adobe來建立連貫一致的品牌形象 [！DNL Stock] 資產" src="assets/brandgradients.jpg" />
+         <img alt="使用精美的漸層和Adobe來建立連貫一致的品牌影像 [！DNL Stock] 資產" src="assets/brandgradients.jpg" />
       </a>
       <div>
-      <a href="brandgradients.md"><strong>使用精美的漸層和Adobe來建立連貫一致的品牌形象 [！DNL Stock] 資產</strong></a>
+      <a href="brandgradients.md"><strong>使用精美漸層和Adobe來建立連貫一致的品牌形象 [！DNL Stock] 資產</strong></a>
       </div>
       <em>透過在廣告宣傳活動中結合顏色和漸層，建立各種影像的品牌統一</em>
       <br>
@@ -285,7 +285,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf"><strong>在 iPad 上使用 Photoshop 建立複合影像，然後Adobe [！DNL Stock] 影像 （PDF）</strong></a>
     </div>
-    <em>瞭解如何使用 iPad 上Photoshop功能，全新方式使用您喜愛的Adobe Creative Cloud應用程式</em>
+    <em>透過在 iPad 上Photoshop功能，瞭解如何以全新方式使用您喜愛的Adobe Creative Cloud應用程式之一</em>
     <br>
   </td>
    <td>
@@ -344,7 +344,7 @@ ht-degree: 0%
  <tr>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf">
-         <img alt="使用 Adobe 在真實世界中展現您的設計作品 [！DNL Stock] 和 Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="使用 Adobe [！DNL Stock] 和 Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf"><strong>使用 Adobe [！DNL Stock] 和 Photoshop （PDF）</strong></a>

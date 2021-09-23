@@ -26,7 +26,7 @@ ht-degree: 6%
       <img alt="Acrobat &amp;Adobe Sign" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat &amp;Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat &amp; Adobe Sign</strong></a>
     </div>
     <em>建立、編輯和簽署 PDF 檔和表格</em>
     <br>

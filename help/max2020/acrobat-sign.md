@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/DC.jpg)
 
-透過 Adobe Document Cloud （包括全球領先的 PDF 和電子簽名解決方案），您可以將手動檔流程轉變為高效的數位流程。 現在，您的團隊可以隨時隨地跨多個螢幕和裝置，在您最愛的 Microsoft 和企業應用程式中快速處理檔、工作流程和任務。
+透過 Adobe Document Cloud （包括全球領先的 PDF 和電子簽名解決方案），您可以將手動的檔流程轉變為高效的數位流程。 現在，您的團隊可以隨時隨地跨多個螢幕和裝置，在您最愛的 Microsoft 和企業應用程式中快速處理檔、工作流程和任務。
 
 ## 流覽產品教學課程
 
@@ -23,20 +23,20 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="起始Acrobat共用審核" src="../assets/acrobat_sharedreview_armstrong.jpg" />
+      <img alt="起始Acrobat共用審核」" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>啟動Acrobat共用審核</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>起始Acrobat共用審核」</strong></a>
     </div>
     <em>邀請審核者將其注釋新增至 PDF 檔</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="使用 Adobe Sign 建立線上免責聲明書" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="使用Adobe Sign建立線上免責聲明書" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>使用Adobe Sign建立線上免責聲明書</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>使用 Adobe Sign 建立線上免責聲明書</strong></a>
     </div>
     <em>快速將檔轉換為線上表格，並將其張貼到線上，需要檔的任何人都可以填寫和簽署</em>
     <br>
@@ -164,7 +164,7 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 **Acrobat與Adobe Sign資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/document-cloud.html) 是您其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/acrobat/using/whats-new.html) 和社群論壇連結的中樞。
+[學習與支援 ](https://helpx.adobe.com/support/document-cloud.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/acrobat/using/whats-new.html) 和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

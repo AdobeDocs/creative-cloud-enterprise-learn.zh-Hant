@@ -90,7 +90,7 @@ ht-degree: 0%
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>使用 Creative Cloud Express 建立、編輯和共用網頁 （PDF）</strong></a>
     </div>
-    <em>使用簡單直觀的工具，從Adobe中Adobe Creative Cloud Express和精美影像，為您的網頁建立互動式、回應式且啟用 Lightbox 的相片格點！DNL Stock]</em>
+    <em>使用簡單直覺易用的工具，從Adobe建立互動式、回應式且啟用 Lightbox 的相片格點，Adobe Creative Cloud Express和精美影像 [！DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -137,19 +137,19 @@ ht-degree: 0%
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>使用 Photoshop 建立電影 （PDF）</strong></a>
     </div>
-    <em>結合來自 Adobe [！DNL Stock] 採用巧妙的Photoshop遮色片技術。 利用動態和策略性迴圈點，讓您的影像栩栩如生</em>
+    <em>結合來自 Adobe 的影片 [！DNL Stock] 採用巧妙的Photoshop遮色片技術。 利用動態和策略性迴圈點，讓您的影像栩栩如生</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
-      <img alt="使用 Photoshop + After Effects 建立令人歎為觀止的圖形" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用 Photoshop + After Effects 製作令人歎為觀止的圖形" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>使用 Photoshop + After Effects 建立令人歎為觀止的圖形 （PDF）</strong></a>
+   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>使用 Photoshop + After Effects （PDF） 建立令人歎為觀止的圖形</strong></a>
     </div>
-    <em>使用常用的視訊技術，在After Effects中快速移除相片中的背景顏色，為您的設計專案建立獨特的合成相片</em>
+    <em>使用常用的視訊技巧，在After Effects中快速移除相片中的背景顏色，為您的設計專案建立獨特的合成相片</em>
     <br>
   </td>
   <td>
@@ -181,7 +181,7 @@ ht-degree: 0%
     <div>
    <a href="Frescoworkshop.pdf"><strong>在 iPad （和 iPhone） （PDF） 上Fresco用手動</strong></a>
     </div>
-    <em>在此 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界</em>
+    <em>在這場 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界</em>
     <br>
   </td>
   <td>
@@ -203,7 +203,7 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD：進階語音原型" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD：進階語音原型設計" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD：進階語音原型 （PDF）</strong></a>
@@ -368,10 +368,10 @@ ht-degree: 0%
   </td>
    <td>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="回應式和動畫 SVG，包括 XD、Illustrator 和 CSS" src="../assets/acrobat_PDF_96.png" />
+      <img alt="回應式 SVG 和動畫 SVG，包括 XD、Illustrator 和 CSS" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>回應式 SVG 和動畫 SVG，包括 XD、Illustrator 和 CSS （PDF）</strong></a>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>回應式和動畫 SVG，包括 XD、Illustrator 和 CSS （PDF）</strong></a>
     </div>
     <em>只需幾行 CSS，即可在 SVG 檔案中新增一些動畫</em>
     <br>

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 關於您對Adobe內容的貢獻
 
-請參閱 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 」。
+請參閱 [ 「Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 」。
 
 您的貢獻方式取決於您是誰以及您想要貢獻的變更類型：
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您為了善意提供微幅更新，請造訪文章並按一下 **文章的「編輯」** 連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 。
 
-您在此存放庫中微幅修正或說明文件及範例程式碼，均受Adobe使用條款所規範。
+您在此存放庫中微幅修正或說明文件及範例程式碼，均受Adobe使用條款規範。
 
 ### 來自社群成員的重大變更或新文章
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### 員工Adobe的重大變更
+### 來自 Adobe 員工的重大變更
 
-如果您是產品團隊中獲得Adobe Experience Cloud解決方案的技術檔撰寫人員、專案經理或開發人員，且您必須貢獻或編寫技術文章，您應該使用私人儲存庫 `https://git.corp.adobe.com/AdobeDocs` ：。
+如果您是產品團隊中需要Adobe Experience Cloud解決方案的技術檔撰寫者、專案經理或開發人員，並且您必須貢獻或編寫技術文章，您應該使用私人儲存庫 `https://git.corp.adobe.com/AdobeDocs` ：。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 

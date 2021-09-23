@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server 軟體提供強大且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，讓您以程式設計方式建立引人入勝的自動化檔
+description: Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -28,7 +28,7 @@ Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用
     <div>
    <a href="indesignserver.md#tutorial1"><strong>資料導向InDesign Server內容</strong></a>
     </div>
-    <em>利用InDesign Server</em>
+    <em>資料驅動型設計可以藉助InDesign Server，程式化地達成</em>
     <br>
   </td>
   <td>

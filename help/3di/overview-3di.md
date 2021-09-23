@@ -17,7 +17,7 @@ ht-degree: 0%
 
 運用高品質模型、材質和照明，更快速地在 3D 中創作引人入勝的內容。 [!DNL Dimension] 輕鬆製作品牌視覺化內容、插圖、產品模型、包裝設計和其他創意作品。
 
-## 按一下以檢視 Adobe 3D 和 VR 教學課程
+## 按一下以檢視Adobe 3D 和 VR 教學課程
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="在具有Adobe的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="在具有 Adobe 的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>在具有Adobe的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension] （PDF）</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>在具有 Adobe 的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension] （PDF）</strong></a>
     </div>
     <em>只要幾分鐘的時間，就能建立最終產品的超逼真呈現方式</em>
     <br>
@@ -70,7 +70,7 @@ ht-degree: 0%
     <div>
    <a href="photorealistic.md"><strong>使用 3D 演算和合成來建立逼真的虛擬攝影</strong></a>
     </div>
-    <em>瞭解如何在 Adobe 中使用 3D 影像合成和演算來建立令人驚豔的感應、逼真的虛擬攝影 [！DNL Dimension]</em>
+    <em>瞭解如何在 Adobe 中使用 3D 影像合成和演算來建立具感應性、逼真的虛擬攝影 [！DNL Dimension]</em>
     <br>
   </td>
   <td>

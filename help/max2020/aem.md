@@ -38,7 +38,7 @@ Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適�
     <div>
    <a href="aem.md#tutorial2"><strong>InDesign託管的檔案AEM</strong></a>
     </div>
-    <em>以AEM方式代管您的InDesign檔，讓多位使用者可以同時建立內容變體</em>
+    <em>以AEM方式代管您的InDesign檔，好讓多位使用者可以同時建立內容變體</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **說明**
-以AEM方式代管您的InDesign檔，好讓多位使用者可以同時建立內容變體。
+以AEM方式代管您的InDesign檔，讓多位使用者可以同時建立內容變體。
 
 在此教學課程中，您將瞭解如何：
 * 將InDesign檔案上傳至AEM以存取常見儲存空間

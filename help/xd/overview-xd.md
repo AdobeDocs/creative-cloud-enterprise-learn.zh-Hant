@@ -48,24 +48,24 @@ Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位�
     <div>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>製作可縮放的電子商務相片，搭配 XD 和 Adobe [！DNL Stock] （PDF）</strong></a>
     </div>
-    <em>結合高解析度攝影和Adobe XD的自動Animate功能，可讓您為網站設計更吸引人的體驗</em>
+    <em>將高解析度攝影與Adobe XD的自動Animate功能結合在一起，可讓您為網站設計更吸引人的體驗</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf">
-      <img alt="為電子商務建立旋轉式產品介面，Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="為電子商務建立旋轉式產品介面，並搭配Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf"><strong>使用 Adobe XD （PDF） 建立電子商務的旋轉產品介面</strong></a>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf"><strong>建立具有 Adobe XD 的旋轉式電子商務產品介面 （PDF）</strong></a>
     </div>
     <em>設計可提供產品旋轉檢視的介面，然後您可以將設計轉變為互動式原型，以精確顯示體驗在網頁或行動裝置上的運作方式</em>
     <br>
   </td>
   <td>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf">
-      <img alt="使用XD設計互動式測驗並製作原型" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
+      <img alt="設計互動式測驗並製作原型，並運用XD" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
    </a>
     <div>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf"><strong>使用 XD 設計互動式測驗並製作原型 （PDF）</strong></a>
@@ -97,12 +97,12 @@ Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位�
   </td>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf">
-      <img alt="透過 XD 設計行動網頁體驗" src="assets/MobileWebExperienceswithXD.jpg" />
+      <img alt="使用 XD 設計行動網頁體驗" src="assets/MobileWebExperienceswithXD.jpg" />
    </a>
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf"><strong>使用 XD （PDF） 設計行動網頁體驗</strong></a>
     </div>
-    <em>運用 Adobe XD，從幕後檢視 Russell Brown MAX Madness 行動網路收藏館的設計流程Adobe XD</em>
+    <em>使用 Adobe XD 讓 Russell Brown MAX Madness 行動網路收藏館的設計流程在幕後搶先看</em>
     <br>
   </td>
   <td>
@@ -112,14 +112,14 @@ Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位�
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>以 Adobe XD 建立行動網頁體驗原型 （PDF）</strong></a>
     </div>
-    <em>體驗設計需要策略、設計以及功能上的原型設計，Adobe XD讓您擁有完成所有工作的力量</em>
+    <em>體驗設計需要策略、設計以及功能型式的原型設計，Adobe XD讓您擁有完成所有工作的力量</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf">
-      <img alt="使用外部文字和圖形在XD中大幅強化「重複格點」" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="使用外部文字和圖形在XD中大幅強化「重複格線」" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>使用外部文字和圖形 （PDF） 在XD中大幅強化重複格點</strong></a>
@@ -129,10 +129,10 @@ Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位�
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf">
-      <img alt="與 Adobe XD 一起拍攝 MAX 的幕後黑手" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+      <img alt="使用 Adobe XD 拍攝 MAX 的幕後黑手" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>使用 Adobe XD （PDF） 拍攝 MAX 的幕後黑手</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>使用 Adobe XD （PDF） 拍攝 MAX 的幕後奇幻影像</strong></a>
     </div>
     <em>提供優化的行動網頁體驗能真正讓使用者產生共鳴</em>
     <br>

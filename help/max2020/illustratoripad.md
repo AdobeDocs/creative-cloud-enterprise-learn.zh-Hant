@@ -23,10 +23,10 @@ iPad 上的 Adobe Illustrator 是針對觸控、Apple Pencil 和 iPad 重新設�
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">
-      <img alt="在 iPad 上Illustrator簡介" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
+      <img alt="在 iPad 上Illustrator入門簡介" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustratoripad.md#tutorial1"><strong>在 iPad 上Illustrator簡介</strong></a>
+   <a href="illustratoripad.md#tutorial1"><strong>在 iPad 上Illustrator入門簡介</strong></a>
     </div>
     <em>建立未壓縮的位置圖示，並將其轉換為可套用至 [！DNL Dimension] 和 Zazzle 專案！</em>
     <br>

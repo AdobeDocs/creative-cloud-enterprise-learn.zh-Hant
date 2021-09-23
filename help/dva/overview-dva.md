@@ -46,7 +46,7 @@ ht-degree: 0%
       <img alt="從Adobe中建立插圖 [！DNL Stock] 含 After Effects 的相片" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>從Adobe中建立插圖 [！DNL Stock] 含 After Effects 的相片 （PDF）</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>從Adobe建立插圖 [！DNL Stock] 含 After Effects 的相片 （PDF）</strong></a>
     </div>
     <em>將「色相/飽和度」和「色階」與「卡通」效果結合在After Effects中，從Adobe中建立獨特的風格化插圖 [！DNL Stock] 相片</em>
     <br>
@@ -90,7 +90,7 @@ ht-degree: 0%
       <img alt="適用于攝影的令人驚豔的光源效果與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>After Effects效果令人驚豔的光源效果 （PDF）</strong></a>
+   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>適用于攝影的令人驚豔的光源特效與After Effects （PDF）</strong></a>
     </div>
     <em>Adobe After Effects中的光源效果可大幅改變相片外觀</em>
     <br>
@@ -107,7 +107,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf">
-      <img alt="使用污點修復筆刷在 Adobe Audition 中快速移除不想要的音訊內容" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+      <img alt="使用污點修復筆刷在Adobe Audition中快速移除不想要的音訊內容" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
    </a>
     <div>
    <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf"><strong>在 Adobe Audition 中使用污點修復筆刷快速移除不想要的音訊內容 （PDF）</strong></a>
@@ -124,12 +124,12 @@ ht-degree: 0%
     <div>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>在您的Creative Cloud Express頁面 （PDF） 中展示您的Creative Cloud Express影片</strong></a>
     </div>
-    <em>Adobe Spark Page可讓您從各種來源載入視訊，包括使用 Creative Cloud Express Video 建立的影片！</em>
+    <em>Adobe Spark Page可讓您從各種來源載入視訊，包括使用 Creative Cloud Express Video 建立的視訊！</em>
     <br>
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="在 Adobe Premiere 中，順暢地結合音樂和對話或旁白與自動閃避 [！DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="在Adobe Premiere中順暢地將音樂和對話或旁白與自動閃避相結合 [！DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere中順暢地將音樂和對話或旁白與自動閃避相結合 [！DNL Rush] Adobe （PDF）</strong></a>

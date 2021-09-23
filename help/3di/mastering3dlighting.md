@@ -89,7 +89,7 @@ ht-degree: 0%
 
 您可以變更定向光源的顏色和強度，以及調整光源的形狀， 最後，您可以柔化光源的邊緣。
 
-![在 Adobe 中修改方向光的形狀 [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
+![在Adobe中修改方向光的形狀 [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
 如果讓光源小於物件，陰影會更銳利，外框會更清晰，因為光線無法經過發亮的物件。 較大型的光源產生較柔的陰影，因為在此情況下，光線來自物件的四面 （下方插圖中標示為紅色），建立陰影陣列。 這些陰影會由來自相反方向的光線柔化。
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
 日光是一種特殊的定向光源。 設定此光的程式非常類似于一般定向光源，但此光會自動變更高度的顏色;當它接近水準 （低高度角度值） 時，會逐漸變暖以模擬日落。 您也可以使用預設集變更顏色。 同時，雲端特性會影響陰影的柔軟度。
 
-![在 Adobe 3D 汽車模型上控制日光光源的照明屬性 [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
+![在 Adobe 中調整 3D 汽車模型上日光光源的照明屬性 [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![月亮上唯一光源是日光的 3D 場景](assets/Mastering3dlighting_16.jpg)
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 ![Vladimir Petkovic 的作品，標題為「Pipe Dreams」 （由 Vladimir Petkovic 創作）](assets/Mastering3dlighting_27.jpg)
 
-Creative光源是實際精准度不是主要目標的地方。 這包含各種抽象和超現實的場景，因此我們的想像力帶給我們沒有真正的界限。
+Creative光源是實際精准度不是主要目標的位置。 這包含各種抽象和超現實的場景，因此我們的想像力帶給我們沒有真正的界限。
 
 在上面的範例中，它的想法是要描繪一個類似夢幻的環境：有創意、貼上顏色和平滑表面。 光源系統是由三個光暈色版 （兩個側邊，另一個從底部閃爍） 組成。 所有光暈的色版都不實際地變大，會建立非常平滑的陰影和亮部。 光源會著色，且該顏色會轉移到場景中物件的指派材質中。
 
