@@ -21,4 +21,4 @@ ht-degree: 0%
 
 [**下載快速參考 PDF 指南**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
-[![快速參考指南第一頁的影像]（assets/GettoknowPhotoshoptheiPadPage1.png）](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[![快速參考指南第一頁的影像]（assets/GettoknowPhotoshopontheiPadPage1.png）](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
