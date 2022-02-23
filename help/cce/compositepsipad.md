@@ -1,5 +1,5 @@
 ---
-title: '使用適用于 iPad 的 Adobe 和Photoshop 建立獨特的複合  [!DNL Stock] '
+title: 使用適用于 iPad 的 Adobe  [!DNL Stock]  和Photoshop 建立獨特的複合
 description: 讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 使用適用于 iPad 的 Adobe 和Photoshop 建立獨特的複合 [!DNL Stock]
+# 使用適用于 iPad 的 Adobe [!DNL Stock] 和Photoshop 建立獨特的複合
 
 讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一。
 
