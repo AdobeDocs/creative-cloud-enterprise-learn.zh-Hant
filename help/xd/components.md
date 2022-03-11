@@ -1,5 +1,5 @@
 ---
-title: 適應 Adobe XD [!UICONTROL  ] 中的元件
+title: 適應組 [!UICONTROL  件 ] 在Adobe XD
 description: 瞭解如何使用 [!UICONTROL  元件 ] 為您的設計工作流程套用速度和一致性提供前所未有的靈活性
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 適應 Adobe XD  中的元件
+# 適應組 [!UICONTROL  件 ] 在Adobe XD
 
 瞭解如何使用 [!UICONTROL  元件 ] ，為您的設計工作流程套用速度和一致性，給予您前所未有的靈活性。
 

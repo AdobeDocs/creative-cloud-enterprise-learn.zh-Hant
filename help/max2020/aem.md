@@ -53,7 +53,7 @@ Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適�
 
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
-**說明**
+**描述**
 使用 Asset Link 即時更新儲存在 AEM 中的資產。
 
 在此教學課程中，您將瞭解如何：
@@ -68,11 +68,11 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
-**說明**
-以AEM方式代管您的InDesign檔，讓多位使用者可以同時建立內容變體。
+**描述**
+以AEM方式代管您的InDesign檔，好讓多位使用者可以同時建立內容變體。
 
 在此教學課程中，您將瞭解如何：
-* 將InDesign檔案上傳至AEM以存取常見儲存空間
+* 將InDesign檔案上傳至AEM以存取一般儲存空間
 * 安全地建立變化，而不必擔心會破壞來源檔案
 * 檔欄位已預先格式化，可快速編輯或變更內容
 
@@ -118,7 +118,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 
 **Asset Link &amp;AEM 資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/experience-manager.html) 是您其他教學課程、新增功能和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/experience-manager.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

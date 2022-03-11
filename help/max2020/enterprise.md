@@ -1,6 +1,6 @@
 ---
 title: 企業管理
-description: 管理整個組織Adobe權益和資產
+description: 在整個組織中管理Adobe權益和資產
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -50,11 +50,11 @@ ht-degree: 3%
 
 **說明:**
 
-探索Adobe Fonts中近 200 個系列，以及Adobe Fonts服務的易用性。
+探索Adobe Fonts中近 200 個家庭，以及Adobe Fonts服務的易用性。
 
 在此教學課程中，您將瞭解如何：
 * 使用功能強大的流覽介面，輕鬆快速地找到正確的字型
-* 使用原生Creative Cloud整合節省時間和金錢
+* 使用原生Creative Cloud整合節省時間與金錢
 * 在Adobe Admin Console單一位置管理所有字型
 
 **顯示者：**

@@ -1,5 +1,5 @@
 ---
-title: 透過自訂動畫，Adobe讓創意栩栩如生 [!DNL Stock]
+title: 透過Adobe自訂動畫，讓創意作品栩栩如生 [!DNL Stock]
 description: 使用Adobe  [!DNL Stock]  影像、紋理、圖樣來自訂Photoshop
 role: User
 level: Beginner, Intermediate
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 透過自訂動畫，Adobe讓創意栩栩如生 [!DNL Stock]
+# 透過Adobe自訂動畫，讓創意作品栩栩如生 [!DNL Stock]
 
 使用Adobe [!DNL Stock] 影像、紋理、圖樣來自訂Photoshop中的動畫。
 

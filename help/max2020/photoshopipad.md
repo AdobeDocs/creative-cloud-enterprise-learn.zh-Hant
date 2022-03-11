@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/PSoniPad.jpg)
 
-Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人士在各種裝置上無限發揮創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
+Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專業人員提供不限數量的創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
 
 ## 流覽產品教學課程
 
@@ -23,12 +23,12 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="在 iPad 上Photoshop入門簡介" src="../assets/PSiPad_thumbnail.jpg" />
+      <img alt="在 iPad 上Photoshop簡介" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
-   <a href="photoshopipad.md#tutorial1"><strong>在 iPad 上Photoshop入門簡介</strong></a>
+   <a href="photoshopipad.md#tutorial1"><strong>在 iPad 上Photoshop簡介</strong></a>
     </div>
-    <em>進行介面導覽，並瞭解在 Apple iPad 上重新設計Photoshop使用中的一些功能</em>
+    <em>進行介面導覽，瞭解 Photoshop專為在 Apple iPad 上使用而重新發想的一些功能</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
-**說明**
+**描述**
 進行介面導覽，並瞭解 Photoshop重新設計用於 Apple iPad 上的一些功能。
 
 在此教學課程中，您將瞭解如何：
@@ -64,7 +64,7 @@ Dan Portable，解決方案顧問 （數位媒體）
 
 **Photoshop iPad 資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/photoshop.html) 是您其他教學課程和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -43,24 +43,24 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf">
-      <img alt="從Adobe中建立插圖 [！DNL Stock] 含 After Effects 的相片" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="使用After Effects從Adobe [!DNL Stock] 相片建立插圖" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>從Adobe建立插圖 [！DNL Stock] 含 After Effects 的相片 （PDF）</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>使用 After Effects （PDF） 從Adobe [!DNL Stock] 相片建立插圖</strong></a>
     </div>
-    <em>將「色相/飽和度」和「色階」與「卡通」效果結合在After Effects中，從Adobe中建立獨特的風格化插圖 [！DNL Stock] 相片</em>
+    <em>將「色相/飽和度」和「色階」與「卡通」效果結合在After Effects中，從Adobe [!DNL Stock] 相片中建立獨特的風格化插圖</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf">
-      <img alt="在 Adobe Premiere 中使用動態圖形範本建立動畫標題 [！DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
+      <img alt="在 Adobe Premiere 中使用動態圖形範本建立動畫標題 [!DNL Rush]" src="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>在 Adobe Premiere 中使用動態圖形範本建立動畫標題 [！DNL Rush] （PDF）</strong></a>
+   <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>在 Adobe Premiere [!DNL Rush] 中使用動態圖形範本建立動畫標題 （PDF）</strong></a>
     </div>
-    <em>透過新增適合您故事或符合個人品牌的專業設計動態圖形範本，讓您的影片看起來更出色</em>
+    <em>透過新增符合您故事內容或符合個人品牌的專業設計動態圖形範本，讓您的影片看起來更出色</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf"><strong>在 After Effects 中使用索引鍵在相片中建立複雜的透明度 （PDF）</strong></a>
     </div>
-    <em>金鑰相當適合用於視訊，對於設計專案需要您的相片來說，也是一大利器。</em>
+    <em>去背功能相當常用於影片，對於設計專案需要您的相片來說，也是一大利器。</em>
     <br>
   </td>
 </tr>
@@ -90,7 +90,7 @@ ht-degree: 0%
       <img alt="適用于攝影的令人驚豔的光源效果與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>適用于攝影的令人驚豔的光源特效與After Effects （PDF）</strong></a>
+   <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf"><strong>配備After Effects （PDF） 的攝影效果令人驚豔</strong></a>
     </div>
     <em>Adobe After Effects中的光源效果可大幅改變相片外觀</em>
     <br>
@@ -107,34 +107,34 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf">
-      <img alt="使用污點修復筆刷在Adobe Audition中快速移除不想要的音訊內容" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+      <img alt="使用污點修復筆刷在 Adobe Audition 中快速移除不想要的音訊內容" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
    </a>
     <div>
    <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf"><strong>在 Adobe Audition 中使用污點修復筆刷快速移除不想要的音訊內容 （PDF）</strong></a>
     </div>
-    <em>您知道污點修復筆刷Adobe Photoshop能讓您在Adobe Audition從音訊檔案中移除分散注意力的聲音嗎？</em>
+    <em>您知道污點修復筆刷Adobe Photoshop能讓您在Adobe Audition中移除音訊檔案中分散注意力的聲音嗎？</em>
     <br>
   </td>
 </tr>
 <tr>
    <td>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf">
-      <img alt="在「Creative Cloud Express頁」中展示您的Creative Cloud Express影片" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
+      <img alt="在您的「Creative Cloud Express頁」中展示您的Creative Cloud Express影片" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
    </a>
     <div>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>在您的Creative Cloud Express頁面 （PDF） 中展示您的Creative Cloud Express影片</strong></a>
     </div>
-    <em>Adobe Spark Page可讓您從各種來源載入視訊，包括使用 Creative Cloud Express Video 建立的視訊！</em>
+    <em>Adobe Spark Page可讓您從各種來源載入視訊，包括使用 Creative Cloud Express Video 建立的影片！</em>
     <br>
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="在Adobe Premiere中順暢地將音樂和對話或旁白與自動閃避相結合 [！DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="在Adobe Premiere [!DNL Rush] Adobe中，透過自動閃避流暢地結合音樂和對話或旁白" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere中順暢地將音樂和對話或旁白與自動閃避相結合 [！DNL Rush] Adobe （PDF）</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere [!DNL Rush] Adobe （PDF） 中順暢地結合音樂和對話或旁白及自動閃避</strong></a>
     </div>
-    <em>Adobe Premiere [！DNL Rush] 在簡單易用的應用程式中提供進階視訊編輯功能，讓任何人都可以在幾分鐘內建立專業品質的視訊</em>
+    <em>[!DNL Rush]Adobe Premiere在簡單易用的應用程式中提供進階的視訊編輯功能，因此任何人都可以在幾分鐘內建立專業品質的視訊</em>
     <br>
   </td>
 </tr>

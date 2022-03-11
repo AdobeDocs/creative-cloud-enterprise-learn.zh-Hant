@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 6%
       <img alt="Acrobat &amp;Adobe Sign" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat &amp; Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat &amp;Adobe Sign</strong></a>
     </div>
     <em>建立、編輯和簽署 PDF 檔和表格</em>
     <br>
@@ -134,10 +134,10 @@ ht-degree: 6%
   </td>
   <td>
     <a href="illustratoripad.md">
-      <img alt="在 iPad 上Illustrator" src="../assets/AIoniPad.jpg" />
+      <img alt="iPad 版 Illustrator" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>在 iPad 上Illustrator</strong></a>
+    <a href="illustratoripad.md"><strong>iPad 版 Illustrator</strong></a>
     </div>
     <em>向量圖形和插圖</em>
     <br>
@@ -176,7 +176,7 @@ ht-degree: 6%
       <img alt="AEM Assets &amp; Asset Link" src="../assets/AEM.jpg" />
     </a>
     <div>
-    <a href="aem.md"><strong>AEM Assets和 Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
     </div>
     <em>新一代數位資產管理</em>
     <br>
@@ -218,7 +218,7 @@ ht-degree: 6%
       <img alt="Adobe Stock" src="../assets/Stock.jpg" />
     </a>
     <div>
-    <a href="stock.md"><strong>Adobe [！DNL Stock]</strong></a>
+    <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
     <em>高品質數位影像、插圖、影片、音訊、範本等</em>
     <br>
@@ -242,7 +242,7 @@ ht-degree: 6%
     <div>
     <a href="handsonproject.md"><strong>建立您自己的臉孔遮色片</strong></a>
     </div>
-    <em>透過「Adobe設計以列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈至其線上市集</em>
+    <em>透過Adobe設計以列印增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈至其線上市集</em>
     <br>
   </td>
   <td>

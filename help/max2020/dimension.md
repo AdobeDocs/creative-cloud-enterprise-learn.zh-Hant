@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
    <a href="dimension.md#tutorial1"><strong>將Substance 3D材質套用至3D 模型</strong></a>
     </div>
-    <em>Substance 3D材質在單一材質中支援數千種圖樣和設計。</em>
+    <em>Substance 3D材質可在單一材質中支援數千種變體的圖樣和設計</em>
     <br>
   </td>
   <td>

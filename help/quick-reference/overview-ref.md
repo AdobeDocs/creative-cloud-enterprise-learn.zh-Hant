@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1254'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
    <a href="ScanShareandReviewPDFswithCreativeCloud.pdf"><strong>使用 Creative Cloud 掃描、共用和審核 PDF （PDF）</strong></a>
     </div>
-    <em>瞭解如何使用Adobe Scan和Document Cloud來擷取、裁切紙本表格並將其轉換為功能完整的 PDF 檔案，然後使用Acrobat來填寫、簽署和分享您的資訊</em>
+    <em>瞭解如何使用 Adobe Scan 和Document Cloud來擷取、裁切紙本表格並將其轉換為功能完整的 PDF 檔案，然後使用 Acrobat 來填寫、簽署和分享您的資訊</em>
     <br>
   </td>
  <td>
@@ -51,18 +51,18 @@ ht-degree: 0%
     <div>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf"><strong>使用 Creative Cloud 拍攝、編輯、發佈您的相片 （PDF）</strong></a>
     </div>
-    <em>在行動裝置上探索Lightroom的驚人功能，展現影像中的最佳效果</em>
+    <em>在行動裝置上探索Lightroom的出色功能，展現影像中的最佳效果</em>
     <br>
   </td>
 </tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
-      <img alt="Sketch、構圖和完成手冊版面，並搭配Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Sketch、構圖和以Creative Cloud完成手冊版面" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>使用 Creative Cloud （PDF） Sketch、構圖和完成手冊版面</strong></a>
+   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>使用 Creative Cloud （PDF） Sketch、構圖和完成手冊版面配置</strong></a>
     </div>
-    <em>透過Adobe Comp，在行動裝置上快速探索印刷、網頁、行動裝置或社交網站的版面構想</em>
+    <em>透過Adobe Comp，在行動裝置上快速探索印刷、網頁、行動裝置或社交媒體的版面構想</em>
     <br>
   </td>
   <td>
@@ -90,7 +90,7 @@ ht-degree: 0%
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>使用 Creative Cloud Express 建立、編輯和共用網頁 （PDF）</strong></a>
     </div>
-    <em>使用簡單直覺易用的工具，從Adobe建立互動式、回應式且啟用 Lightbox 的相片格點，Adobe Creative Cloud Express和精美影像 [！DNL Stock]</em>
+    <em>使用簡單直覺的工具，從中Adobe Creative Cloud Express和精美影像，為您的網頁建立互動式、回應式且啟用 Lightbox 的相片格點Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -137,19 +137,19 @@ ht-degree: 0%
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>使用 Photoshop 建立電影 （PDF）</strong></a>
     </div>
-    <em>結合來自 Adobe 的影片 [！DNL Stock] 採用巧妙的Photoshop遮色片技術。 利用動態和策略性迴圈點，讓您的影像栩栩如生</em>
+    <em>透過在Photoshop中運用巧妙的遮色片技巧，結合Adobe [!DNL Stock] 的影片，製作出一張活相片。 利用動態和策略性迴圈點，讓您的影像栩栩如生</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
-      <img alt="使用 Photoshop + After Effects 製作令人歎為觀止的圖形" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用 Photoshop + After Effects 建立令人歎為觀止的圖形" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>使用 Photoshop + After Effects （PDF） 建立令人歎為觀止的圖形</strong></a>
+   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>使用 Photoshop + After Effects 建立令人歎為觀止的圖形 （PDF）</strong></a>
     </div>
-    <em>使用常用的視訊技巧，在After Effects中快速移除相片中的背景顏色，為您的設計專案建立獨特的合成相片</em>
+    <em>使用常用的視訊技術，在After Effects中快速移除相片中的背景顏色，為您的設計專案建立獨特的合成相片</em>
     <br>
   </td>
   <td>
@@ -157,9 +157,9 @@ ht-degree: 0%
       <img alt="在 iPad 上Photoshop瞭解" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GettoknowPhotoshopontheiPad.pdf"><strong>認識 iPad 版Photoshop （PDF）</strong></a>
+   <a href="GettoknowPhotoshopontheiPad.pdf"><strong>在 iPad （PDF） 上Photoshop瞭解</strong></a>
     </div>
-    <em>使用重新工程的觸控式介面，讓Photoshop的力量觸手可及</em>
+    <em>使用再工程的觸控式介面，讓Photoshop功能觸手可及</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ ht-degree: 0%
       <img alt="在 iPad （和 iPhone） 上試試Fresco手" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="Frescoworkshop.pdf"><strong>在 iPad （和 iPhone） （PDF） 上Fresco用手動</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>在 iPad （和 iPhone） （PDF） 上試試Fresco手</strong></a>
     </div>
     <em>在這場 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界</em>
     <br>
@@ -203,7 +203,7 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD：進階語音原型設計" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD：進階語音原型" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD：進階語音原型 （PDF）</strong></a>
@@ -218,7 +218,7 @@ ht-degree: 0%
     <div>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>共同編輯：使用 Adobe XD 進行即時設計協作 （PDF）</strong></a>
     </div>
-    <em>學習使用專為Adobe XD和Creative Cloud打造的獨一無二的共用工具，與同事、客戶和開發人員在互動式原型上共同作業</em>
+    <em>學習使用專為Adobe XD和開發人員打造的獨一無二的共用工具，與同事、客戶和開發人員共同處理互動式原型Creative Cloud</em>
     <br>
   </td>
   <td>
@@ -228,17 +228,17 @@ ht-degree: 0%
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>使用 Creative Cloud 設計互動式專案並製作原型 （PDF）</strong></a>
     </div>
-    <em>在短短幾分鐘內，將Adobe XD與各種獨特、多元的資產合併到 Adobe 上，即可建立完全互動、動畫化的使用者體驗 [！DNL Stock]</em>
+    <em>只要幾分鐘即可建立完全互動、動畫化的使用者體驗，只要將Adobe XD與各式各樣獨特、多元的資產結合起來Adobe [!DNL Stock]</em>
     <br>
   </td>
  </tr>
  <tr>
   <td>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="讓我們XD – 瞭解如何設計團隊、製作原型和交出作品" src="../assets/acrobat_PDF_96.png" />
+      <img alt="讓我們XD– 瞭解如何設計團隊、製作原型和交出作品" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>讓我們XD – 瞭解如何設計團隊、製作原型和交出作品 （PDF）</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>讓我們XD – 瞭解如何設計團隊、製作原型及交出作品 （PDF）</strong></a>
     </div>
     <em>元件為您的設計工作流程套用速度和一致性，給予您前所未有的靈活性</em>
     <br>
@@ -262,44 +262,44 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
-      <img alt="透過合併Adobe來建立唯一圖形 [！DNL Stock] 影像" src="../assets/acrobat_PDF_96.png" />
+      <img alt="透過合併Adobe影像建立唯一 [!DNL Stock] 圖形" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>透過合併Adobe來建立唯一圖形 [！DNL Stock] 影像 （PDF）</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>透過合併Adobe影像來建立唯一 [!DNL Stock] 圖形 （PDF）</strong></a>
     </div>
-    <em>從 Adobe [！DNL Stock] 為您的設計專案建立全新影像</em>
+    <em>從Adobe將影像 [!DNL Stock] 合併在一起，為您的設計專案建立全新影像</em>
     <br>
   </td>
   <td>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf">
-      <img alt="使用獨特的專案和Adobe來增強您的作品集 [！DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用獨特的專案和Adobe來增強您的作品集 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>使用獨特的專案和Adobe [！DNL Stock] （PDF）</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>使用獨特的專案和Adobe [!DNL Stock] （PDF） 增強您的作品集</strong></a>
     </div>
-    <em>從 Adobe [！DNL Stock] 為您的設計專案建立全新影像</em>
+    <em>從Adobe將影像 [!DNL Stock] 合併在一起，為您的設計專案建立全新影像</em>
     <br>
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf">
-      <img alt="透過 Adobe 的「動態」獲得更多注意力 [！DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="透過Adobe的「動態」獲得更多注意力 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>透過 Adobe 的「動態」獲得更多注意力 [！DNL Stock] （PDF）</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>透過從 Adobe 取得「動態」 [!DNL Stock] 獲得更多注意力 （PDF）</strong></a>
     </div>
-    <em>[!DNL Capture] 透過將攝影與Adobe影片結合，在任何螢幕上吸引觀眾的注意力 [！DNL Stock]</em>
+    <em>[!DNL Capture] 透過將攝影與來自Adobe的視訊相結合，在任何螢幕上吸引觀眾的注意力 [!DNL Stock]</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
-      <img alt="使用 Adobe 來展示您的資料 [！DNL Stock] 動態圖形範本" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用Adobe [!DNL Stock] 動態圖形範本展示您的資料" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>使用 Adobe 來展示您的資料 [！DNL Stock] 動態圖形範本 （PDF）</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>使用Adobe [!DNL Stock] 動態圖形範本 （PDF） 展示您的資料</strong></a>
     </div>
-    <em>使用 Adobe 的動態圖形範本新增動態圖形範本 [！DNL Stock]</em>
+    <em>使用動態圖形範本從Adobe中加入動態圖形範本，以更有影響力的方式呈現資料Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -309,17 +309,17 @@ ht-degree: 0%
     <div>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>在真實世界中展現您的設計作品 （PDF）</strong></a>
     </div>
-    <em>學習使用 Adobe 的真實世界範本來模擬您的設計作品 [！DNL Stock]</em>
+    <em>瞭解如何使用 Adobe 的真實世界範本來模擬您的設計作品 [!DNL Stock]</em>
     <br>
   </td>
 <td>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf">
-      <img alt="使用 Adobe 在電子郵件中建立動畫的秘訣 [！DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用 Adobe 在電子郵件中建立動畫的秘訣 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>使用 Adobe 在電子郵件中建立動畫的秘訣 [！DNL Stock] （PDF）</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>使用 Adobe 在電子郵件中建立動畫的 [!DNL Stock] 秘訣 （PDF）</strong></a>
     </div>
-    <em>在Photoshop中將靜態影像和視訊結合在一起，為您的行銷活動建立引人入勝的動畫 GIF，適用于各種客戶電子郵件應用程式</em>
+    <em>將靜態影像和視訊結合在Photoshop中，為您的行銷活動建立引人入勝的動畫 GIF，適用于各種客戶電子郵件應用程式</em>
     <br>
   </td>
 </tr>
@@ -331,12 +331,12 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="使用Creative Cloud建立精美的印刷樣式" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用 Creative Cloud 建立精美的印刷樣式" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>無限Adobe Fonts隨手可得 （PDF）</strong></a>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>無限Adobe Fonts任您隨手取用 （PDF）</strong></a>
     </div>
-    <em>[!DNL Capture] 使用 Adobe [！在行動裝置上使用 DNL Capture] ，然後使用 Adobe Fonts 和 Creative Cloud Libraries 識別及啟用及儲存相似字體</em>
+    <em>[!DNL Capture] 在真實世界中使用行動裝置上的Adobe [!DNL Capture] 使用有趣的字體，然後使用Adobe Fonts和Creative Cloud資料庫來識別和啟用和儲存相似字體</em>
     <br>
   </td>
    <td>
@@ -358,20 +358,20 @@ ht-degree: 0%
 <tr>
    <td>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="使用適用于 iPad 的 Illustrator 使用影像和形狀建立複合影像" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用適用于 iPad 的 Illustrator 使用影像和形狀建立合成" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>使用適用于 iPad 的 Illustrator 建立影像和形狀的複合 （PDF）</strong></a>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>使用適用于 iPad 的 Illustrator 建立影像和形狀合成 （PDF）</strong></a>
     </div>
     <em>Illustrator可讓您以與文字樣式相同的方式為圖稿設定樣式</em>
     <br>
   </td>
    <td>
    <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="回應式 SVG 和動畫 SVG，包括 XD、Illustrator 和 CSS" src="../assets/acrobat_PDF_96.png" />
+      <img alt="回應式和動畫 SVG，包括 XD、Illustrator 和 CSS" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>回應式和動畫 SVG，包括 XD、Illustrator 和 CSS （PDF）</strong></a>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>回應式 SVG 和動畫 SVG，包括 XD、Illustrator 和 CSS （PDF）</strong></a>
     </div>
     <em>只需幾行 CSS，即可在 SVG 檔案中新增一些動畫</em>
     <br>
@@ -390,12 +390,12 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf">
-      <img alt="使用 Adobe 建立逼真的 3D 模型 [！DNL Stock] 和 [！DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="使用 Adobe [!DNL Stock] 和 [!DNL Dimension]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>使用 Adobe 建立逼真的 3D 模型 [！DNL Stock] 和 [！DNL Dimension] （PDF）</strong></a>
+   <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>使用 Adobe 和 [!DNL Dimension] （PDF） 建立逼真的 3D 模型 [!DNL Stock]</strong></a>
     </div>
-    <em>透過合併來自 Adobe 的 3D 模型，瞭解您的設計如何轉換為真實世界的物件 [！[！DNL Dimension]</em>
+    <em>透過將來自 [!DNL Stock] Adobe的 3D 模型與自訂貼花合併在內，瞭解您的設計如何轉換為真實世界的物件 [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -405,7 +405,7 @@ ht-degree: 0%
     <div>
    <a href="SkiptheShootGettheShot.pdf"><strong>跳過拍攝 — 取得相片 （PDF）</strong></a>
     </div>
-    <em>在 [！DNL Dimension] 使用材質、環境屬性、照明和攝影，為任何設計專案製作逼真的影像</em>
+    <em>使用材質、環境屬性、照明和攝影，自訂 3D 模型 [!DNL Dimension] 並建立品牌，為任何設計專案建立逼真的影像</em>
     <br>
   </td>
   <td>
@@ -432,7 +432,7 @@ ht-degree: 0%
   </td>
  <td>
    <a href="IntrotoAnimationwithAfterEffects.pdf">
-      <img alt="After Effects動畫簡介" src="../assets/acrobat_PDF_96.png" />
+      <img alt="After Effects的動畫簡介" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="IntrotoAnimationwithAfterEffects.pdf"><strong>After Effects動畫簡介 （PDF）</strong></a>
@@ -458,7 +458,7 @@ ht-degree: 0%
     <div>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf"><strong>使用 Creative Cloud 拍攝、編輯、發佈您的相片 （PDF）</strong></a>
     </div>
-    <em>在 Premiere 中使用便於使用的編輯工具和動態圖形範本，將影片和動態圖形結合在一起，為社交媒體講述引人入勝的故事 [！DNL Rush]</em>
+    <em>在 Premiere 中使用便於使用的編輯工具和動態圖形範本，將影片和動態圖形結合在一起，為社交媒體講述引人入勝的故事。 [!DNL Rush]</em>
     <br>
   </td>
   <td>

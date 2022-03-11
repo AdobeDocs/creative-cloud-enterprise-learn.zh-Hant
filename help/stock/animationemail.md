@@ -1,6 +1,6 @@
 ---
-title: '建立包含Adobe和Photoshop的電子郵件動畫  [!DNL Stock] '
-description: '運用Adobe和Photoshop讓電子郵件具有停止動作動畫  [!DNL Stock] '
+title: 使用Adobe和Photoshop  [!DNL Stock]  建立電子郵件動畫
+description: 運用Adobe和Photoshop  [!DNL Stock]  讓電子郵件具有停止動作動畫
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 建立包含Adobe和Photoshop的電子郵件動畫 [!DNL Stock]
+# 使用Adobe和Photoshop [!DNL Stock] 建立電子郵件動畫
 
-使用Adobe和Photoshop功能，為您的電子郵件賦予停止動作動畫的能力 [!DNL Stock] 。
+使用Adobe和Photoshop [!DNL Stock] 功能，為您的電子郵件賦予停止動作動畫的能力。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

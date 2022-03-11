@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/DC.jpg)
 
-透過 Adobe Document Cloud （包括全球領先的 PDF 和電子簽名解決方案），您可以將手動的檔流程轉變為高效的數位流程。 現在，您的團隊可以隨時隨地跨多個螢幕和裝置，在您最愛的 Microsoft 和企業應用程式中快速處理檔、工作流程和任務。
+藉助 Adobe Document Cloud （包括全球領先的 PDF 和電子簽名解決方案），您可以將手動檔流程轉變為高效的數位流程。 現在，您的團隊可以隨時隨地跨多個螢幕和裝置，在您最愛的 Microsoft 和企業應用程式中快速處理檔、工作流程和任務。
 
 ## 流覽產品教學課程
 
@@ -23,10 +23,10 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="起始Acrobat共用審核」" src="../assets/acrobat_sharedreview_armstrong.jpg" />
+      <img alt="啟動Acrobat共用審核" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>起始Acrobat共用審核」</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>啟動Acrobat共用審核</strong></a>
     </div>
     <em>邀請審核者將其注釋新增至 PDF 檔</em>
     <br>
@@ -36,17 +36,17 @@ ht-degree: 0%
         <img alt="使用Adobe Sign建立線上免責聲明書" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>使用 Adobe Sign 建立線上免責聲明書</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>使用Adobe Sign建立線上免責聲明書</strong></a>
     </div>
     <em>快速將檔轉換為線上表格，並將其張貼到線上，需要檔的任何人都可以填寫和簽署</em>
     <br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="使用Adobe Sign索取簽名" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
+      <img alt="使用 Adobe Sign 索取簽名" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
    </a>
     <div>
-    <a href="acrobat-sign.md#tutorial3"><strong>使用Adobe Sign索取簽名</strong></a>
+    <a href="acrobat-sign.md#tutorial3"><strong>使用 Adobe Sign 索取簽名</strong></a>
     </div>
     <em>將 Word 轉換為 PDF，並使用 Adobe Sign 傳送以索取簽名</em>
     <br>
@@ -70,7 +70,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>從行動電話將檔掃描成 PDF</strong></a>
     </div>
-    <em>透過Adobe Scan，輕鬆擷取檔、表格、名片和白板，並將其轉換為高品質Adobe PDF</em>
+    <em>透過Adobe Scan，輕鬆擷取檔、表格、名片和白板轉換為高品質的Adobe PDF</em>
     <br>
   </td>
   <td>
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
-**說明**
+**描述**
 邀請審核者將其注釋新增至 PDF 檔。
 
 在此教學課程中，您將瞭解如何：
@@ -105,7 +105,7 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
-**說明**
+**描述**
 快速將檔轉換為線上表格，並將其張貼到線上，需要檔的任何人都可以填寫和簽署。
 
 在此教學課程中，您將瞭解如何：
@@ -117,11 +117,11 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 Taylor Portabley，解決方案顧問 （數位媒體）
 ──Emily， Solutions Consultant （數位媒體）
 
-## 使用 Adobe Sign 索取簽名 （3：21） {#tutorial3}
+## 使用Adobe Sign索取簽名 （3：21） {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
-**說明**
+**描述**
 將 Word 轉換為 PDF，並使用 Adobe Sign 傳送以索取簽名。
 
 在此教學課程中，您將瞭解如何：
@@ -134,7 +134,7 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
-**說明**
+**描述**
 使用 Liquid Mode 增強行動裝置上 PDF 的閱讀器體驗。
 
 在此教學課程中，您將瞭解如何：
@@ -149,13 +149,13 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
-**說明**
-透過Adobe Scan，輕鬆擷取檔、表格、名片和白板，並將其轉換為高品質Adobe PDF。
+**描述**
+透過Adobe Scan，輕鬆擷取檔、表格、名片和白板，並將其轉換為高品質的Adobe PDF。
 
 在此教學課程中，您將瞭解如何：
 * 使用行動電話擷取檔、表格、名片和白板，並將其轉換為高品質Adobe PDF
 * 自動識別並銳利化手寫或列印文字，同時移除不需要的元素，例如眩光和陰影
-* 在 Acrobat Reader 中開啟掃描的 PDF，以提供批註和注釋，並與團隊一起審核
+* 在Acrobat Reader中開啟掃描的 PDF，以提供批註和注釋，並與您的團隊一起審核
 
 **顯示者：**
 ──Emilie Enke，數位媒體副解決方案顧問
@@ -164,7 +164,7 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 **Acrobat與Adobe Sign資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/document-cloud.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/acrobat/using/whats-new.html) 和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/document-cloud.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/acrobat/using/whats-new.html) 功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

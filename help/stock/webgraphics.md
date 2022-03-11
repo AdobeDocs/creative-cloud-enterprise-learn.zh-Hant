@@ -1,5 +1,5 @@
 ---
-title: 將Adobe影像與 CSS 合併，建立引人入勝  [!DNL Stock]  的網頁圖形
+title: 結合 CSS 組合Adobe  [!DNL Stock]  構想，建立引人入勝的網頁圖形
 description: 透過在廣告宣傳活動中結合顏色和漸層，建立各種影像的品牌統一
 role: User
 level: Beginner, Intermediate
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 將Adobe影像與 CSS 合併，建立引人入勝 [!DNL Stock] 的網頁圖形
+# 將Adobe [!DNL Stock] 影像與 CSS 合併，建立引人入勝的網頁圖形
 
 透過在整個廣告宣傳活動中結合顏色和漸層，建立各種影像的品牌統一。
 

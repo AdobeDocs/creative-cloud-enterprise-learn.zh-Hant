@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔
+description: ® Adobe Adobe InDesign® Server 軟體提供了強大且可擴充的引擎，利用InDesign的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/InDesignServer.jpg)
 
-Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，讓您以程式設計方式建立引人入勝的自動化檔。
+® Adobe Adobe InDesign® Server 軟體提供健全且可擴充的引擎，利用InDesign的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔。
 
 ## 流覽產品教學課程
 
@@ -28,7 +28,7 @@ Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用
     <div>
    <a href="indesignserver.md#tutorial1"><strong>資料導向InDesign Server內容</strong></a>
     </div>
-    <em>資料驅動型設計可以藉助InDesign Server，程式化地達成</em>
+    <em>資料驅動型設計可以藉助InDesign Server</em>
     <br>
   </td>
   <td>
@@ -48,8 +48,8 @@ Adobe Adobe® InDesign® Server 軟體提供健全且可擴充的引擎，利用
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
-**說明**
-資料驅動型設計可以藉助InDesign Server程式化地實現。
+**描述**
+資料驅動型設計可以藉助InDesign Server程式化實現。
 
 在此教學課程中，您將瞭解如何：
 * 建立具備預先格式化文字或物件樣式的InDesign範本
@@ -95,7 +95,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 
 **InDesign Server資源**
 
-[學習與支援 ](https://www.adobe.com/products/indesignserver.html) 是您其他教學課程、新增功能和社群論壇連結的中樞。
+[](https://www.adobe.com/products/indesignserver.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

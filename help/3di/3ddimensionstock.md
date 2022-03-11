@@ -1,19 +1,19 @@
 ---
-title: 使用和Adobe自訂 3D 模型並建立品牌  [!DNL Dimension]  [!DNL Stock]
-description: ' [!DNL [!DNL Dimension]] 使用材質、環境屬性、照明和攝影，自訂 3D 模型並建立品牌，為任何設計專案建立逼真的影像'
+title: 使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]
+description: 在 [！DNLusing  [!DNL Dimension]]  材質、環境屬性、照明和攝影，為任何設計專案建立逼真的影像
 role: User
 level: Beginner, Intermediate
 exl-id: 27eb25b1-f0ef-478d-b36f-bcbf8be616b0
 source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# 使用和Adobe自訂 3D 模型並建立品牌 [!DNL Dimension][!DNL Stock]
+# 使用和Adobe自訂 3D 模型 [!DNL Dimension] 並建立品牌化 [!DNL Stock]
 
-[!DNL Dimension]使用材質、環境屬性、照明和攝影，為 3D 模型自訂並建立品牌，為任何設計專案建立逼真的影像。
+使用材質、環境屬性、照明和攝影，為 3D 模型 [!DNL Dimension] 自訂並建立品牌，為任何設計專案建立逼真的影像。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
-title: 使用以 Adobe 和 Creative Cloud Express 影片建立的影片，開始您的年度  [!DNL Stock]  報告
-description: '利用 Adobe 和 Creative Cloud Express 影片，讓您的年度報告成為故事  [!DNL Stock] '
+title: 使用 Adobe 和 Creative Cloud Express  [!DNL Stock]  影片所製作的影片，開始您的年度報告
+description: 使用 Adobe 和 Creative Cloud Express  [!DNL Stock]  影片，讓您的年度報告成為故事
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用以 Adobe 和 Creative Cloud Express 影片建立的影片，開始您的年度 [!DNL Stock] 報告
+# 使用以 Adobe 和 Creative Cloud Express 影片建立的 [!DNL Stock] 影片，開始您的年度報告
 
-利用 Adobe 和 Creative Cloud Express 影片，讓您的年度報告成為故事 [!DNL Stock] 。
+利用 Adobe 和 Creative Cloud Express [!DNL Stock] 影片，讓您的年度報告成為故事。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

@@ -50,7 +50,7 @@ Creative Cloud</strong></a>
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
-**說明**
+**描述**
 Creative Cloud 桌面應用程式是您管理 CC 應用程式、服務和協作等的中樞！
 
 在此教學課程中，您將瞭解如何：

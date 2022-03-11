@@ -1,6 +1,6 @@
 ---
 title: 使用遮色片和動畫為印刷樣式增添風格
-description: 利用來自 After Effects Adobe  [!DNL Stock]  元素和動畫樣式的元素，讓文字栩栩如生After Effects
+description: 利用來自 After Effects Adobe  [!DNL Stock]  和動畫樣式的元素，讓文字栩栩如生
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg

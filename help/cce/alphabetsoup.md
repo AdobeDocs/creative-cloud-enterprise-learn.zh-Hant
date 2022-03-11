@@ -23,4 +23,4 @@ JPG、PNG、SVG、GIF 和 EPS 檔案都是設計中常用的檔案，有些是�
 
 [**下載快速參考 PDF 指南**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![快速參考指南第一頁的影像]（assets/DecodingthealphabetsoupofgraphicformatsPage1.png）](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![快速參考指南第一頁的影像]（assets/DecodingtheAlphabetsoupofgraphicformatsPage1.png）](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

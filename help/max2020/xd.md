@@ -1,6 +1,6 @@
 ---
 title: XD
-description: Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位體驗類型的使用者體驗設計和原型製作工具。
+description: Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數位體驗
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/XD.jpg)
 
-Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位體驗類型的使用者體驗設計和原型製作工具。
+Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數位體驗。
 
 ## 流覽產品教學課程
 
@@ -110,11 +110,11 @@ Adobe XD 是設計網站、應用程式、語音介面、遊戲和其他數位�
 </tr>
 </table>
 
-## 建立  具有游標狀態的元件 （7：35） {#tutorial1}
+## 建立 [!UICONTROL  具有游標狀態的元件 ] （7：35） {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
-**說明**
+**描述**
 為您的互動式設計建立可重複使用、可動態調整大小的按鈕。
 
 在此教學課程中，您將瞭解如何：
@@ -128,7 +128,7 @@ Michael Murphy，數位媒體資深解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
-**說明**
+**描述**
 透過簡單的點選和拖曳，將單一元素轉換為重複的格點。
 
 在此教學課程中，您將瞭解如何：
@@ -137,13 +137,13 @@ Michael Murphy，數位媒體資深解決方案顧問
 * 進行變更一次，然後在您喜歡的位置套用，可朝任何方向進行
 
 **顯示者：**
-Ashley Dvorin，資深解決方案顧問 （數位媒體）
+Ashley Dvorin，資深解決方案顧問 （Digital Media）
 
 ## 使用堆疊 （5：33） {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
-**說明**
+**描述**
 使用堆疊屬性輕鬆重新排列元素。
 
 在此教學課程中，您將瞭解如何：
@@ -153,11 +153,11 @@ Ashley Dvorin，資深解決方案顧問 （數位媒體）
 **顯示者：**
 Michael Murphy，數位媒體資深解決方案顧問
 
-## 建立原型 — 錨點連結和捲動群組 （9：55） {#tutorial4}
+## 建立原型 —錨點連結和捲動群組 （9：55） {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
-**說明**
+**描述**
 將導覽和捲動新增至原型。
 
 在此教學課程中，您將瞭解如何：
@@ -172,12 +172,12 @@ Michael Murphy，數位媒體資深解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
-**說明**
+**描述**
 在原型中加入互動功能和覆蓋選單。
 
 在此教學課程中，您將瞭解如何：
 * 無需其他工作畫板，即可建立非線性互動式及動畫使用者體驗
-* 在單一XD檔中建立多個原型或互動流程，並為每個流程發佈唯一的可共用連結
+* 在單一XD檔中製作多個原型或互動流程，並為每個流程發佈唯一的可共用連結
 
 **顯示者：**
 ──Emilie Enke，數位媒體副解決方案顧問
@@ -186,7 +186,7 @@ Michael Murphy，數位媒體資深解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
-**說明**
+**描述**
 透過簡單的點選和拖曳，將單一元素轉換為重複的格點。
 
 在此教學課程中，您將瞭解如何：
@@ -201,7 +201,7 @@ Victoria London，解決方案顧問 （數位媒體）
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
-**說明**
+**描述**
 使用堆疊屬性輕鬆重新排列元素。
 
 在此教學課程中，您將瞭解如何：
@@ -215,7 +215,7 @@ Victoria London，解決方案顧問 （數位媒體）
 
 **XD資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/xd.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) 和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/xd.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) 功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

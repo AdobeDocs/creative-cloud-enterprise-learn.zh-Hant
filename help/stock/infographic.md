@@ -1,6 +1,6 @@
 ---
 title: 建立包含 Adobe 的公司指導方針資訊圖表 [!DNL Stock]
-description: 結合從Adobe的各種資產  [!DNL Stock]  ，以視覺上吸引人的資訊圖表來傳達指導方針
+description: 結合Adobe  [!DNL Stock]  的各種資產，以具有視覺吸引力的資訊圖表形式傳達指導方針
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # 建立包含 Adobe 的公司指導方針資訊圖表 [!DNL Stock]
 
-以引人入勝的資訊圖表形式，結合Adobe的各種資產 [!DNL Stock] 來傳達指導方針。
+結合從Adobe [!DNL Stock] 的各種資產，以視覺上吸引人的資訊圖表形式傳達指導方針。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

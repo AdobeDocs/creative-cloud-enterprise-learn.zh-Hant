@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/Photoshop.jpg)
 
-Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人士在各種裝置上無限發揮創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
+Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專業人員提供不限數量的創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
 
 ## 流覽產品教學課程
 
@@ -28,7 +28,7 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
     <div>
    <a href="photoshop.md#tutorial1"><strong>編輯影像以符合您的Campaign</strong></a>
     </div>
-    <em>使用 Adobe Photoshop 中功能強大的選取和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
+    <em>使用 Adobe Photoshop中功能強大的選取和顏色編輯工具，大幅變更影像以符合您的企業品牌需求</em>
     <br>
   </td>
   <td>
@@ -53,14 +53,14 @@ Photoshop 是全球最佳的影像處理和平面設計軟體，可讓專業人�
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
-**說明**
-使用Adobe Photoshop功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合企業品牌需求。
+**描述**
+使用 Adobe Photoshop 中功能強大的選取和顏色編輯工具，大幅變更影像以符合您的企業品牌需求。
 
 在此教學課程中，您將瞭解如何：
 * 「物件選取工具」可讓您更快速、更輕鬆地選取專案
-* 「內容感知填色」可讓您更有效控制來源影像中的樣本區域，以更好地複製和修補目的地區域
+* 「內容感知填色」可讓您更有效控制來源影像中的樣本區域，以更好地複製及修補目的地區域
 * 筆刷可以是不同的形狀，以獲得更好的結果
-* Adobe Sensei有助於將人工智慧用於日常工作
+* Adobe Sensei有助於利用人工智慧處理日常工作
 
 **顯示者：**
 A.J Wood，資深解決方案顧問 （Digital Media）
@@ -69,7 +69,7 @@ A.J Wood，資深解決方案顧問 （Digital Media）
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
-**說明**
+**描述**
 自動選取影像中的天空，並以您選擇的天空取代，自動調整影像的顏色以符合您的選取範圍。
 
 在此教學課程中，您將瞭解如何：
@@ -84,7 +84,7 @@ A.J Wood，資深解決方案顧問 （Digital Media）
 
 **Photoshop資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/photoshop.html) 是您其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/photoshop/using/whats-new.html) 和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/photoshop/using/whats-new.html) 功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

@@ -53,7 +53,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-**說明**
+**描述**
 減少手動作業，並維持元件的一致性。
 
 在此教學課程中，您將瞭解如何：
@@ -66,7 +66,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-**說明**
+**描述**
 快速將字元靠齊檔的重要區域。
 
 在此教學課程中，您將瞭解如何：
@@ -79,7 +79,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 **Illustrator資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/illustrator.html) 是您其他教學課程和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/illustrator.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

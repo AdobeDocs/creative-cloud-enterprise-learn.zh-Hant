@@ -1,13 +1,13 @@
 ---
 title: Capture
-description: Adobe  [!DNL Capture]  將行動電話和平板電腦轉變為設計集合工具
+description: ' [!DNL Capture] Adobe將行動電話和平板電腦轉換為設計集合工具'
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/Capture.jpg)
 
-Adobe [!DNL Capture] 將行動電話和平板電腦變成設計集合工具。 使用者可以建立許多不同類型的資產 （適用于作品的個別數位元素）。   這些資產會自動與其他桌面和行動Adobe應用程式同步。 使用者可以將其匯入其創意專案或輕鬆與共同作業人員共用。
+[!DNL Capture]Adobe將行動電話和平板電腦轉變為設計集合工具。使用者可以建立許多不同類型的資產 （適用于作品的個別數位元素）。   這些資產會自動與其他桌面和行動Adobe應用程式同步。 使用者可以將其匯入其創意專案或輕鬆與共同作業人員共用。
 
 ## 流覽產品教學課程
 
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] 將行動電話和平板電腦變成設計集合工具。 �
     <div>
    <a href="capture.md#tutorial1"><strong>從您的周Capture靈感</strong></a>
     </div>
-    <em>在「Adobe 増取」中使用功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
+    <em>在 Adobe擷取中使用功能強大的選取範圍和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Adobe [!DNL Capture] 將行動電話和平板電腦變成設計集合工具。 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
-**說明**
+**描述**
 將行動裝置上的影像和視訊轉換為適合您所有設計的創意元素。
 
 在此教學課程中，您將瞭解如何：
@@ -63,7 +63,7 @@ Adobe [!DNL Capture] 將行動電話和平板電腦變成設計集合工具。 �
 
 **[!DNL Capture]資源**
 
-[學習與支援 ](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) 是您其他教學課程和社群論壇連結的中樞。
+[](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

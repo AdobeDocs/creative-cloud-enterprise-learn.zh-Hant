@@ -1,5 +1,5 @@
 ---
-title: '使用Adobe影像為海報製作 3D 拼貼  [!DNL Stock] '
+title: 使用  [!DNL Stock]  Adobe images 為海報製作 3D 拼貼
 description: 設計Adobe Illustrator拼貼，在Adobe中呈現影像中搶眼的 3D 效果 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe影像為海報製作 3D 拼貼 [!DNL Stock]
+# 使用 [!DNL Stock] Adobe影像為海報製作 3D 拼貼
 
-製作吸引眾人目光的海報。 在Adobe中尋找相關影像， [!DNL Stock] 然後在Adobe Illustrator中設計拼貼，產生搶眼的 3D 效果。
+製作吸引眾人目光的海報。 在Adobe中尋找相關影像 [!DNL Stock] ，然後在具有搶眼 3D 效果的Adobe Illustrator中設計拼貼。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

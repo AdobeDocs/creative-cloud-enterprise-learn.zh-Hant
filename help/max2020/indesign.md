@@ -33,7 +33,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="indesign.md#tutorial2">
-      <img alt="從InDesign共用以供審核" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
+      <img alt="從 InDesign 共用以供審核" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
    <a href="indesign.md#tutorial2"><strong>從 InDesign 共用以供審核</strong></a>
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
-**說明**
+**描述**
 產生連結至網站的 QR 碼。
 
 在此教學課程中，您將瞭解如何：
@@ -97,7 +97,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
-**說明**
+**描述**
 InDesign「共用以供審核」可為設計師及其團隊成員提供更加順暢的創意審核體驗。
 
 在此教學課程中，您將瞭解如何：
@@ -117,7 +117,7 @@ InDesign「共用以供審核」可為設計師及其團隊成員提供更加順
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
-**說明**
+**描述**
 直接將 PDF 中的注釋讀入InDesign，並快速套用要求的變更。
 
 在此教學課程中，您將瞭解如何：
@@ -131,11 +131,11 @@ InDesign「共用以供審核」可為設計師及其團隊成員提供更加順
 **顯示者：**
 Michael Murphy，數位媒體資深解決方案顧問
 
-## 將影片檔案新增至InDesign檔 （5：58） {#tutorial4}
+## 將視訊檔案新增至 InDesign 檔 （5：58） {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
-**說明**
+**描述**
 將影片新增至InDesign。 輸出為 PDF 並線上發佈。
 
 在此教學課程中，您將瞭解如何：
@@ -149,7 +149,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 **InDesign資源**
 
-[學習與支援 ](https://helpx.adobe.com/support/indesign.html) 是其他教學課程、 [ 新增功能 ](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) 和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/indesign.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) 功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

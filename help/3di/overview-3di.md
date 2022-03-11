@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,26 @@ ht-degree: 0%
 
 運用高品質模型、材質和照明，更快速地在 3D 中創作引人入勝的內容。 [!DNL Dimension] 輕鬆製作品牌視覺化內容、插圖、產品模型、包裝設計和其他創意作品。
 
-## 按一下以檢視Adobe 3D 和 VR 教學課程
+## 按一下以檢視 Adobe 3D 和 VR 教學課程
 
 <table>
 <tr>
  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="使用 Adobe [！DNL Stock] 和 [！DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="使用 Adobe [!DNL Stock] 和 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用 Adobe [！DNL Stock] 和 [！DNL Dimension] （PDF）</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用 Adobe 和 [!DNL Dimension] （PDF） 建立逼真的 3D 模型 [!DNL Stock]</strong></a>
     </div>
-    <em>使用 Adobe [！DNL Stock] 並放入 Adobe 中的圖形 [！DNL Dimension]</em>
+    <em>使用 [!DNL Stock] Adobe 輕鬆將 2D 設計與 3D 模型合併並在Adobe中置入圖形 [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="在具有 Adobe 的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="將具有Adobe的 3D 物件上的紡織品設計或圖樣視覺化 [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>在具有 Adobe 的 3D 物件上視覺化紡織品設計或圖樣 [！DNL Dimension] （PDF）</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>在具有Adobe [!DNL Dimension] 的 3D 物件上視覺化紡織品設計或圖樣 （PDF）</strong></a>
     </div>
     <em>只要幾分鐘的時間，就能建立最終產品的超逼真呈現方式</em>
     <br>
@@ -48,7 +48,7 @@ ht-degree: 0%
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在逼真環境中將產品視覺化 （PDF）</strong></a>
     </div>
-    <em>當您想要瞭解您的產品在真實世界中的樣貌時，請Adobe [！DNL Dimension] 是您選擇的應用程式</em>
+    <em>當您想要瞭解您的產品在真實世界中的樣貌時，Adobe [!DNL Dimension] 是您最適合的應用程式</em>
     <br>
   </td>
 </tr>
@@ -70,17 +70,17 @@ ht-degree: 0%
     <div>
    <a href="photorealistic.md"><strong>使用 3D 演算和合成來建立逼真的虛擬攝影</strong></a>
     </div>
-    <em>瞭解如何在 Adobe 中使用 3D 影像合成和演算來建立具感應性、逼真的虛擬攝影 [！DNL Dimension]</em>
+    <em>瞭解如何在Adobe中使用 3D 影像合成和演算來建立具感應性、逼真的虛擬攝影Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="使用 [！DNL Dimension] 和 Adobe [！DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="使用和Adobe自訂 3D 模型 [!DNL Dimension] 並建立品牌化 [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>使用 [！DNL Dimension] 和 Adobe [！DNL Stock]</strong></a>
+   <a href="3ddimensionstock.md"><strong>使用和Adobe自訂 3D 模型 [!DNL Dimension] 並建立品牌 [!DNL Stock]</strong></a>
     </div>
-    <em>在 [！DNL Dimension] 使用材質、環境屬性、照明和攝影，為任何設計專案製作逼真的影像</em>
+    <em>使用材質、環境屬性、照明和攝影，自訂 3D 模型 [!DNL Dimension] 並建立品牌，為任何設計專案建立逼真的影像</em>
     <br>
   </td>
 </tr>

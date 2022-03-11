@@ -1,6 +1,6 @@
 ---
-title: '使用Adobe和XD自訂載入螢幕動畫  [!DNL Stock] '
-description: 從Adobe自訂向量圖稿  [!DNL Stock]  ，為行動應用程式建立令人心儀的載入螢幕動畫
+title: 使用Adobe和XD  [!DNL Stock]  自訂載入螢幕動畫
+description: 自訂Adobe  [!DNL Stock]  向量圖稿，為行動應用程式建立令人心驚驚的載入螢幕動畫
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe和XD自訂載入螢幕動畫 [!DNL Stock]
+# 使用Adobe和XD [!DNL Stock] 自訂載入螢幕動畫
 
-自訂Adobe向量圖稿 [!DNL Stock] ，為行動應用程式建立令人心儀的載入畫面動畫。
+從Adobe [!DNL Stock] 自訂向量圖稿，為行動應用程式建立令人心儀的載入螢幕動畫。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

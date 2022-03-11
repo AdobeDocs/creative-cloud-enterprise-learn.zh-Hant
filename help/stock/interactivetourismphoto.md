@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe和XD製作互動式旅遊相  [!DNL Stock]  片
-description: 使用 Adobe & XD 快速在您的網站原型內建立互動式  [!DNL Stock]  相片
+title: 使用Adobe和XD  [!DNL Stock]  製作互動式旅遊相片
+description: 使用 Adobe & XD  [!DNL Stock]  快速在您的網站原型內建立互動式相片
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe和XD製作互動式旅遊相 [!DNL Stock] 片
+# 使用Adobe和XD [!DNL Stock] 製作互動式旅遊相片
 
-使用Adobe和XD，在您的網站原型內快速建立交 [!DNL Stock] 互式相片。
+使用Adobe和XD [!DNL Stock] ，快速在您的網站原型內建立互動式相片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

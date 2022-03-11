@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/faceMaskSplash.jpg)
 
-如果可以使用自己的圖稿自訂遮色片，這會不會酷炫嗎？ 透過Adobe設計至列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈到他們的線上市集。
+如果可以使用自己的圖稿自訂遮色片，這會不會酷炫嗎？ 透過Adobe設計以列印增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈到他們的線上市集。
 
 ## 流覽臉罩專案教學課程
 
@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
    <a href="handsonproject.md#tutorial1"><strong>安裝「Photoshop設計以列印增效模組」</strong></a>
     </div>
-    <em>使用 Adobe Photoshop 中功能強大的選取和顏色編輯工具，大幅變更影像以符合企業品牌需求</em>
+    <em>使用 Adobe Photoshop中功能強大的選取和顏色編輯工具，大幅變更影像以符合您的企業品牌需求</em>
     <br>
   </td>
   <td>
@@ -58,8 +58,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/327096?hidetitle=true)
 
-**說明**
-瞭解如何安裝適用于 Photoshop 的設計以列印增效模組。
+**描述**
+瞭解如何安裝適用于 Photoshop 的設計至列印增效模組。
 
 在此教學課程中，您將瞭解如何：
 * 即時在服裝、配件、信紙和牆面藝術等產品上視覺化您的設計！
@@ -72,7 +72,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
-**說明**
+**描述**
 自訂您自己的 Zazzle 面罩
 
 在此教學課程中，您將瞭解如何：
@@ -90,7 +90,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 
-**說明**
+**描述**
 為活動收藏館建立臉部遮色片的 3D 視覺化效果
 
 在此教學課程中，您將瞭解如何：
@@ -98,7 +98,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 * 新增材質及控制照明，打造專業的外觀
 * 匯入資產以套用您的品牌或其他設計
 
-**按一下「使用 [!DNL Dimension] 3D 模型的白色遮色片下載檔案」**
+**按一下「使用 3D 模型的白色遮色片下載 [!DNL Dimension] 檔」**
 
 [![比較影像](../assets/whitemask_96.png)](HTTPs://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

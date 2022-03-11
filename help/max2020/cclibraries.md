@@ -28,7 +28,7 @@ ht-degree: 2%
     <div>
    <a href="cclibraries.md#tutorial1"><strong>建立CC Libraries</strong></a>
     </div>
-    <em>透過Adobe Creative Cloud資料庫，您可以在您最愛的Creative Cloud應用程式中管理、組織及存取標誌、顏色等專案。</em>
+    <em>有了Adobe Creative Cloud資料庫，您就可以在最愛的Creative Cloud應用程式中管理、組織及存取標誌、顏色等專案。</em>
     <br>
   </td>
    <td>
@@ -53,21 +53,21 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-**說明**
-透過Adobe Creative Cloud資料庫，您可以在您最愛的Creative Cloud應用程式中管理、組織及存取標誌、顏色等。
+**描述**
+透過 Adobe Creative Cloud 資料庫，您可以在您最愛的 Creative Cloud 應用程式中管理、組織及存取標誌、顏色等專案。
 
 在此教學課程中，您將瞭解如何：
 * 掌握您的資產和專案在品牌上
 * 新增! 與 Adobe XD 完全整合
 
 **顯示者：**
-Ashley Dvorin，資深解決方案顧問 （數位媒體）
+Ashley Dvorin，資深解決方案顧問 （Digital Media）
 
 ## 分享CC Libraries （4：14） {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-**說明**
+**描述**
 提高工作效率、確保創意一致性，並輕鬆地與您的團隊保持同步。
 
 在此教學課程中，您將瞭解如何：
@@ -75,13 +75,13 @@ Ashley Dvorin，資深解決方案顧問 （數位媒體）
 * 直接從您最愛的應用程式輕鬆共同處理專案
 
 **顯示者：**
-Ashley Dvorin，資深解決方案顧問 （數位媒體）
+Ashley Dvorin，資深解決方案顧問 （Digital Media）
 
 ![CC Libraries標誌](../assets/cc_appicon_96.png)
 
 **CC Libraries資源**
 
-[學習與支援 ](https://helpx.adobe.com/creative-cloud/help/libraries.html) 是您其他教學課程、新增功能和社群論壇連結的中樞。
+[](https://helpx.adobe.com/creative-cloud/help/libraries.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

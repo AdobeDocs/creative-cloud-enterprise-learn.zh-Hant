@@ -1,6 +1,6 @@
 ---
-title: 在Photoshop  [!DNL Stock]  中Animate Adobe向量插圖
-description: 使用適用于Adobe的可編輯向量，將動畫帶入電子報圖形中 [!DNL Stock]
+title: 在Photoshop中Animate Adobe  [!DNL Stock]  的向量插圖
+description: 使用可編輯的向量將動畫帶入電子報圖像中，以供Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 在Photoshop [!DNL Stock] 中Animate Adobe向量插圖
+# 在Photoshop中Animate [!DNL Stock] Adobe向量插圖
 
-使用適用于Adobe的可編輯向量，將動畫帶入電子報圖形 [!DNL Stock] 中。
+使用適用于Adobe的可編輯向量，將 [!DNL Stock] 動畫帶入電子報圖形中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)
