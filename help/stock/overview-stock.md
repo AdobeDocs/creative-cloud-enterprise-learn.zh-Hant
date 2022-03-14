@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Stock]Adobe教學課程
 
-!![Creative Cloud Hero Image](../assets/ [!DNL Stock] .jpg）
+![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
 
 創意人員必須快速提供令人注目的全新視覺效果內容，以吸引眾人目光。 [!DNL Stock]適用于企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，全都可從他們每天使用的 Adobe 創意應用程式中完成。
 
