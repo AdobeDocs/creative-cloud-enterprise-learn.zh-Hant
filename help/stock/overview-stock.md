@@ -4,16 +4,16 @@ description: 協助您快速上Adobe的教學課程 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]Adobe教學課程
 
-![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud英雄影像](../assets/Stock.jpg)
 
 創意人員必須快速提供令人注目的全新視覺效果內容，以吸引眾人目光。 [!DNL Stock]適用于企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，全都可從他們每天使用的 Adobe 創意應用程式中完成。
 

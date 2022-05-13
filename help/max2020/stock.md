@@ -4,16 +4,16 @@ description: 適用于企業的 Adobe  [!DNL Stock]  可讓創意團隊存取超
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![教學課程主圖影像](../assets/Stock.jpg)
 
 創意人員必須快速提供令人注目的全新視覺震撼內容，以吸引眾人目光。 [!DNL Stock]適用于企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，全都可從他們每天使用的Adobe創意應用程式中完成。
 
