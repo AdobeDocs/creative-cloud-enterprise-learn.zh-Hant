@@ -4,9 +4,9 @@ description: 協助您快速上Adobe DVA 產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ ht-degree: 0%
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="在Adobe Premiere [!DNL Rush] Adobe中，透過自動閃避流暢地結合音樂和對話或旁白" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="在Adobe Premiere中將音樂和對話或旁白與自動閃避順暢地結合 [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere [!DNL Rush] Adobe （PDF） 中順暢地結合音樂和對話或旁白及自動閃避</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>在Adobe Premiere [!DNL Rush] （PDF） 中，透過自動閃避順暢地結合音樂和對話或旁白</strong></a>
     </div>
     <em>[!DNL Rush]Adobe Premiere在簡單易用的應用程式中提供進階的視訊編輯功能，因此任何人都可以在幾分鐘內建立專業品質的視訊</em>
     <br>
