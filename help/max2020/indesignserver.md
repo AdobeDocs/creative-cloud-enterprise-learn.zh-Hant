@@ -4,9 +4,9 @@ description: ® Adobe Adobe InDesign® Server 軟體提供了強大且可擴充�
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![教學課程主圖影像](../assets/InDesignServer.jpg)
 
-® Adobe Adobe InDesign® Server 軟體提供健全且可擴充的引擎，利用InDesign的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔。
+® Adobe InDesign Server 軟體提供健全且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，讓您以程式設計方式建立引人入勝的自動化檔。
 
 ## 流覽產品教學課程
 
