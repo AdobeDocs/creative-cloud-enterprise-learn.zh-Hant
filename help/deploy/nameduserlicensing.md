@@ -4,9 +4,9 @@ description: 透過指名使用者授權 （NUL） 授權Adobe產品，讓 IT �
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 透過指名使用者授權 （NUL） 授權Adobe產品，可讓 IT 管理員使用Admin Console輕鬆部署和管理Adobe工具，並讓一般使用者存取世界級的創意和生產力應用程式和 Adobe Cloud 服務，即使整個員工團隊都在遠端工作。
 
-如果您的組織不在 NUL 上，而且仍在為Adobe產品使用序列化部署，您的序號可能很快就會過期。 為了避免服務中斷，請務必在序號過期 ](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration) 前 [ 規劃移轉至 NUL。
+如果您的組織不在 NUL 上，而且仍在為Adobe產品使用序列化部署，您的序號可能很快就會過期。 為了避免服務中斷，請務必在序號過期前規劃移轉至 NUL。
 
 ## 關於指名使用者授權
 
