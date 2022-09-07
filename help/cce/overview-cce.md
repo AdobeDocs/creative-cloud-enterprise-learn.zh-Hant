@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ ht-degree: 0%
     <em>在 Photoshop 中使用「動作」，消除單調乏味，節省大量時間</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="使用Photoshop，讓工作更聰明，而不是更努力" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ ht-degree: 0%
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>綠幕不僅適用于視訊 （PDF）</strong></a>
     </div>
     <em>您可以在攝影工作室使用綠幕，並使用 After Effects 在 Photoshop 中準備相片使用</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ ht-degree: 0%
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="坦平類型分析" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>竄改文字 （PDF）</strong></a>
+    </div>
+    <em>瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="使用 Creative Cloud 建立精美的印刷樣式" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ ht-degree: 0%
     <em>OpenType格式允許包含最多 65，536 個字元的字體</em>
     <br>
   </td>
-  <td>
-    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
