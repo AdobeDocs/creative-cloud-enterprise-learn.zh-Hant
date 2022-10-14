@@ -1,13 +1,13 @@
 ---
 user-guide-title: 適用於企業的 Creative Cloud教學課程
 breadcrumb-title: 適用於企業的 Creative Cloud
-user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南。
+user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 8%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -20,13 +20,15 @@ ht-degree: 8%
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
+      + [坦平文字特性](cce/Taming-font-anxiety.md)
       + [為團隊建立Creative Cloud Libraries](cce/ccteamlibraries.md)
       + [與適用于團隊的Creative Cloud Libraries共用品牌資產](cce/sharecclibraries.md)
       + [使用適用于 iPad 的 Adobe  [!DNL Stock]  和Photoshop 建立獨特的複合](cce/compositepsipad.md)
       + [使用Photoshop製作電影](cce/cinemagraphps.md)
       + [解碼圖形格式的字母湯](cce/alphabetsoup.md)
       + [在 iPad 和 iPhone 上試試Fresco手](cce/frescoworkshop.md)
-   + [快速參考指南](quick-reference/overview-ref.md)
+   + 快速參考指南 {#ccerefguides}
+   + [產品清單](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [總覽](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
@@ -63,7 +65,8 @@ ht-degree: 8%
    + [總覽](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
-   + [快速參考指南](dva/overview-dva-ref.md)
+   + 快速參考指南 {#stockrefguides}
+      + [Stock 輔助線](dva/overview-dva-ref.md)
 + XD {#xdoverview}
    + [總覽](xd/overview-xd.md)
    + 教學課程 {#xdtutorials}
