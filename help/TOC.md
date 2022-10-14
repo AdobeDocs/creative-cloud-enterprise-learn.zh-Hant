@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南。
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [總覽](cce/overview-cce.md)
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
+      + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
       + [為團隊建立Creative Cloud Libraries](cce/ccteamlibraries.md)
       + [與適用于團隊的Creative Cloud Libraries共用品牌資產](cce/sharecclibraries.md)
       + [使用適用于 iPad 的 Adobe  [!DNL Stock]  和Photoshop 建立獨特的複合](cce/compositepsipad.md)

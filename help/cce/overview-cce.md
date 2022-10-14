@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="內容創作者的Acrobat" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>內容創作者的Acrobat （PDF）</strong></a>
+   <a href="acrobat-content-creators.md"><strong>內容創作者的Acrobat （PDF）</strong></a>
     </div>
     <em>瞭解有助於簡化創意工作流程的Acrobat工具</em>
     <br>
@@ -141,6 +141,16 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="使用 CC Libraries 改善 CC 工作流程" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries 改善 CC 工作流程</strong></a>
+    </div>
+    <em>瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計人員和團隊的專案一致性</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="為團隊建立Creative Cloud Libraries" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ ht-degree: 0%
     <em>Creative Cloud Libraries提供內建品牌系統，可供設計師跨創意團隊共用品牌資產</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="使用Creative Cloud Libraries從Illustrator共用文字樣式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ ht-degree: 0%
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用 Creative Cloud Libraries 從Illustrator共用文字樣式 （PDF）</strong></a>
     </div>
     <em>在Illustrator中更聰明地工作，而不是更努力地工作</em>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
