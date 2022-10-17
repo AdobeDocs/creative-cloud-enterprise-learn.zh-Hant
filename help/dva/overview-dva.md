@@ -4,7 +4,7 @@ description: 協助您快速上Adobe DVA 產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud英雄影像](../assets/CCEbanner-DVA.png)
 
-使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。
-
-## 按一下以檢視Adobe影片教學課程
+使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以檢視教學課程。
 
 <table>
 <tr>
