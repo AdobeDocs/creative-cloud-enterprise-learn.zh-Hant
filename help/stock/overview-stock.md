@@ -4,9 +4,9 @@ description: 協助您快速上Adobe的教學課程 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ ht-degree: 0%
     <em>使用精美的插圖，為任何專案增添修飾效果。 在Adobe中找到完美的向量，然後使用Adobe Illustrator [!DNL Stock] 讓顏色符合專案的浮動視窗Adobe Illustrator</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="使用Adobe和Photoshop [!DNL Stock] ，為靜止影像新增動作" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ ht-degree: 0%
       <em>將兩張不同的影像結合在一起，為您的設計專案建立全新場景。 [!DNL Stock]Adobe和Adobe Photoshop讓一切變得簡單</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="使用 Photoshop CC 和 Adobe 建立一個小號電影 [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ ht-degree: 0%
       <em>使用Adobe Photoshop合成影片、插圖和相片，建立電影Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="運用Adobe和Premiere Pro [!DNL Stock] 讓資料動起來" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ ht-degree: 0%
       <em>請依照下列步驟，使用Adobe Photoshop在逼真的Adobe [!DNL Stock] 範本中展示您的作品Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="使用Lightroom 行動版，發掘Adobe [!DNL Stock] 影像的驚人細節" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ ht-degree: 0%
       <em>探索Lightroom在行動裝置上的力量，展現影像中的最佳效果</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="透過Adobe和Photoshop [!DNL Stock] 在真實世界中視覺化海報設計" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
