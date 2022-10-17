@@ -4,7 +4,7 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud英雄影像](../assets/CCEbanner.png)
 
 身為企業創意人員，您必須與分散的團隊協作、建立可擴充的流程，並遵循公司系統和方針。 這些教學課程可協助您從企業角度學習Creative Cloud新功能。
-
 
 ## 按一下以檢視產品教學課程 （按字母順序列出）
 
@@ -316,11 +315,11 @@ ht-degree: 0%
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="坦平類型分析" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>竄改文字 （PDF）</strong></a>
+   <a href="taming-type-anxiety.md"><strong>竄改文字 （PDF）</strong></a>
     </div>
     <em>瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體</em>
     <br>

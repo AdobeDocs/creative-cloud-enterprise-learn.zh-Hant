@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # 適用於企業的 Creative Cloud教學課程 {#cce-learning-hub}
 
 + [總覽](overview.md)
-+ Cce {#cceoverview}
++ 適用於企業的 Creative Cloud {#cceoverview}
    + [總覽](cce/overview-cce.md)
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
-      + [坦平文字特性](cce/Taming-font-anxiety.md)
+      + [坦平文字特性](cce/taming-type-anxiety.md)
       + [為團隊建立Creative Cloud Libraries](cce/ccteamlibraries.md)
       + [與適用于團隊的Creative Cloud Libraries共用品牌資產](cce/sharecclibraries.md)
       + [使用適用于 iPad 的 Adobe  [!DNL Stock]  和Photoshop 建立獨特的複合](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [解碼圖形格式的字母湯](cce/alphabetsoup.md)
       + [在 iPad 和 iPhone 上試試Fresco手](cce/frescoworkshop.md)
    + 快速參考指南 {#ccerefguides}
-   + [產品清單](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [CCE 指南](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [總覽](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
       + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [使用Adobe和XD  [!DNL Stock]  自訂載入螢幕動畫](stock/loadingscreen.md)
       + [自訂Adobe  [!DNL Stock]  簡報範本以看起來專業](stock/presentationtemplate.md)
       + [自訂向量圖  [!DNL Stock]  Adobe顏色](stock/customizecolors.md)
-+ 3D 和 VR {#3doverview}
++ Adobe 3D 和 VR {#3doverview}
    + [總覽](3di/overview-3di.md)
    + 教學課程 {#3dtutorials}
       + [在 CGI 中掌握 3D 照明的秘訣和技術](3di/mastering3dlighting.md)
       + [使用 3D 演算和合成來建立逼真的虛擬攝影](3di/photorealistic.md)
       + [使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]](3di/3ddimensionstock.md)
-+ 視頻 {#videooverview}
++ Adobe影片 {#videooverview}
    + [總覽](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
-   + 快速參考指南 {#stockrefguides}
-      + [Stock 輔助線](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + 快速參考指南 {#videorefguides}
+      + [影片指南](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [總覽](xd/overview-xd.md)
    + 教學課程 {#xdtutorials}
    + [適應組 [!UICONTROL  件 ] 在Adobe XD](xd/components.md)
