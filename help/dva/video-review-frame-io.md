@@ -4,7 +4,7 @@ description: 瞭解 Adobe Premiere Pro 的 Frame.io 擴充功能如何讓您集�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Videoreviewwithframe.jpg) {「width=680」} ](assets/Video-review-with-Frame.io.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/Videoreviewwithframe.png) {「width=680」} ](assets/Video-review-with-Frame.io.pdf) {target=「blank」} 的第一頁影像

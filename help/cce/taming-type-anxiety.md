@@ -4,7 +4,7 @@ description: 瞭解如何在 Creative Cloud 中存取和使用超過 20，000 �
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/TamingTypeAnxiety.jpg) {「width=680」} ](assets/TamingTypeAnxiety.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/TamingTypeAnxiety.png) {「width=680」} ](assets/TamingTypeAnxiety.pdf) {target=「blank」} 的第一頁影像
