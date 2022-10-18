@@ -4,9 +4,9 @@ description: 瞭解有助於簡化創意工作流程的Adobe Acrobat中的關鍵
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
+source-git-commit: 936b00591f8c4ede40f0ee3bbfc271f5124ff107
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
       <img alt="為內容創作者Acrobat" src="assets/AcrobatforContentCreators_400.jpg" />
    </a>
-    <div>
-   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>內容創作者的Acrobat （PDF）</strong></a>
-    </div>
-    <em>瞭解有助於簡化創意工作流程的Acrobat工具</em>
+  </td>
+  <td>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>Acrobat內容創作者 （PDF） </strong></a> <em> 瞭解有助於簡化創意工作流程的Acrobat工具
+    </em>
     <br>
   </td>
 </tr>
