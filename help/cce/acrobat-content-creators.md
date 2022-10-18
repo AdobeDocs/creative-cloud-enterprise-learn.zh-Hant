@@ -4,7 +4,7 @@ description: 瞭解有助於簡化創意工作流程的Adobe Acrobat中的關鍵
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: d5faece0e074b5914a93f2c63f5f6f10f4235d62
+source-git-commit: 6234a6496321536c1a36d91e72322e4cc4911862
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # 為內容創作者Acrobat
 
-身為內容建立者，您可能會產生 PDF，然後在Acrobat中例行檢視這些 PDF 檔案。 但是，Acrobat也包含許多有助於簡化一般創意工作流程的工具。 選取下方的影像以開啟或下載此 PDF 教學課程。
+身為內容建立者，您可能會產生 PDF，然後在Acrobat中例行檢視這些 PDF 檔案。 但是，Acrobat也包含許多有助於簡化一般創意工作流程的工具。 選取下方的影像以檢視或下載此 PDF 教學課程。
 
 <br> 
 
-[教學 ![ 課程 ](assets/Acrobatforcontentcreators.png) {「width=680」}]（「assets/AcrobatforContentCreators.pdf」 「target=」_blank「 的第一頁影像
+[教學 ![ 課程 ](assets/Acrobatforcontentcreators.png) {「width=680」}]（「assets/AcrobatforContentCreators.pdf」 target=「_blank」）
