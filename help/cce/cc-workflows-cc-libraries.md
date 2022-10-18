@@ -4,9 +4,9 @@ description: 瞭解Creative Cloud Libraries如何將設計項目整合在一起�
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 透過本實作教學課程瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計師和團隊的專案一致性。
 
-**選取下方的影像，下載「使用 CC Libraries （PDF） 改善 CC 工作流程」。**
+選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![CC Libraries 教學課程影像](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![教學課程 ](assets/Improveccworkflowswithcclibraries.jpg) {「width=680」} ](assets/ImproveCCWorkflowsCCLibraries.pdf) {target=「blank」} 的第一頁影像
