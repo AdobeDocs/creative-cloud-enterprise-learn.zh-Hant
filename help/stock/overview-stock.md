@@ -4,9 +4,9 @@ description: 協助您快速上Adobe的教學課程 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1240'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
    <td>
+      <a href="stunning-digital-assets.md">
+         <img alt="令人驚歎的數位資產" src="assets/Stunningdigitalassets.png" />
+      </a>
+      <div>
+      <a href="stunning-digital-assets.md"><strong>令人驚歎的數位資產</strong></a>
+      </div>
+      <em>透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。</em>
+      <br>
+  </td>
+  <td>
       <a href="searchstock.md">
          <img alt="[!DNL Stock]Search Adobe授權記錄" src="assets/StockSearch_1280.jpg" />
       </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>利用來自Adobe元素和動畫 [!DNL Stock] 樣式的元素，讓文字栩栩如生After Effects</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
       <a href="animatevector.md">
          <img alt="在Photoshop中Animate [!DNL Stock] Adobe向量插圖" src="assets/animatevector.jpg" />
@@ -59,9 +71,7 @@ ht-degree: 0%
       <em>使用可編輯的向量將動畫帶入電子報圖像中，以供Adobe [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="annualreport.md">
          <img alt="使用以 Adobe 和 Creative Cloud Express 影片建立的 [!DNL Stock] 影片，開始您的年度報告" src="assets/annualreport.jpg" />
       </a>
@@ -91,7 +101,9 @@ ht-degree: 0%
       <em>在Adobe中尋找獨一無二的相片 [!DNL Stock] ，然後調整Adobe Photoshop顏色以符合您的需求</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="collage.md">
          <img alt="使用 [!DNL Stock] Adobe影像為海報製作 3D 拼貼" src="assets/collage.jpg" />
       </a>
@@ -101,8 +113,6 @@ ht-degree: 0%
       <em>設計Adobe Illustrator拼貼，在Adobe中呈現影像中搶眼的 3D 效果 [!DNL Stock]</em>
       <br>
   </td>
-</tr>
-<tr>
   <td>
       <a href="boldlabel.md">
          <img alt="使用Adobe範本和Photoshop [!DNL Stock] 智慧型物件建立大膽的標籤" src="assets/boldlabel.jpg" />
@@ -133,7 +143,9 @@ ht-degree: 0%
       <em>製作一張可比較產品定價計畫的圖形，為潛在客戶提供他們一覽所需的資訊</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="surrealcomposite.md">
          <img alt="使用Adobe製作半超現實的合成作品 [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
@@ -143,8 +155,6 @@ ht-degree: 0%
       <em>結合多個影像與顏色、動作和遮色片效果，製作令人難忘的編輯影像</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="surrealpattern.md">
          <img alt="使用Adobe建立半超現實的圖樣 [!DNL Stock]" src="assets/surrealpattern.jpg" />
@@ -175,7 +185,9 @@ ht-degree: 0%
       <em>使用 Adobe &amp; XD [!DNL Stock] 快速在您的網站原型內建立互動式相片</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="animationemail.md">
          <img alt="使用Adobe和Photoshop [!DNL Stock] 建立電子郵件動畫" src="assets/animationemail.jpg" />
       </a>
@@ -185,9 +197,7 @@ ht-degree: 0%
       <em>運用Adobe和Photoshop [!DNL Stock] 讓電子郵件具有停止動作動畫</em>
       <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
       <a href="brandgradients.md">
          <img alt="使用精美的漸層和Adobe [!DNL Stock] 資產建立連貫一致的品牌影像" src="assets/brandgradients.jpg" />
       </a>
@@ -217,7 +227,9 @@ ht-degree: 0%
       <em>建立專案情緒面板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶</em>
       <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="realisticcomposite.md">
          <img alt="使用Adobe影像建立逼真的 [!DNL Stock] 合成相片" src="assets/realisticcomposite.jpg" />
       </a>
@@ -227,8 +239,6 @@ ht-degree: 0%
       <em>將兩張出色的Adobe相片結合在一 [!DNL Stock] 起，將人們吸引到您的社交貼文中</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
    <a href="loadingscreen.md">
       <img alt="使用Adobe和XD [!DNL Stock] 自訂載入螢幕動畫" src="assets/loadingscreen.jpg" />
@@ -259,7 +269,9 @@ ht-degree: 0%
     <em>使用精美的插圖，為任何專案增添修飾效果。 在Adobe中找到完美的向量，然後使用Adobe Illustrator [!DNL Stock] 讓顏色符合專案的浮動視窗Adobe Illustrator</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="使用Adobe和Photoshop [!DNL Stock] ，為靜止影像新增動作" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -269,8 +281,6 @@ ht-degree: 0%
       <em>將影片融入靜止影像中，讓任何螢幕上的受眾驚歎不已</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
       <img alt="在 iPad 上使用Photoshop建立複合影像，然後Adobe [!DNL Stock] 影像" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
@@ -301,7 +311,9 @@ ht-degree: 0%
       <em>將兩張不同的影像結合在一起，為您的設計專案建立全新場景。 [!DNL Stock]Adobe和Adobe Photoshop讓一切變得簡單</em>
       <br>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="使用 Photoshop CC 和 Adobe 建立一個小號電影 [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
       </a>
@@ -311,8 +323,6 @@ ht-degree: 0%
       <em>使用Adobe Photoshop合成影片、插圖和相片，建立電影Adobe Photoshop</em>
       <br>
   </td>
-</tr>
-<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="運用Adobe和Premiere Pro [!DNL Stock] 讓資料動起來" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -343,7 +353,9 @@ ht-degree: 0%
       <em>請依照下列步驟，使用Adobe Photoshop在逼真的Adobe [!DNL Stock] 範本中展示您的作品Adobe Photoshop</em>
       <br>
   </td>
-  <td>
+ </tr> 
+ <tr>
+   <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="使用Lightroom 行動版，發掘Adobe [!DNL Stock] 影像的驚人細節" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -353,9 +365,7 @@ ht-degree: 0%
       <em>探索Lightroom在行動裝置上的力量，展現影像中的最佳效果</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="透過Adobe和Photoshop [!DNL Stock] 在真實世界中視覺化海報設計" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -366,17 +376,7 @@ ht-degree: 0%
       <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="間隔" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

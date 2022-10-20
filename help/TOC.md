@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [總覽](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
+      + [令人驚歎的數位資產](stock/stunning-digital-assets.md)
       + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
       + [為Adobe影像增添手繪美感  [!DNL Stock] ](stock/handdrawn.md)
       + [使用遮色片和動畫為印刷樣式增添風格](stock/flairtypography.md)
