@@ -4,9 +4,9 @@ description: 協助您快速上Adobe的教學課程 [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1240'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="令人驚歎的數位資產" src="assets/Stunningdigitalassets.png" />
+         <img alt="令人驚歎的數位資產 （PDF）" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>令人驚歎的數位資產</strong></a>
+      <a href="stunning-digital-assets.md"><strong>令人驚歎的數位資產 （PDF）</strong></a>
       </div>
       <em>透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。</em>
       <br>

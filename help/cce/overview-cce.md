@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -141,10 +141,10 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="使用 CC Libraries 改善 CC 工作流程" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="使用 CC Libraries （PDF） 改善 CC 工作流程" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries 改善 CC 工作流程</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries （PDF） 改善 CC 工作流程</strong></a>
     </div>
     <em>瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計人員和團隊的專案一致性</em>
     <br>
@@ -316,7 +316,7 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="坦平類型分析" src="assets/TamingTypeAnxiety.png" />
+      <img alt="竄改文字 （PDF）" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>竄改文字 （PDF）</strong></a>
