@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
       <img alt="為內容創作者Acrobat" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>內容創作者的Acrobat （PDF）</strong></a>
+   <a href="acrobat-content-creators.md"><strong>為內容創作者Acrobat</strong></a>
     </div>
     <em>瞭解有助於簡化創意工作流程的Acrobat工具</em>
     <br>
