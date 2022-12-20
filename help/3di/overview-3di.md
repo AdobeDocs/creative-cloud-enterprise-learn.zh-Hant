@@ -4,9 +4,9 @@ description: 協助您快速上Adobe 3D 和 VR 的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ ht-degree: 0%
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D 設計和演算" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D 設計和演算</strong></a>
+    </div>
+    <em>匯入內容、安排場景、套用材質和紋理、調整基於影像的和實體照明、以不同的解析度儲存相機，以及演算逼真的影像</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="使用 Adobe [!DNL Stock] 和 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ ht-degree: 0%
     <em>當您想要瞭解您的產品在真實世界中的樣貌時，Adobe [!DNL Dimension] 是您最適合的應用程式</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="在 CGI 中掌握 3D 照明的秘訣和技術" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ ht-degree: 0%
     <em>瞭解 3D 光源以及如何建立不同的光線條件，完全改變電腦產生的場景以及物件在其中的外觀</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="使用 3D 演算和合成來建立逼真的虛擬攝影" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ ht-degree: 0%
    <a href="3ddimensionstock.md"><strong>使用和Adobe自訂 3D 模型 [!DNL Dimension] 並建立品牌 [!DNL Stock]</strong></a>
     </div>
     <em>使用材質、環境屬性、照明和攝影，自訂 3D 模型 [!DNL Dimension] 並建立品牌，為任何設計專案建立逼真的影像</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>

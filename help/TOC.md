@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D 和 VR {#3doverview}
    + [概觀](3di/overview-3di.md)
    + 教學課程 {#3dtutorials}
+      + [3D 設計和演算](3di/substance-3d-stager.md)
       + [在 CGI 中掌握 3D 照明的秘訣和技術](3di/mastering3dlighting.md)
       + [使用 3D 演算和合成來建立逼真的虛擬攝影](3di/photorealistic.md)
       + [使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe影片 {#videooverview}
    + [概觀](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
+      + [專業動態圖形範本](dva/motion-graphics-templates.md)
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
    + 快速參考指南 {#videorefguides}
       + [影片指南](dva/overview-dva-ref.md)

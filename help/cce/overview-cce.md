@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ ht-degree: 0%
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="使用 CC Libraries （PDF） 改善 CC 工作流程" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="使用 CC Libraries 改善 CC 工作流程" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries （PDF） 改善 CC 工作流程</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries 改善 CC 工作流程</strong></a>
     </div>
     <em>瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計人員和團隊的專案一致性</em>
     <br>
@@ -331,10 +331,10 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="竄改文字 （PDF）" src="assets/TamingTypeAnxiety.png" />
+      <img alt="坦平類型分析" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>竄改文字 （PDF）</strong></a>
+   <a href="taming-type-anxiety.md"><strong>坦平類型分析</strong></a>
     </div>
     <em>瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體</em>
     <br>
