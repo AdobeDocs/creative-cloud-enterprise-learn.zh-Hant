@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '407'
 ht-degree: 9%
 
 ---
@@ -14,13 +14,15 @@ ht-degree: 9%
 
 # 適用於企業的 Creative Cloud教學課程 {#cce-learning-hub}
 
-+ [總覽](overview.md)
++ [概觀](overview.md)
 + 適用於企業的 Creative Cloud {#cceoverview}
-   + [總覽](cce/overview-cce.md)
+   + [概觀](cce/overview-cce.md)
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
       + [坦平文字特性](cce/taming-type-anxiety.md)
+      + [Adobe Express：與眾不同的內容](cce/adobe-express-content-that-stands-out.md)
+      + [協作：創意的未來](cce/collaboration-the-future-of-creativity.md)
       + [為團隊建立Creative Cloud Libraries](cce/ccteamlibraries.md)
       + [與適用于團隊的Creative Cloud Libraries共用品牌資產](cce/sharecclibraries.md)
       + [使用適用于 iPad 的 Adobe  [!DNL Stock]  和Photoshop 建立獨特的複合](cce/compositepsipad.md)
@@ -30,7 +32,7 @@ ht-degree: 9%
    + 快速參考指南 {#ccerefguides}
       + [CCE 指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [總覽](stock/overview-stock.md)
+   + [概觀](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
       + [令人驚歎的數位資產](stock/stunning-digital-assets.md)
       + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
@@ -57,29 +59,29 @@ ht-degree: 9%
       + [自訂Adobe  [!DNL Stock]  簡報範本以看起來專業](stock/presentationtemplate.md)
       + [自訂向量圖  [!DNL Stock]  Adobe顏色](stock/customizecolors.md)
 + Adobe 3D 和 VR {#3doverview}
-   + [總覽](3di/overview-3di.md)
+   + [概觀](3di/overview-3di.md)
    + 教學課程 {#3dtutorials}
       + [在 CGI 中掌握 3D 照明的秘訣和技術](3di/mastering3dlighting.md)
       + [使用 3D 演算和合成來建立逼真的虛擬攝影](3di/photorealistic.md)
       + [使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe影片 {#videooverview}
-   + [總覽](dva/overview-dva.md)
+   + [概觀](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
    + 快速參考指南 {#videorefguides}
       + [影片指南](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [總覽](xd/overview-xd.md)
+   + [概觀](xd/overview-xd.md)
    + 教學課程 {#xdtutorials}
    + [適應組 [!UICONTROL  件 ] 在Adobe XD](xd/components.md)
 + 部署和管理 {#deploy}
-   + [總覽](deploy/overview-deploy.md)
+   + [概觀](deploy/overview-deploy.md)
    + [序號到期](deploy/cceserial.md)
    + [指名的用戶授權](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
-   + [總覽](max2020/overview-max.md)
+   + [概觀](max2020/overview-max.md)
    + 教學課程 {#tutorials}
-      + [總覽](max2020/maxtutorials.md)
+      + [概觀](max2020/maxtutorials.md)
       + 桌面產品 {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
          + [[!DNL Dimension]](max2020/dimension.md)

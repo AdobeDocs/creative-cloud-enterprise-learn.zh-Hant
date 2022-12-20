@@ -4,9 +4,9 @@ description: 協助您快速上Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express：與眾不同的內容" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express：與眾不同的內容</strong></a>
+    </div>
+    <em> 使用 Adobe Express 快速製作精美的圖形、網頁和影片故事</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="在Adobe Creative Cloud Express中建立您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在 Adobe Creative Cloud Express 中建立品牌 （PDF）</strong></a>
+    </div>
+    <em>Adobe Creative Cloud Express輕鬆定義您的品牌</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="為您的「Creative Cloud Express頁新增幻影播放」" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ ht-degree: 0%
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>認識您的新製作演出者：Adobe Spark Post （PDF）</strong></a>
     </div>
     <em>Adobe Creative Cloud Express在建立版面、定義顏色、匯入圖稿和排列構圖元素時向您學習</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="協作：創意的未來" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>協作：創意的未來</strong></a>
+    </div>
+    <em>在Adobe Creative Cloud訂閱眾多好處中，可免費存取 20，000 多種專業設計及精選的字體Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="從手寫字體到透過Illustrator Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ ht-degree: 0%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>透過 Creative Cloud 從Lightroom 網頁版InDesign （PDF）</strong></a>
     </div>
     <em>使用 Creative Cloud 檔案和資料庫，將您的創造力從相機帶入最終設計</em>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
