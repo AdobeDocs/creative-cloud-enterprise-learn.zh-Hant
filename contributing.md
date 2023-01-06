@@ -1,7 +1,7 @@
 ---
-source-git-commit: 9be3ea4800bbbafd7173eb56547930e486bb8d93
+source-git-commit: 52fd854fb4327ae1280d43b0412b9122f1cdf104
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ## 行為準則
 
-本專案遵循Adobe [ 行為準則 ](code-of-conduct.md) 。 參與、
+本專案遵循Adobe [ 行為 ](code-of-conduct.md) 準則。 參與、
 您應遵守本程式碼。 如有不可接受的行為，請向
-[Grp-opensourceoffice@adobe.com ](mailto:Grp-opensourceoffice@adobe.com) 。
+[ ](mailto:Grp-opensourceoffice@adobe.com) Grp-opensourceoffice@adobe.com。
 
 ## 貢獻者指南檔
 
-請參閱 [ 貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 。
+[請參閱貢獻者指南 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
 
 ## 有任何疑問嗎？
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 此專案的所有協力廠商貢獻者必須由已簽署的投稿人簽署
 授權合約。 如此，Adobe提供您貢獻內容的轉散發許可權
-做為專案的一部分。 [簽署我們的 ](http://opensource.adobe.com/cla.html) CLA。 你
+做為專案的一部分。 [簽署我們的 CLA ](http://opensource.adobe.com/cla.html) 。 你
 只需要提交一Adobe CLA 一次，所以如果您先前已提交過一個，
 您很適合去！
 

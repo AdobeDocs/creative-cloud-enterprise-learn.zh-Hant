@@ -1,7 +1,7 @@
 ---
-source-git-commit: 9be3ea4800bbbafd7173eb56547930e486bb8d93
+source-git-commit: 52fd854fb4327ae1280d43b0412b9122f1cdf104
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 ## Adobe開啟Source行為準則
 
-本專案採用 [ Adobe開放Source行為準則」 ](code-of-conduct.md) 或 [ .NET Foundation 行為準則 ](https://dotnetfoundation.org/code-of-conduct) 。 如需詳細資訊，請參閱 [ 貢獻 ](contributing.md) 文章。
+此專案採用 [ Adobe開放Source行為 ](code-of-conduct.md) 準則」或 [ .NET Foundation 行為 ](https://dotnetfoundation.org/code-of-conduct) 準則。 如需詳細資訊，請參閱 [ 貢獻 ](contributing.md) 文章。
 
 ## 關於您對Adobe內容的貢獻
 
-請參閱 [ 「Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 」。
+請參閱Adobe [ 檔貢獻者指南。 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)
 
 您的貢獻方式取決於您是誰以及您想要貢獻的變更類型：
 
 ### 微幅變更
 
-如果您為了善意提供微幅更新，請造訪文章並按一下 **文章的「編輯」** 連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 。
+如果您有善意要微幅更新，請造訪文章並按一下 **文章的「編輯** 」連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
 
 您在此存放庫中微幅修正或說明文件及範例程式碼，均受Adobe使用條款規範。
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### 來自 Adobe 員工的重大變更
+### 員工Adobe的重大變更
 
-如果您是產品團隊中需要Adobe Experience Cloud解決方案的技術檔撰寫者、專案經理或開發人員，並且您必須貢獻或編寫技術文章，您應該使用私人儲存庫 `https://git.corp.adobe.com/AdobeDocs` ：。
+如果您是產品團隊中獲得Adobe Experience Cloud解決方案的技術檔撰寫人員、專案經理或開發人員，且您必須貢獻或編寫技術文章，您應該使用私人儲存庫： `https://git.corp.adobe.com/AdobeDocs` 。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 社群貢獻者可以使用 GitHub UI 進行基本編輯，或分叉存放庫進行重大貢獻。
 
-如需詳細資訊，請參閱 [ Adobe檔貢獻者指南 ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 」。
+如需詳細資訊， [ 請參閱Adobe檔貢獻者指南 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 」。
 
 ## 如何使用標記格式化您的主題
 
@@ -54,7 +54,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ## 標籤
 
-在公開存放庫中，系統會將自動化標籤指派給提取要求，協助我們管理提取要求工作流程，並協助您瞭解提取要求的現成狀況：
+在公開存放庫中，系統會將自動化標籤指派給提取要求，協助我們管理提取要求工作流程，並協助您瞭解提取要求的目前狀況：
 
 * **傳送給作者** 的變更：已通知作者有待處理的提取要求。
-* **可合併** ：準備好由我們的提取要求審核團隊進行審核。
+* **可合併** ：可供我們的提取要求審核團隊審核。
