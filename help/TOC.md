@@ -1,13 +1,13 @@
 ---
 user-guide-title: 適用於企業的 Creative Cloud教學課程
-breadcrumb-title: 適用於企業的 Creative Cloud
+breadcrumb-title: 企業適用的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 9%
 
 + [概觀](overview.md)
 + 適用於企業的 Creative Cloud {#cceoverview}
-   + [概觀](cce/overview-cce.md)
+   + [概述](cce/overview-cce.md)
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
@@ -32,8 +32,8 @@ ht-degree: 9%
    + 快速參考指南 {#ccerefguides}
       + [CCE 指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [概觀](stock/overview-stock.md)
-   + 教學課程 {#stocktutorials}
+   + [概述](stock/overview-stock.md)
+   + 教程 {#stocktutorials}
       + [令人驚歎的數位資產](stock/stunning-digital-assets.md)
       + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
       + [為Adobe影像增添手繪美感  [!DNL Stock] ](stock/handdrawn.md)
@@ -59,31 +59,31 @@ ht-degree: 9%
       + [自訂Adobe  [!DNL Stock]  簡報範本以看起來專業](stock/presentationtemplate.md)
       + [自訂向量圖  [!DNL Stock]  Adobe顏色](stock/customizecolors.md)
 + Adobe 3D 和 VR {#3doverview}
-   + [概觀](3di/overview-3di.md)
-   + 教學課程 {#3dtutorials}
+   + [概述](3di/overview-3di.md)
+   + 教程 {#3dtutorials}
       + [3D 設計和演算](3di/substance-3d-stager.md)
       + [在 CGI 中掌握 3D 照明的秘訣和技術](3di/mastering3dlighting.md)
       + [使用 3D 演算和合成來建立逼真的虛擬攝影](3di/photorealistic.md)
       + [使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe影片 {#videooverview}
-   + [概觀](dva/overview-dva.md)
-   + 教學課程 {#videotutorials}
+   + [概述](dva/overview-dva.md)
+   + 教程 {#videotutorials}
       + [專業動態圖形範本](dva/motion-graphics-templates.md)
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
    + 快速參考指南 {#videorefguides}
       + [影片指南](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [概觀](xd/overview-xd.md)
-   + 教學課程 {#xdtutorials}
+   + [概述](xd/overview-xd.md)
+   + 教程 {#xdtutorials}
    + [適應組 [!UICONTROL  件 ] 在Adobe XD](xd/components.md)
 + 部署和管理 {#deploy}
-   + [概觀](deploy/overview-deploy.md)
+   + [概述](deploy/overview-deploy.md)
    + [序號到期](deploy/cceserial.md)
    + [指名的用戶授權](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
-   + [概觀](max2020/overview-max.md)
-   + 教學課程 {#tutorials}
-      + [概觀](max2020/maxtutorials.md)
+   + [概述](max2020/overview-max.md)
+   + 教程 {#tutorials}
+      + [概述](max2020/maxtutorials.md)
       + 桌面產品 {#desktop-products}
          + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
          + [[!DNL Dimension]](max2020/dimension.md)
@@ -96,8 +96,8 @@ ht-degree: 9%
          + [[!DNL Capture]](max2020/capture.md)
          + [Fresco](max2020/fresco.md)
          + [iPad 版 Illustrator](max2020/illustratoripad.md)
-         + [在 iPad 上Photoshop](max2020/photoshopipad.md)
-      + 整合 {#integrations}
+         + [iPad 版 Photoshop](max2020/photoshopipad.md)
+      + 集成 {#integrations}
          + [AEM](max2020/aem.md)
          + [Creative Cloud 桌面應用程式](max2020/creativeclouddesktopapp.md)
          + [CC Libraries](max2020/cclibraries.md)
