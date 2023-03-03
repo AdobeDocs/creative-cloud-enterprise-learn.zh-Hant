@@ -4,9 +4,9 @@ description: 瞭解適用于適用於企業的 Creative Cloud和Acrobat的序號
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -93,4 +93,4 @@ Acrobat和適用於企業的 Creative Cloud應用程式將從到期前 60 天開
 如果您對於使用 [ AdobeExpiryCheck ](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) 工具有任何疑問，或需要從序號部署遷移到指名使用者的協助，您有以下幾項選項：
 * 傳送電子郵件給 Adobe Enterprise Onboarding 團隊 – **entonb@adobe.com**
 * 在 Admin Console 中開 [ 啟支援票證](https://adminconsole.adobe.com/support)
-* 請聯絡您的Adobe客戶經理或客戶成功經理
+* 聯絡您的Adobe帳戶團隊
