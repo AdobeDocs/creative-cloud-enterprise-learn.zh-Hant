@@ -1,13 +1,13 @@
 ---
 title: 適用於企業的 Creative Cloud教學課程
-description: 協助您快速上Creative Cloud企業版產品的教學課程
+description: 協助您快速上新Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
 workflow-type: tm+mt
 source-wordcount: '1529'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -139,7 +139,7 @@ ht-degree: 0%
     <div>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>使用 Adobe Portfolio （PDF） 展現您的最佳作品</strong></a>
     </div>
-    <em>Adobe Portfolio可讓您上傳、整理您的工作，並與世界各地的潛在員工和客戶分享您的作品</em>
+    <em>Adobe Portfolio可讓您上傳、整理工作，並與世界各地的潛在員工和客戶分享您的工作</em>
     <br>
   </td>
   <td>
@@ -255,7 +255,7 @@ ht-degree: 0%
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>透過 Creative Cloud 從Lightroom 網頁版InDesign （PDF）</strong></a>
     </div>
-    <em>使用 Creative Cloud 檔案和資料庫，將您的創造力從相機帶入最終設計</em>
+    <em>使用Creative Cloud檔案和資料庫，將您的創造力從相機帶入最終設計</em>
     <br>
   </td>
 </tr>
@@ -331,10 +331,10 @@ ht-degree: 0%
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="坦平類型分析" src="assets/TamingTypeAnxiety.png" />
+      <img alt="坦平文字分析" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>坦平類型分析</strong></a>
+   <a href="taming-type-anxiety.md"><strong>坦平文字分析</strong></a>
     </div>
     <em>瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體</em>
     <br>
@@ -402,7 +402,7 @@ ht-degree: 0%
     <div>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator符號 + 圖層 = 回應式 SVG 的完美結構！ (PDF)</strong></a>
     </div>
-    <em>Illustrator為 SVG 格式提供無與倫比的支援，包括建立元件、群組、ID 和精確的圖稿向量定義的功能</em>
+    <em>Illustrator為 SVG 格式提供無與倫比的支援，包括建立元件、群組、ID 和作品精確向量定義的功能</em>
     <br>
   </td>
   <td>
@@ -498,7 +498,7 @@ ht-degree: 0%
     <div>
     <a href="alphabetsoup.md"><strong>解碼圖形格式的字母湯</strong></a>
     </div>
-    <em>JPG、PNG、SVG、GIF 和 EPS 檔案都是設計中常用的檔案，有些是用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？</em>
+    <em>JPG、PNG、SVG、GIF 和 EPS 檔案皆常用於設計，有些用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？</em>
     <br>
   </td>
   <td>
@@ -592,7 +592,7 @@ ht-degree: 0%
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>使用 Photoshop 更聰明，而不是更努力地工作 （PDF）</strong></a>
     </div>
-    <em>Photoshop的變更可能非常耗時，但不一定</em>
+    <em>Photoshop的變更可能非常耗時，但不必是</em>
     <br>
   </td>
   <td>

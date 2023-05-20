@@ -15,7 +15,7 @@ ht-degree: 2%
 
 在現今的氛圍下，IT 管理必須快速轉向全面數位化的體驗。 當團隊學習如何在家工作時，對協助業務持續營運的工具的需求也隨之增加。 這些挑戰會對任何大規模的 IT 部署造成影響，尤其在虛擬工作環境中管理使用者時。
 
-透過指名使用者授權 （NUL） 授權Adobe產品，可讓 IT 管理員使用Admin Console輕鬆部署和管理Adobe工具，並讓一般使用者存取世界級的創意和生產力應用程式和 Adobe Cloud 服務，即使整個員工團隊都在遠端工作。
+透過指名使用者授權 （NUL） 授權Adobe產品，可讓 IT 管理員使用Admin Console輕鬆部署和管理Adobe工具，並讓一般使用者可以存取世界級的創意和生產力應用程式和 Adobe Cloud 服務，即使整個員工團隊都在遠端工作。
 
 如果您的組織不在 NUL 上，而且仍在為Adobe產品使用序列化部署，您的序號可能很快就會過期。 為了避免服務中斷，請務必在序號過期前規劃移轉至 NUL。
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 * 有大量使用者？ 沒關係。
 
-   如果您有大量使用者，請考慮利用其他Admin Console福利。 使用者同步工具可讓您自動執行建立使用者和產品指派的程式，並透過與您組織 Active Directory 中的資訊同步，讓使用者和產品指派保持在Admin Console中最新狀態。
+   如果您有大量使用者，請考慮利用其他Admin Console福利。 使用者同步工具可讓您自動執行建立使用者和產品指派的程式，並透過與您組織 Active Directory 中的資訊同步，使其在Admin Console中保持在最新狀態。
 
 * 體驗更快速的流程，甚至遠端體驗。
 
@@ -43,6 +43,6 @@ ht-degree: 2%
 
 * 生產力和協作的最佳工具。
 
-   藉由充分利用 NUL，您的使用者就可以存取Adobe Creative Cloud和Adobe Document Cloud生產力強項。 您可以完成許多工作：安全地建立和簽署檔;快速建立自訂 PDF;在平板電腦上開始創意專案，然後再將其放到桌面上;透過Document Cloud與團隊共用文件;及在 Adobe XD 中處理新的團隊專案。 我們的雲端服務讓您以遠端團隊的身分共用資產和協作變得輕鬆無比。
+   藉由充分利用 NUL，您的使用者就可以存取 Adobe Creative Cloud 和 Adobe Document Cloud 生產力強項。 您可以完成許多工作：安全地建立和簽署檔;快速建立自訂 PDF;在平板電腦上開始創意專案，然後再將其放到桌面上;透過Document Cloud與團隊共用文件;及在 Adobe XD 中處理新的團隊專案。 我們的雲端服務讓您以遠端團隊的身分共用資產和協作變得輕鬆無比。
 
 現代的工作流程挑戰需要現代化的解決方案。 讓我們協助您轉換為指名使用者授權。 請參閱指 [ 名使用者授權移轉指南 ](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) ，開始進行轉換。

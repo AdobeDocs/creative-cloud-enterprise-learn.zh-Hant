@@ -1,5 +1,5 @@
 ---
-title: 使用精美的漸層和Adobe型，建立連貫一  [!DNL Stock]  致的品牌影像
+title: 使用精美的漸層和Adobe  [!DNL Stock]  資產建立連貫一致的品牌形象
 description: 透過在廣告宣傳活動中結合顏色和漸層，建立各種影像的品牌統一
 role: User
 level: Beginner, Intermediate

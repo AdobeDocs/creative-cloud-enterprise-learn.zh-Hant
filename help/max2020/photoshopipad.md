@@ -1,5 +1,5 @@
 ---
-title: 在 iPad 上Photoshop
+title: iPad 版 Photoshop
 description: 使用 iPad 上的Photoshop，隨時隨地創造您所能想像的一切
 role: User
 level: Beginner, Intermediate
@@ -7,11 +7,11 @@ exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 在 iPad 上Photoshop
+# iPad 版 Photoshop
 
 ![教學課程主圖影像](../assets/PSoniPad.jpg)
 
@@ -49,7 +49,7 @@ Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專�
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **描述**
-進行介面導覽，並瞭解 Photoshop重新設計用於 Apple iPad 上的一些功能。
+進行介面導覽，瞭解 Photoshop重新設計用於 Apple iPad 上的一些功能。
 
 在此教學課程中，您將瞭解如何：
 * 存取您最愛的Photoshop工具

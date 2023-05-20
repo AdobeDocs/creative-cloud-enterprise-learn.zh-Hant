@@ -7,7 +7,7 @@ thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
 source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Improveccworkflowswithcclibraries.png) {「width=680」} ](assets/ImproveCCWorkflowsCCLibraries.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/Improveccworkflowswithcclibraries.png) {「width=680」} 的第一頁影像](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}

@@ -26,7 +26,7 @@ ht-degree: 0%
 您的創意人員花太多時間在手動、重複的工作上嗎？ 協助您的組織充分運用專業創意。 AEM和InDesign Server等企業系統可以為創意人員和生產人員提供快速將內容推入目標受眾手中的方法。
 
 在此錄製的即時會話中，您會在以下範例中看到範本式工作流程的範例：
-* Adobe Experience Manager （AEM） Assets 是數位資產管理 （DAM） 解決方案，可以與Adobe Creative Cloud整合，協助DAM使用者與創意團隊合作，簡化內容建立過程中的協作
+* Adobe Experience Manager （AEM） Assets 是數位資產管理 （DAM） 解決方案，可以與Adobe Creative Cloud整合，以協助DAM使用者與創意團隊合作，簡化內容建立過程中的協作
 * Adobe InDesign Server版面和排版引擎可透過整合至其他系統來支援自動化發佈解決方案
 
 **顯示者：**

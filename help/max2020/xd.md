@@ -153,7 +153,7 @@ Ashley Dvorin，資深解決方案顧問 （Digital Media）
 **顯示者：**
 Michael Murphy，數位媒體資深解決方案顧問
 
-## 建立原型 —錨點連結和捲動群組 （9：55） {#tutorial4}
+## 建立原型 — 錨點連結和捲動群組 （9：55） {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 

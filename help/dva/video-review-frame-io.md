@@ -1,12 +1,13 @@
 ---
 title: 使用 Frame.io 進行視訊審核
-description: 瞭解 Adobe Premiere Pro 的 Frame.io 擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂，以及更快核准，這一切都無需離開時程表
+description: 瞭解Adobe Premiere Pro Frame.io 擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂，以及更快核准，這一切都無需離開時程表
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+exl-id: 7a3e55f0-5208-4d4f-9427-108a468a1f56
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Videoreviewwithframe.png) {「width=680」} ](assets/Video-review-with-Frame.io.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/Videoreviewwithframe.png) {「width=680」} 的第一頁影像](assets/Video-review-with-Frame.io.pdf){target="blank"}

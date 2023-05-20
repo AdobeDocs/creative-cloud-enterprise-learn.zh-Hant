@@ -4,9 +4,10 @@ description: 動態圖形範本 （.mogrt） 是一種可協作且有效率的�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11642.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/MORGTs.png) {「width=680」} ](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/MORGTs.png) {「width=680」} 的第一頁影像](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

@@ -1,6 +1,6 @@
 ---
 title: 運用Adobe，快速建立鼓舞人心的情緒板 [!DNL Stock]
-description: 建立專案情緒面板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶
+description: 建立專案情緒板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg

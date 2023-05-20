@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # 瞭解適用於企業的 Creative Cloud和Acrobat序號到期
 
-從過去看，Adobe透過企業授權合約 （ETDA） 向客戶發佈應用程式的序號 （即Creative Suite、適用於企業的 Creative Cloud、Acrobat XI Acrobat DC）。 這些序號確實有過期日期。 一旦過期日期過期，產品將無法再運作，因此請務必在序號到期之前規劃您的移轉。 本頁面概述了確保您的使用者能夠繼續存取其Adobe應用程式和服務的必要步驟。
+歷來，Adobe透過企業授權合約 （ETDA） 向客戶發佈應用程式的序號 （即Creative Suite、適用於企業的 Creative Cloud、Acrobat XI Acrobat DC）。 這些序號確實有過期日期。 一旦過期日期過期，產品將無法再運作，因此請務必在序號到期之前規劃您的移轉。 本頁面概述了確保您的使用者能夠繼續存取其Adobe應用程式和服務的必要步驟。
 
 ## 查看您的序號，以取得其到期日
 

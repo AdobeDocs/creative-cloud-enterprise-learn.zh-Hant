@@ -4,9 +4,10 @@ description: 使用 Adobe Express 快速製作精美的圖形、網頁和影片�
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Adobe-Express-content-that-stands-out.png) {「width=680」} ](assets/Adobe-Express-content-that-stands-out.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/Adobe-Express-content-that-stands-out.png) {「width=680」} 的第一頁影像](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

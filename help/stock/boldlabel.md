@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe圖板和Photoshop  [!DNL Stock]  智慧型物件建立大膽的標籤
+title: 使用Adobe範本和Photoshop  [!DNL Stock]  智慧型物件建立大膽的標籤
 description: 使用Adobe逼真的包裝範本，設計您的自訂設計並將其視覺化 [!DNL Stock]
 role: User
 level: Beginner, Intermediate

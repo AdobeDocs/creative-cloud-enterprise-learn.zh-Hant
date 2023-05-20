@@ -36,7 +36,7 @@ ht-degree: 0%
     <div>
    <a href="video-review-frame-io.md"><strong>使用 Frame.io 進行視訊審核</strong></a>
     </div>
-    <em>瞭解 Adobe Premiere Pro 的 Frame.io 擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂，以及更快核准，這一切都無需離開時程表</em>
+    <em>瞭解Adobe Premiere Pro Frame.io 擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂，以及更快核准，這一切都無需離開時程表</em>
     <br>
   </td>
   <td>

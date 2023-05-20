@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Dimension]"'
+title: "[!DNL Dimension]"
 description: 「 [!DNL Dimension] 讓您輕鬆建立品牌視覺化內容、插圖、產品模型、包裝設計和其他創意作品。」
 role: User
 level: Beginner, Intermediate

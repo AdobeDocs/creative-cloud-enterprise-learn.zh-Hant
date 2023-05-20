@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 **按一下「影像」以下載「學習設計以列印 PDF」**
 
-[![學習設計以供列印](../assets/LearnDesigntoPrint_96.png）](../assets/LearnDesigntoPrint.pdf)
+[![學習設計以供列印](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **顯示者：**
 Patti Sokol，數位媒體首席解決方案顧問

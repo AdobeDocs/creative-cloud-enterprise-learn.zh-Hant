@@ -7,7 +7,7 @@ thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
 source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Acrobatforcontentcreators.png) {「width=680」} ](assets/Acrobat-for-Content-Creators.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/Acrobatforcontentcreators.png) {「width=680」} 的第一頁影像](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

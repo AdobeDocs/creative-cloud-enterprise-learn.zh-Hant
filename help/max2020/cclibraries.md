@@ -7,7 +7,7 @@ exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 2%
 
 在此教學課程中，您將瞭解如何：
 * 掌握您的資產和專案在品牌上
-* 新增! 與 Adobe XD 完全整合
+* 新增功能！ 與 Adobe XD 完全整合
 
 **顯示者：**
 Ashley Dvorin，資深解決方案顧問 （Digital Media）

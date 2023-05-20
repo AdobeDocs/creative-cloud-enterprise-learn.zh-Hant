@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe和Photoshop  [!DNL Stock]  建立電子郵件動畫
+title: 建立包含Adobe和Photoshop  [!DNL Stock]  的電子郵件動畫
 description: 運用Adobe和Photoshop  [!DNL Stock]  讓電子郵件具有停止動作動畫
 role: User
 level: Beginner, Intermediate

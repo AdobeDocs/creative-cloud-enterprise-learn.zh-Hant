@@ -1,6 +1,6 @@
 ---
 title: Capture
-description: ' [!DNL Capture] Adobe將行動電話和平板電腦轉換為設計集合工具'
+description: ' [!DNL Capture] Adobe將行動電話和平板電腦轉變為設計集合工具'
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66

@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 25%
 
 ---
 
@@ -75,12 +75,12 @@ ht-degree: 6%
   </td>
   <td>
     <a href="rush.md">
-      <img alt="沖" src="../assets/Rush.jpg" />
+      <img alt="Rush" src="../assets/Rush.jpg" />
     </a>
     <div>
-    <a href="rush.md"><strong>沖</strong></a>
+    <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>隨處建立和分享線上影片</em>
+    <em>隨時隨地製作及分享線上影片</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ ht-degree: 6%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>設計使用者體驗、製作原型並加以共用</em>
+    <em>設計用戶體驗、建立原型並加以分享</em>
     <br>
   </td>
   <td>
@@ -146,12 +146,12 @@ ht-degree: 6%
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="在 iPad 上Photoshop" src="../assets/PSoniPad.jpg" />
+      <img alt="iPad 版 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>在 iPad 上Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>iPad 版 Photoshop</strong></a>
     </div>
-    <em>在桌上型電腦和 iPad 上編輯、複合及製作精美的影像、圖形和圖稿</em>
+    <em>在桌面和 iPad 上編輯、合成及製作精美的影像、圖形和圖稿</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ ht-degree: 6%
       <img alt="Creative Cloud 桌面應用程式" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud桌面應用程式</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 桌面應用程式</strong></a>
     </div>
     <em>Creative Cloud 桌面應用程式是您管理 CC 應用程式、服務和協作等的中樞！</em>
     <br>
@@ -242,7 +242,7 @@ ht-degree: 6%
     <div>
     <a href="handsonproject.md"><strong>建立您自己的臉孔遮色片</strong></a>
     </div>
-    <em>透過Adobe設計以列印增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈至其線上市集</em>
+    <em>透過「Adobe設計以列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈至其線上市集</em>
     <br>
   </td>
   <td>

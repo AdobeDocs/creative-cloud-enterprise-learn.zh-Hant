@@ -1,9 +1,10 @@
 ---
 title: 影片快速參考指南
-description: 快速參考指南，協助您快速Adobe DVA 產品
+description: 快速參考指南，協助您快速上Adobe DVA 產品
 role: User
 level: Beginner, Intermediate
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%
@@ -111,7 +112,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>使用 After Effects （PDF） 從Adobe [!DNL Stock] 相片建立插圖</strong></a>
     </div>
-    <em>將「色相/飽和度」和「色階」與「卡通」效果結合在After Effects中，從Adobe [!DNL Stock] 相片中建立獨特的風格化插圖</em>
+    <em>將「色相/飽和度」和「色階」與「卡通」效果結合在After Effects中，從Adobe [!DNL Stock] 張相片中建立獨特的風格化插圖</em>
     <br>
   </td>
    <td>
@@ -133,7 +134,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>在 After Effects 中使用索引鍵在相片中建立複雜的透明度 （PDF）</strong></a>
     </div>
-    <em>去背功能相當常用於影片，對於設計專案需要您的相片來說，也是一大利器。</em>
+    <em>金鑰相當適合用於視訊，對於設計專案需要您的相片來說，也是一大利器。</em>
     <br>
   </td>
  <td>
@@ -148,7 +149,7 @@ ht-degree: 1%
   </td>
   <td>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank">
-         <img alt="適用于攝影的令人驚豔的光源效果與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
+         <img alt="適用于攝影的令人驚豔的光線特效與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
       </a>
       <div>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>配備After Effects （PDF） 的攝影效果令人驚豔</strong></a>

@@ -1,5 +1,5 @@
 ---
-title: 坦平類型分析
+title: 坦平文字分析
 description: 瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體
 role: User
 level: Beginner, Intermediate
@@ -7,7 +7,7 @@ thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/TamingTypeAnxiety.png) {「width=680」} ](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf) {target=「blank」} 的第一頁影像
+[![教學課程 ](assets/TamingTypeAnxiety.png) {「width=680」} 的第一頁影像](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

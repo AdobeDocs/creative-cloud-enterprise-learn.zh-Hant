@@ -1,6 +1,6 @@
 ---
 title: 使用 Adobe 建立互動式產品設定器 [!DNL Stock]
-description: 使用來自Adobe的互動功能、動畫和可編輯圖稿  [!DNL Stock]  ，以視覺方式呈現財務資訊
+description: 運用Adobe  [!DNL Stock]  互動、動畫和可編輯圖稿的功能，以視覺方式呈現財務資訊
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg

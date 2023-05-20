@@ -98,7 +98,7 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>使用 XD （PDF） 設計行動網頁體驗</strong></a>
     </div>
-    <em>運用 Adobe XD，從幕後檢視 Russell Brown MAX Madness 行動網路收藏館的設計流程</em>
+    <em>運用Adobe XD，從幕後檢視 Russell Brown MAX Madness 行動網路收藏館的設計流程</em>
     <br>
   </td>
 </tr>
@@ -108,9 +108,9 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
       <img alt="使用 Adobe XD 建立行動網頁體驗的原型" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>以 Adobe XD （PDF） 製作行動網頁體驗原型</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>以 Adobe XD （PDF） 建立行動網頁體驗原型</strong></a>
     </div>
-    <em>體驗設計需要策略、設計以及功能型式的原型設計，Adobe XD讓您擁有完成所有工作的力量</em>
+    <em>體驗設計需要策略、設計以及功能型式的原型設計，Adobe XD讓您擁有完成所有這一切的力量</em>
     <br>
   </td>
   <td>

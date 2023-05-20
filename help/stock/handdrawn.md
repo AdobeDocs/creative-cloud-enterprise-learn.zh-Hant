@@ -1,5 +1,5 @@
 ---
-title: 為手繪美學增添Adobe  [!DNL Stock]  構想
+title: 為Adobe影像增添手繪美感  [!DNL Stock]
 description: 使用 iPad 版 Photoshop，利用獨特的技術為您的影像增添深度和維度，進而提升您的創意行銷。
 role: User
 level: Beginner, Intermediate

@@ -2,12 +2,12 @@
 source-git-commit: f40eae6df76b779be9d338243ca4f19e0ab957db
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 # MIT 授權
 
-©版權 2021 Adobe。 版權所有。
+© 著作權 2021 Adobe。 All rights reserved.
 
 凡取得本軟體及相關檔檔案 （以下稱「軟體」） 的任何人，均有權無償且無限制處理本軟體，包括但不限於使用、複製、修改、合併、發佈、分發、轉授權及/或銷售本軟體之拷貝，並授與被供應人之權利， 請視下列情況操作：
 

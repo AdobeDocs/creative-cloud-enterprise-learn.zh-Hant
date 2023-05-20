@@ -98,7 +98,7 @@ ht-degree: 0%
       <div>
       <a href="changecolors.md"><strong>變更Adobe [!DNL Stock] 影像的顏色以符合您的故事</strong></a>
       </div>
-      <em>在Adobe中尋找獨一無二的相片 [!DNL Stock] ，然後調整Adobe Photoshop顏色以符合您的需求</em>
+      <em>在Adobe中尋找獨一無二的相片 [!DNL Stock] ，然後調整Adobe Photoshop顏色以滿足您的需求</em>
       <br>
   </td>
 </tr>
@@ -224,7 +224,7 @@ ht-degree: 0%
       <div>
       <a href="moodboard.md"><strong>運用Adobe，快速建立鼓舞人心的情緒板 [!DNL Stock]</strong></a>
       </div>
-      <em>建立專案情緒面板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶</em>
+      <em>建立專案情緒板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶</em>
       <br>
   </td>
 </tr>
@@ -340,7 +340,7 @@ ht-degree: 0%
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>使用Adobe Illustrator重新上色Adobe [!DNL Stock] 向量圖稿，以獲得您想要的外觀 （PDF）</strong></a>
       </div>
-      <em>[!DNL Stock]Adobe可讓您輕鬆找到獨特的向量圖形，Adobe Illustrator可讓您快速修改圖形，以符合您的創意構想</em>
+      <em>[!DNL Stock]Adobe可讓您輕鬆找到獨特的向量圖形，Adobe Illustrator可讓您快速進行修改，以符合您的創意構想</em>
       <br>
    </td>
    <td>
@@ -348,7 +348,7 @@ ht-degree: 0%
          <img alt="透過Adobe和Photoshop [!DNL Stock] ，在真實世界中展現您的設計作品" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用 Adobe 和 Photoshop [!DNL Stock] （PDF） 在真實世界中展現您的設計作品</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用 Adobe 和 Photoshop [!DNL Stock] （PDF） 在真實世界中展示您的設計作品</strong></a>
       </div>
       <em>請依照下列步驟，使用Adobe Photoshop在逼真的Adobe [!DNL Stock] 範本中展示您的作品Adobe Photoshop</em>
       <br>

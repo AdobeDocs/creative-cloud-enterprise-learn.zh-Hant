@@ -1,5 +1,5 @@
 ---
-title: 自訂向量圖Adobe  [!DNL Stock]  顏色
+title: 自訂向量圖  [!DNL Stock]  Adobe顏色
 description: 使用精美的插圖，為任何專案增添修飾效果。 在Adobe中找到完美的向量，然後使用Adobe Illustrator  [!DNL Stock] 讓顏色符合專案的浮動視窗Adobe Illustrator
 role: User
 level: Beginner, Intermediate

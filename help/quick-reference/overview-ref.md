@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud企業快速參考指南
-description: 協助您快速上Creative Cloud企業版產品的教學課程
+description: 協助您快速上新Creative Cloud企業版產品的教學課程
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
@@ -137,7 +137,7 @@ ht-degree: 0%
       <img alt="在 iPad （和 iPhone） 上試試Fresco手" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="Frescoworkshop.pdf" target="_blank"><strong>在 iPad （和 iPhone） （PDF） 上試試Fresco手</strong></a>
+   <a href="Frescoworkshop.pdf" target="_blank"><strong>在 iPad （和 iPhone） （PDF） 上Fresco用手試看</strong></a>
     </div>
     <em>在這場 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界</em>
     <br>
@@ -169,7 +169,7 @@ ht-degree: 0%
       <img alt="使用適用于 iPad 的 Illustrator 使用影像和形狀建立合成" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>使用適用于 iPad 的 Illustrator 建立影像和形狀合成 （PDF）</strong></a>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>使用適用于 iPad 的 Illustrator 建立影像和形狀的複合 （PDF）</strong></a>
     </div>
     <em>Illustrator可讓您以與文字樣式相同的方式為圖稿設定樣式</em>
     <br>
@@ -208,7 +208,7 @@ ht-degree: 0%
     <div>
     <a href="Decodingthealphabetsoupofgraphicformats.pdf" target="_blank"><strong>解碼圖形格式的字母湯 （PDF）</strong></a>
     </div>
-    <em>JPG、PNG、SVG、GIF 和 EPS 檔案都是設計中常用的檔案，有些是用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？</em>
+    <em>JPG、PNG、SVG、GIF 和 EPS 檔案皆常用於設計，有些用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？</em>
     <br>
   </td>
  <td>
@@ -350,7 +350,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 三維
+## 3D
 
 <table>
 <tr>
@@ -387,7 +387,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 視頻
+## 影片
 
 <table>
 <tr>
@@ -455,7 +455,7 @@ ht-degree: 0%
     <div>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>共同編輯：使用 Adobe XD 進行即時設計協作 （PDF）</strong></a>
     </div>
-    <em>學習使用專為Adobe XD和開發人員打造的獨一無二的共用工具，與同事、客戶和開發人員共同處理互動式原型Creative Cloud</em>
+    <em>學習使用專為Adobe XD和Creative Cloud打造的獨一無二的共用工具，與同事、客戶和開發人員在互動式原型上進行協作Creative Cloud</em>
     <br>
   </td>
   <td>
@@ -463,7 +463,7 @@ ht-degree: 0%
       <img alt="使用 Creative Cloud 設計互動式專案並製作原型" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>使用 Creative Cloud 設計互動式專案並製作原型 （PDF）</strong></a>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>使用 Creative Cloud 設計互動式專案並建立原型 （PDF）</strong></a>
     </div>
     <em>只要幾分鐘即可建立完全互動、動畫化的使用者體驗，只要將Adobe XD與各式各樣獨特、多元的資產結合起來Adobe [!DNL Stock]</em>
     <br>
@@ -473,7 +473,7 @@ ht-degree: 0%
       <img alt="讓我們XD– 瞭解如何設計團隊、製作原型和交出作品" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>讓我們XD – 瞭解如何設計團隊、製作原型及交出作品 （PDF）</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>讓我們XD – 瞭解如何設計團隊的原型及交互存 （PDF）</strong></a>
     </div>
     <em>元件為您的設計工作流程套用速度和一致性，給予您前所未有的靈活性</em>
     <br>

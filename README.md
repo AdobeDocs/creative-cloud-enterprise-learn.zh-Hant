@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ### 微幅變更
 
-如果您有善意要微幅更新，請造訪文章並按一下 **文章的「編輯** 」連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
+如果您為了善意提供微幅更新，請造訪文章並按一下 **文章的「編輯** 」連結，該連結會前往文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新。 如需詳細資訊，請參閱一般 [ Adobe檔貢獻者指南 ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
 
 您在此存放庫中微幅修正或說明文件及範例程式碼，均受Adobe使用條款規範。
 
@@ -54,7 +54,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ## 標籤
 
-在公開存放庫中，系統會將自動化標籤指派給提取要求，協助我們管理提取要求工作流程，並協助您瞭解提取要求的目前狀況：
+在公開存放庫中，系統會將自動化標籤指派給提取要求，協助我們管理提取要求工作流程，並協助您瞭解提取要求的現成狀況：
 
 * **傳送給作者** 的變更：已通知作者有待處理的提取要求。
 * **可合併** ：可供我們的提取要求審核團隊審核。

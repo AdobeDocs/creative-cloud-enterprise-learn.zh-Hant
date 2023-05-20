@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Rush]"'
-description: Premiereis  [!DNL Rush]  是首款跨裝置的全方位影片編輯應用程式，讓創作和分享線上內容變得比以往更加輕鬆
+title: "[!DNL Rush]"
+description: Premiere  [!DNL Rush]  是首款跨裝置的全方位影片編輯應用程式，可讓創作和分享線上內容變得比以往更加輕鬆
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
