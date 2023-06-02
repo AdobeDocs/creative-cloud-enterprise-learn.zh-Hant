@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 10%
       + [在 iPad 和 iPhone 上試試Fresco手](cce/frescoworkshop.md)
    + 快速參考指南 {#ccerefguides}
       + [CCE 指南](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [概觀](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概觀](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
