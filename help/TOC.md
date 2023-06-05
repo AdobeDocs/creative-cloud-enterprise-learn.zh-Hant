@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [在 iPad 和 iPhone 上試試Fresco手](cce/frescoworkshop.md)
    + 快速參考指南 {#ccerefguides}
       + [CCE 指南](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [概觀](express/overview-express.md)
+   + 教學課程 {#expresstutorials}
+      + [開始使用 Adobe Express](express/get-started.md)
+      + [初學者Adobe Express](express/adobe-express-beginners.md)
+      + [快速獲取靈感](express/get-inspiration.md)
+      + [建立範本](express/create-templates.md)
+      + [新增設計資產](express/add-design-assets.md)
+      + [群組物件](express/group-objects.md)
+      + [選取和移動圖層](express/layers.md)
+      + [建立多個頁面](express/multiple-pages.md)
+      + [復原和重做](express/undo-redo.md)
+      + [使用CC Libraries](express/cc-libraries.md)
+      + [套用您的品牌](express/brand.md)
+      + [Google 雲端硬碟整合](express/google-drive.md)
+      + [移除背景](express/remove-background.md)
+      + [調整挖剪圖案](express/refine-cutout.md)
+      + [使用文字效果](express/text-effects.md)
+      + [使用影像效果](express/image-effects.md)
+      + [建立曲線文字](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}

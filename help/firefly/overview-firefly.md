@@ -3,7 +3,7 @@ title: ' [!DNL Firefly] Adobe總覽'
 description: 快速上Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
+source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -29,21 +29,21 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
 <table>
 <tr>
    <td>
-      <a href="https://firefly.adobe.com/" {target="_blank" }>
-         <img alt="Adobe Firefly （測試版）" src="../assets/firefly-beta.png" />
+      <a href="https://firefly.adobe.com/" target="_blank">
+         <img alt="Adobe Firefly （測試版）" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" {target="_blank" }><strong>Adobe Firefly （測試版）</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly （測試版）</strong></a>
       </div>
       <em>加入 Adobe Firefly 測試版計畫。</em>
       <br>
   </td>
   <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }>
-         <img alt="在 Photoshop 中探索 Firefly" src="../assets/firefly-photoshop.png" />
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
+         <img alt="在 Photoshop 中探索 Firefly" src="assets/firefly-photoshop.png" />
       </a>
       <div>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" {target="_blank" }><strong>在 Photoshop 中探索 Firefly</strong></a>
+      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>在 Photoshop 中探索 Firefly</strong></a>
       </div>
       <em>Firefly 現正Photoshop中，您建立的方式絕非相同</em>
       <br>
