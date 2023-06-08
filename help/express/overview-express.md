@@ -3,9 +3,9 @@ title: ' [!DNL Express] Adobe總覽'
 description: 快速上Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: b443f7a315bb2239fcdde197d28af0d013d29851
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,18 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
       </a>
   </td>
   <td>
+      <a href="schedule.md">
+         <img alt="安排社交貼文" src="assets/schedule.png" />
+      </a>
+  </td>
+  <td>
+   <a href="collaborate.md">
+      <img alt="邀請專案共同作業人員" src="assets/collaborate.png" />
+   </a>
+  </td>
+</tr>
+<tr>
+   <td>
       <a href="get-inspiration.md">
          <img alt="快速獲取靈感" src="assets/inspiration.png" />
       </a>
@@ -48,9 +60,7 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
       <img alt="建立範本" src="assets/templates.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="add-design-assets.md">
          <img alt="新增設計資產" src="assets/design-assets.png" />
       </a>
@@ -60,7 +70,9 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="群組物件" src="assets/group-objects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="layers.md">
          <img alt="選取和移動圖層" src="assets/layers.png" />
       </a>
@@ -69,11 +81,8 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
       <a href="multiple-pages.md">
          <img alt="建立多個頁面" src="assets/multiple-pages.png" />
       </a>
-      <div>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="復原和重做" src="assets/undo-redo.png" />
       </a>
@@ -83,7 +92,9 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="brand.md">
          <img alt="套用您的品牌" src="assets/brand.png" />
       </a>
@@ -93,9 +104,7 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="Google 雲端硬碟整合" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
-    <td>
+   <td>
       <a href="remove-background.md">
          <img alt="移除背景" src="assets/background.png" />
       </a>
@@ -105,6 +114,7 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="調整挖剪圖案" src="assets/cutouts.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="text-effects.md">
          <img alt="使用文字效果" src="assets/text-effects.png" />
@@ -115,21 +125,10 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="使用影像效果" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="create-curved-text.md">
          <img alt="建立曲線文字" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
