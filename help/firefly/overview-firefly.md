@@ -3,9 +3,9 @@ title: ' [!DNL Firefly] Adobe總覽'
 description: 快速上Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,11 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       <a href="webinar-experimenting.md">
          <img alt="嘗試使用 Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>嘗試 Firefly 網路研討會</strong></a>
+      </div>
+      <em>在此網路研討會中深入瞭解 Firefly 測試版時，請加入並加入小外掛程式者</em>
+      <br>
   </td>
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
