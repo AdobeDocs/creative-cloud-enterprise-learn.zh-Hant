@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D 照明、600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 我們用我們的感官察覺察到我們周周周世界：我們聽到，我們覺得，我們有了，我們有了，我們沒問題。 我們可以看到，我們的眼睛會被稱為 Photons 的基本粒子帶入我們。 我們的大腦會處理這項資訊以產生影像。 我們解釋為物件顏色、光面、縮放或金屬特質，都是相片與物件表面之間互動的所有產品。
 
-電腦產生的 3D 場景中的光力機制遵循相同的 Photon 散射自然原理，其過程稱為 [ 光跡描圖 ](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) 。 光線會退回形狀並與材質互動，有效地定義物件在最終影像中的顯示方式。 光源會顯示 3D 場景中任何內容的立體度。
+電腦產生的 3D 場景中的光力機制遵循相同的 Photon 散射自然原理，其過程稱為光跡描圖。 光線會退回形狀並與材質互動，有效地定義物件在最終影像中的顯示方式。 光源會顯示 3D 場景中任何內容的立體度。
 
 有些材質對照明條件的敏感度比其他材質還要高。 例如，色度物件基本上是反映周遭的所有物件。 如果移動光線、變亮或變大，所有資訊都會直接在 Chrome 表面上以幾乎鏡像般的細節顯示，因此可能與一種光線條件完全不同。
 
