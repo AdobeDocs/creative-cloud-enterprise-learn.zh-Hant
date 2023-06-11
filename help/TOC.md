@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
+source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '482'
 ht-degree: 9%
 
 ---
@@ -106,29 +106,29 @@ ht-degree: 9%
    + [概觀](deploy/overview-deploy.md)
    + [序號到期](deploy/cceserial.md)
    + [指名的使用者授權](deploy/nameduserlicensing.md)
-+ MAX 2020 {#max2020}
-   + [概觀](max2020/overview-max.md)
++ Adobe MAX {#max}
+   + [概觀](max/overview-max.md)
    + 教學課程 {#tutorials}
-      + [概觀](max2020/maxtutorials.md)
+      + [概觀](max/maxtutorials.md)
       + 桌面產品 {#desktop-products}
-         + [Acrobat &amp; Sign](max2020/acrobat-sign.md)
-         + [[!DNL Dimension]](max2020/dimension.md)
-         + [Illustrator](max2020/illustrator.md)
-         + [InDesign](max2020/indesign.md)
-         + [Photoshop](max2020/photoshop.md)
-         + [[!DNL Rush]](max2020/rush.md)
-         + [XD](max2020/xd.md)
+         + [Acrobat &amp; Sign](max/acrobat-sign.md)
+         + [[!DNL Dimension]](max/dimension.md)
+         + [Illustrator](max/illustrator.md)
+         + [InDesign](max/indesign.md)
+         + [Photoshop](max/photoshop.md)
+         + [[!DNL Rush]](max/rush.md)
+         + [XD](max/xd.md)
       + 行動應用程式 {#mobile-apps}
-         + [[!DNL Capture]](max2020/capture.md)
-         + [Fresco](max2020/fresco.md)
-         + [iPad 版 Illustrator](max2020/illustratoripad.md)
-         + [iPad 版 Photoshop](max2020/photoshopipad.md)
+         + [[!DNL Capture]](max/capture.md)
+         + [Fresco](max/fresco.md)
+         + [iPad 版 Illustrator](max/illustratoripad.md)
+         + [iPad 版 Photoshop](max/photoshopipad.md)
       + 集成 {#integrations}
-         + [AEM](max2020/aem.md)
-         + [Creative Cloud 桌面應用程式](max2020/creativeclouddesktopapp.md)
-         + [CC Libraries](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
-         + [[!DNL Stock]](max2020/stock.md)
-         + [企業管理](max2020/enterprise.md)
+         + [AEM](max/aem.md)
+         + [Creative Cloud 桌面應用程式](max/creativeclouddesktopapp.md)
+         + [CC Libraries](max/cclibraries.md)
+         + [InDesign Server](max/indesignserver.md)
+         + [[!DNL Stock]](max/stock.md)
+         + [企業管理](max/enterprise.md)
       + 實作專案 {#project}
-         + [建立您自己的臉孔遮色片](max2020/handsonproject.md)
+         + [建立您自己的臉孔遮色片](max/handsonproject.md)
