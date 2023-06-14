@@ -3,9 +3,9 @@ title: ' [!DNL Express] Adobe總覽'
 description: 快速上Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -39,18 +39,23 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
       </a>
   </td>
   <td>
+      <a href="create-social-posters.md">
+         <img alt="使用 Firefly 製作社交海報" src="assets/social-firefly.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="安排社交貼文" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="collaborate.md">
       <img alt="邀請專案共同作業人員" src="assets/collaborate.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="get-inspiration.md">
          <img alt="快速獲取靈感" src="assets/inspiration.png" />
       </a>
@@ -65,14 +70,14 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="新增設計資產" src="assets/design-assets.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="group-objects.md">
          <img alt="群組物件" src="assets/group-objects.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="layers.md">
          <img alt="選取和移動圖層" src="assets/layers.png" />
       </a>
@@ -87,14 +92,14 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="復原和重做" src="assets/undo-redo.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="brand.md">
          <img alt="套用您的品牌" src="assets/brand.png" />
       </a>
@@ -109,12 +114,12 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
          <img alt="移除背景" src="assets/background.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="調整挖剪圖案" src="assets/cutouts.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="text-effects.md">
          <img alt="使用文字效果" src="assets/text-effects.png" />
@@ -129,11 +134,6 @@ Adobe Express 是簡單易用的創意工具，無需具備任何體驗。
       <a href="create-curved-text.md">
          <img alt="建立曲線文字" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
