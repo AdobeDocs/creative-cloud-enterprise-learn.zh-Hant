@@ -3,9 +3,9 @@ title: ' [!DNL Firefly] Adobe總覽'
 description: 快速上Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,14 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       <br>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="生成填色Photoshop" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>生成填色Photoshop</strong></a>
+      </div>
+      <em>瞭解如何使用由 Adobe Firefly 提供支援的「生成填色」</em>
+      <br>
   </td>
 </tr>
 </table>
