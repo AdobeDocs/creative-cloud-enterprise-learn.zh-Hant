@@ -4,9 +4,9 @@ description: 快速上Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="生成填色Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       </a>
   </td>
   <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="文字效果" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="間隔" src="../assets/Whitespacer.png" />
