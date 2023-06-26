@@ -5,9 +5,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,15 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="overview-of-firefly.md">
+         <img alt="Adobe Firefly 概覽" src="assets/firefly-overview.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="生成填色Photoshop" src="assets/generative-fill.png" />
       </a>
-  </td>
+   </td>
    <td>
       <a href="web-banner-ad.md">
          <img alt="橫幅廣告變體Photoshop" src="assets/banner-ad-variations.png" />
@@ -72,10 +77,27 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
          <img alt="文字效果" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
       <a href="generative-recolor.md">
          <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
       </a>
+  </td>
+<td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
