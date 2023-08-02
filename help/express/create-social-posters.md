@@ -3,7 +3,8 @@ title: 使用 Firefly 製作社交海報
 description: 瞭解如何使用由 Adobe Firefly 支援的「文字轉換為影像」和「文字效果」
 role: User
 level: Beginner
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+exl-id: 93765c61-c166-4d0b-86ed-91ed2d29d069
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 5%
