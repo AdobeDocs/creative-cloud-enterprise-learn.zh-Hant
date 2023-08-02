@@ -1,11 +1,11 @@
 ---
 title: 使用 Firefly 製作網路研討會海報
-description: 瞭解如何使用由 Adobe Firefly 支援的「文字轉換為影像」和「文字效果」
+description: 瞭解如何為虛擬實境活動製作網路研討會海報
 role: User
 level: Beginner
-source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 4%
 
 ---
