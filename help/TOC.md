@@ -4,9 +4,9 @@ breadcrumb-title: 適用於企業的 Creative Cloud
 user-guide-description: 觀看教學課程和重點為適用於企業的 Creative Cloud的快速參考指南
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '531'
 ht-degree: 9%
 
 ---
@@ -36,9 +36,10 @@ ht-degree: 9%
    + 教學課程 {#expresstutorials}
       + [開始使用 Adobe Express](express/get-started.md)
       + [初學者Adobe Express](express/adobe-express-beginners.md)
+      + [使用 Firefly 建立行銷宣傳活動的傳單內容](express/create-local-marketing.md)
       + [使用 Firefly 建立招募和入門內容](express/create-on-boarding.md)
-      + [使用 Firefly 為部落格製作圖形內容](express/create-blog-graphics.md)
       + [使用 Firefly 製作社交海報](express/create-social-posters.md)
+      + [使用 Firefly 為部落格製作圖形內容](express/create-blog-graphics.md)
       + [使用 Firefly 製作網路研討會海報](express/create-webinar-poster.md)
       + [安排社交貼文](express/schedule.md)
       + [邀請專案共同作業人員](express/collaborate.md)

@@ -1,11 +1,11 @@
 ---
 title: 使用 Firefly 建立 Recruiting 和入門內容
-description: 瞭解如何為員工招募和入門內容製作獨特的圖形
+description: 瞭解如何在 Adobe Express 中使用由 Adobe Firefly 支援的「文字轉影像」，為員工招募和入門內容製作獨特的圖形
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---
