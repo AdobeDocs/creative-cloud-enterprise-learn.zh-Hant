@@ -1,12 +1,13 @@
 ---
 title: InDesign Server
-description: ® Adobe Adobe InDesign® Server 軟體提供了強大且可擴充的引擎，利用InDesign的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔
+description: Adobe Adobe&reg;InDesign&reg;伺服器軟體提供強大且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，以程式設計方式建立引人入勝的自動化檔
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---

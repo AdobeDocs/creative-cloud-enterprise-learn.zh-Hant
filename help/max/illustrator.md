@@ -2,9 +2,10 @@
 title: Illustrator
 description: 針對網頁、行動裝置或印刷品，建立標誌、圖示、插圖和任何其他設計
 role: User
+feature: Vector Editing
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

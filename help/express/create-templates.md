@@ -1,9 +1,11 @@
 ---
 title: 建立範本
 description: 瞭解如何再次使用相同的專案版面
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 64d758ab-85ef-46fa-865d-1f18d2fb4c6f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 0%

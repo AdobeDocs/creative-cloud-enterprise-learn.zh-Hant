@@ -1,10 +1,12 @@
 ---
 title: Adobe XD教學課程
 description: 協助您快速上Adobe XD的教學課程
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%

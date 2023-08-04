@@ -1,11 +1,12 @@
 ---
 title: 使用 3D 演算和合成來建立逼真的虛擬攝影
 description: 瞭解如何在Adobe中使用 3D 影像合成和演算來建立具感應性、逼真的虛擬攝影Adobe [!DNL Dimension]
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: 虛擬攝影，100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2367'
 ht-degree: 0%

@@ -1,10 +1,11 @@
 ---
 title: XD
 description: Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數位體驗
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%

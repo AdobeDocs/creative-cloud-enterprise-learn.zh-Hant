@@ -1,20 +1,22 @@
 ---
 title: 共同作業--創意的未來
-description: 瞭解Adobe Creative Cloud訂閱有許多好處可免費存取 20，000 多種專業設計及精選的字體Adobe Fonts
+description: 瞭解如何新增評論，以及與您的團隊成員、利益相關者和客戶分享有關Creative Cloud檔案和資料夾的意見，以及從Adobe Fonts
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
 # 協作：創意的未來
 
-在Adobe Creative Cloud訂閱眾多好處中，可免費存取 20，000 多種專業設計及精選Adobe Fonts字體。 Adobe Fonts最初稱為 Typekit，透過單一授權合約提供，可供設計人員為個人或商業專案提供無限的創意使用。
+了解如何與您的團隊成員、利益相關者和客戶就 Creative Cloud 檔案和檔案夾新增評論和共用反饋。從Adobe Creative Cloud網站分享或從 Illustrator、InDesign 或 Photoshop 等應用程式共用以供審核。
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 

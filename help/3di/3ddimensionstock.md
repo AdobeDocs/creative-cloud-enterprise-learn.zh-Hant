@@ -1,10 +1,11 @@
 ---
 title: 使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]
 description: 在 [！DNL  [!DNL Dimension]]  使用材質、環境屬性、照明和攝影，為任何設計專案製作逼真的影像
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 27eb25b1-f0ef-478d-b36f-bcbf8be616b0
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

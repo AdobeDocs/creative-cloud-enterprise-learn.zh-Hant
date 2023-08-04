@@ -1,12 +1,13 @@
 ---
 title: 在 iPad （和 iPhone） 上試試Fresco手
 description: 在這場 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
-kt: 8039
+jira: KT-8039
 thumbnail: KT-8039.jpg
 exl-id: 575a18f7-7927-42e7-bd0b-58994536a9f7
-source-git-commit: a3fa682d11269ca94ca5b7d9a5a00178722d3cce
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

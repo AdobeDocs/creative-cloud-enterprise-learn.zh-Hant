@@ -1,11 +1,12 @@
 ---
 title: 在 CGI 中掌握 3D 照明的秘訣和技術
 description: 瞭解 3D 光源以及如何建立不同的光線條件，完全改變電腦產生的場景以及物件在其中的外觀
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: 3D 照明、600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2733'
 ht-degree: 0%

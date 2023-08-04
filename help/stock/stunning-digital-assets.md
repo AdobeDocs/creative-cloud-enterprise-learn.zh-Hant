@@ -1,11 +1,12 @@
 ---
 title: 令人驚歎的數位資產
 description: 透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

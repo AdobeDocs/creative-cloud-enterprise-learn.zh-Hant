@@ -1,10 +1,11 @@
 ---
 title: 使用 Firefly 建立行銷Campaign傳單內容
 description: 瞭解如何在全球旅館行銷活動中使用由 Adobe Firefly 提供支援的「文字到影像」Adobe Express 當地語系化內容
+feature: Image Editing
 role: User
 level: Beginner
 jira: KT-13756
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 4%

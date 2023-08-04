@@ -3,8 +3,9 @@ title: Adobe 3D 和 VR 教學課程
 description: 協助您快速上Adobe 3D 和 VR 的教學課程
 role: User
 level: Beginner, Intermediate
+jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
