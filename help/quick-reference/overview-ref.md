@@ -1,11 +1,12 @@
 ---
 title: Creative Cloud企業快速參考指南
 description: 協助您快速上新Creative Cloud企業版產品的教學課程
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Video Editing, 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
