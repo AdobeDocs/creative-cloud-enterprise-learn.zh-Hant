@@ -3,8 +3,9 @@ title: 序號即將到期？ 為什麼指名使用者授權是時候了
 description: 透過指名使用者授權 （NUL） 授權Adobe產品，讓 IT 管理員可以使用Admin Console輕鬆部署和管理Adobe工具，並讓使用者存取世界級的創意和生產力應用程式和 Adobe Cloud 服務，即使整個員工團隊都在遠端
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

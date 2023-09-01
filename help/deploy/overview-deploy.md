@@ -3,8 +3,9 @@ title: 適用於企業的 Creative Cloud部署影片
 description: 快速瞭解如何部署和管理適用於企業的 Creative Cloud應用程式
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 14%

@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 教學課程
 description: 這些教學課程將協助您從企業角度學習 2021 年 Creative Cloud 版的新功能
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 25%

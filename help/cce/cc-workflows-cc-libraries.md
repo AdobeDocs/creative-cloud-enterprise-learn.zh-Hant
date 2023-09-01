@@ -1,12 +1,12 @@
 ---
 title: 使用 CC Libraries 改善 CC 工作流程
 description: 瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計人員和團隊的專案一致性
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
