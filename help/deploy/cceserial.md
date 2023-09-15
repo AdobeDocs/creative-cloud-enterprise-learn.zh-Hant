@@ -3,8 +3,9 @@ title: 瞭解適用於企業的 Creative Cloud和Acrobat序號到期
 description: 瞭解適用于適用於企業的 Creative Cloud和Acrobat的序號到期體驗
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 3%
