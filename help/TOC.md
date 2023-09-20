@@ -7,7 +7,7 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: b8c6d0f08927f3bd86df16d4c05098f471247c6a
+source-git-commit: bf33377aba7b4abce6a6c1e6d137451b4b403612
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 9%
@@ -56,7 +56,7 @@ ht-degree: 9%
       + [使用文字效果](express/text-effects.md)
       + [使用影像效果](express/image-effects.md)
       + [建立曲線文字](express/create-curved-text.md)
-      + 使用案例教學課程 {#expressusecase}
+   + 使用案例教學課程 {#expressusecase}
       + [總覽](express/overview-express-use-case-tutorials.md)
       + [讓分散的團隊能夠將內容當地語系化](express/localized-marketing-content.md)
       + [快速開始創意構想](express/jumpstart-ideation.md)
