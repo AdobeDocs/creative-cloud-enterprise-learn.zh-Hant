@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '540'
 ht-degree: 9%
 
 ---
@@ -36,32 +36,34 @@ ht-degree: 9%
       + [CCE 指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [總覽](express/overview-express.md)
-   + 教學課程 {#expresstutorials}
-      + [開始使用 Adobe Express](express/get-started.md)
-      + [快速開始創意構想](express/jumpstart-ideation.md)
-      + [初學者Adobe Express](express/adobe-express-beginners.md)
-      + [使用 Firefly 建立行銷宣傳活動的傳單內容](express/create-local-marketing.md)
-      + [使用 Firefly 建立招募和入門內容](express/create-on-boarding.md)
-      + [使用 Firefly 製作社交海報](express/create-social-posters.md)
-      + [使用 Firefly 為部落格製作圖形內容](express/create-blog-graphics.md)
-      + [使用 Firefly 製作網路研討會海報](express/create-webinar-poster.md)
-      + [安排社交貼文](express/schedule.md)
-      + [邀請專案共同作業人員](express/collaborate.md)
-      + [快速獲取靈感](express/get-inspiration.md)
-      + [建立範本](express/create-templates.md)
-      + [新增設計資產](express/add-design-assets.md)
-      + [群組物件](express/group-objects.md)
-      + [選取和移動圖層](express/layers.md)
-      + [建立多個頁面](express/multiple-pages.md)
-      + [復原和重做](express/undo-redo.md)
-      + [使用CC Libraries](express/cc-libraries.md)
-      + [套用您的品牌](express/brand.md)
-      + [Google 雲端硬碟整合](express/google-drive.md)
-      + [移除背景](express/remove-background.md)
-      + [調整挖剪圖案](express/refine-cutout.md)
-      + [使用文字效果](express/text-effects.md)
-      + [使用影像效果](express/image-effects.md)
-      + [建立曲線文字](express/create-curved-text.md)
+   + 操作教學課程 {#expresshowto}
+      + [總覽](express/overview-express-how-to.md)
+         + [開始使用 Adobe Express](express/get-started.md)
+         + [安排社交貼文](express/schedule.md)
+         + [邀請專案共同作業人員](express/collaborate.md)
+         + [快速獲取靈感](express/get-inspiration.md)
+         + [建立範本](express/create-templates.md)
+         + [新增設計資產](express/add-design-assets.md)
+         + [群組物件](express/group-objects.md)
+         + [選取和移動圖層](express/layers.md)
+         + [建立多個頁面](express/multiple-pages.md)
+         + [復原和重做](express/undo-redo.md)
+         + [使用CC Libraries](express/cc-libraries.md)
+         + [套用您的品牌](express/brand.md)
+         + [Google 雲端硬碟整合](express/google-drive.md)
+         + [移除背景](express/remove-background.md)
+         + [調整挖剪圖案](express/refine-cutout.md)
+         + [使用文字效果](express/text-effects.md)
+         + [使用影像效果](express/image-effects.md)
+         + [建立曲線文字](express/create-curved-text.md)
+      + 使用案例教學課程 {expressusecase}
+         + [快速開始創意構想](express/jumpstart-ideation.md)
+         + [初學者Adobe Express](express/adobe-express-beginners.md)
+         + [使用 Firefly 建立行銷宣傳活動的傳單內容](express/create-local-marketing.md)
+         + [使用 Firefly 建立招募和入門內容](express/create-on-boarding.md)
+         + [使用 Firefly 製作社交海報](express/create-social-posters.md)
+         + [使用 Firefly 為部落格製作圖形內容](express/create-blog-graphics.md)
+         + [使用 Firefly 製作網路研討會海報](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [總覽](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
