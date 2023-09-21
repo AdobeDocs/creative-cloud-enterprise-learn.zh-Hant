@@ -2,8 +2,9 @@
 title: 使用 Firefly 製作網路研討會海報
 description: 瞭解如何在 Adobe Express 中使用由 Adobe Firefly 提供支援的「文字轉影像」，為虛擬實境活動製作網路研討會海報
 feature: Image Editing, Gen AI
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13525
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 4%
