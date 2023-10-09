@@ -1,19 +1,19 @@
 ---
-title: 使用影像效果
-description: 瞭解如何讓影像變亮和變暗
+title: 如何新增效果和調整至相片
+description: 透過新增相片效果和調整，探索無限可能
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
+source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 使用影像效果
+# 如何新增效果和調整至相片
 
-瞭解如何讓影像變亮和變暗。
+瞭解如何新增效果和調整至相片。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420223?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
