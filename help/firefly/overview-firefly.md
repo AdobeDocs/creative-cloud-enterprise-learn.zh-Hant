@@ -5,10 +5,10 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
-exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
@@ -64,31 +64,31 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       </a>
    </td>
    <td>
+      <a href="enable-creative-efficiency.md">
+         <img alt="提高創意效率" src="assets/enable-creative-efficiency.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="生成填色Photoshop" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+  <td>
       <a href="web-banner-ad.md">
          <img alt="橫幅廣告變體Photoshop" src="assets/banner-ad-variations.png" />
-      </a>
-  </td>
-  <td>
-      <a href="text-effects.md">
-         <img alt="文字效果" src="assets/text-effects.png" />
       </a>
   </td>
 </tr>
 <tr>
 <td>
-      <a href="generative-recolor.md">
-         <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
+      <a href="text-effects.md">
+         <img alt="文字效果" src="assets/text-effects.png" />
       </a>
   </td>
 <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
+      </a>
   </td>
   <td>
     <img alt="間隔" src="../assets/Gray_thumbnail.png" />

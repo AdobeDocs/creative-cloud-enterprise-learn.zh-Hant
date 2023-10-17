@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -18,9 +18,9 @@ ht-degree: 8%
 
 # 適用於企業的 Creative Cloud教學課程 {#cce-learning-hub}
 
-+ [總覽](overview.md)
++ [概觀](overview.md)
 + 適用於企業的 Creative Cloud {#cceoverview}
-   + [總覽](cce/overview-cce.md)
+   + [概觀](cce/overview-cce.md)
    + 教學課程 {#ccetutorials}
       + [內容創作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用 CC Libraries 改善 CC 工作流程](cce/cc-workflows-cc-libraries.md)
@@ -36,9 +36,9 @@ ht-degree: 8%
    + 快速參考指南 {#ccerefguides}
       + [CCE 指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
-   + [總覽](express/overview-express.md)
+   + [概觀](express/overview-express.md)
    + 操作教學課程 {#expresshowto}
-      + [總覽](express/overview-express-how-to.md)
+      + [概觀](express/overview-express-how-to.md)
       + [開始使用 Adobe Express](express/get-started.md)
       + [安排社交貼文](express/schedule.md)
       + [邀請專案共同作業人員](express/collaborate.md)
@@ -58,7 +58,7 @@ ht-degree: 8%
       + [如何新增效果和調整至相片](express/image-effects.md)
       + [建立曲線文字](express/create-curved-text.md)
    + 使用案例教學課程 {#expressusecase}
-      + [總覽](express/overview-express-use-case-tutorials.md)
+      + [概觀](express/overview-express-use-case-tutorials.md)
       + [建立引人入勝的商品銷售內容](express/compelling-merchandise.md)
       + [賦予行銷團隊建立多通道內容的能力](express/multi-channel-marketing-content.md)
       + [讓分散的團隊能夠將內容當地語系化](express/localized-marketing-content.md)
@@ -67,12 +67,13 @@ ht-degree: 8%
       + [使用 Firefly 建立行銷宣傳活動的傳單內容](express/create-local-marketing.md)
       + [使用 Firefly 建立招募和入門內容](express/create-on-boarding.md)
       + [使用 Firefly 製作社交海報](express/create-social-posters.md)
-      + [使用 Firefly 為部落格製作圖形內容](express/create-blog-graphics.md)
+      + [輕鬆執行社交宣傳活動](express/create-blog-graphics.md)
       + [使用 Firefly 製作網路研討會海報](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
-   + [總覽](firefly/overview-firefly.md)
+   + [概觀](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
       + [Adobe Firefly 概覽](firefly/overview-of-firefly.md)
+      + [提高創意效率](firefly/enable-creative-efficiency.md)
       + [橫幅廣告變化 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [生成填色 [!DNL Photoshop]](firefly/generative-fill.md)
       + [文字效果](firefly/text-effects.md)
@@ -80,7 +81,7 @@ ht-degree: 8%
    + 網路研討會 {#firefly-webinars}
       + [嘗試使用 Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [總覽](stock/overview-stock.md)
+   + [概觀](stock/overview-stock.md)
    + 教學課程 {#stocktutorials}
       + [令人驚歎的數位資產](stock/stunning-digital-assets.md)
       + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
@@ -107,31 +108,31 @@ ht-degree: 8%
       + [自訂Adobe  [!DNL Stock]  簡報範本以看起來專業](stock/presentationtemplate.md)
       + [自訂向量圖  [!DNL Stock]  Adobe顏色](stock/customizecolors.md)
 + Adobe 3D 和 VR {#3doverview}
-   + [總覽](3di/overview-3di.md)
+   + [概觀](3di/overview-3di.md)
    + 教學課程 {#3dtutorials}
       + [3D 設計和演算](3di/substance-3d-stager.md)
       + [在 CGI 中掌握 3D 照明的秘訣和技術](3di/mastering3dlighting.md)
       + [使用 3D 演算和合成來建立逼真的虛擬攝影](3di/photorealistic.md)
       + [使用和Adobe自訂 3D 模型  [!DNL Dimension]  並建立品牌 [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe影片 {#videooverview}
-   + [總覽](dva/overview-dva.md)
+   + [概觀](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
       + [專業動態圖形範本](dva/motion-graphics-templates.md)
       + [使用 Frame.io 進行視訊審核](dva/video-review-frame-io.md)
    + 快速參考指南 {#videorefguides}
       + [影片指南](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [總覽](xd/overview-xd.md)
+   + [概觀](xd/overview-xd.md)
    + 教學課程 {#xdtutorials}
    + [在 Adobe XD 中使用 [!UICONTROL  元件 ] 時感到自在](xd/components.md)
 + 部署和管理 {#deploy}
-   + [總覽](deploy/overview-deploy.md)
+   + [概觀](deploy/overview-deploy.md)
    + [序號到期](deploy/cceserial.md)
    + [指名的使用者授權](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
-   + [總覽](max/overview-max.md)
+   + [概觀](max/overview-max.md)
    + 教學課程 {#tutorials}
-      + [總覽](max/maxtutorials.md)
+      + [概觀](max/maxtutorials.md)
       + 桌面產品 {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
