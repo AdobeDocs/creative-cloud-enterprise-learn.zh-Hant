@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Fresco
-
-![教學課程主圖影像](../assets/Fresco.jpg)
 
 Adobe Fresco 是一款跨平臺的應用程式，可透過將向量和點陣工作流程與雲端檔結合的筆刷方法來建立繪圖和畫作。
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Adobe 3D 和 VR 教學課程
-
-![Creative Cloud英雄影像](../assets/Dimenio.jpg)
 
 運用高品質模型、材質和照明，更快速地在 3D 中創作引人入勝的內容。 [!DNL Dimension] 輕鬆製作品牌視覺化內容、插圖、產品模型、包裝設計和其他創意作品。 選取影像以檢視教學課程。
 

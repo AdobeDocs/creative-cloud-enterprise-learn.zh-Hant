@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
 
 # Adobe XD教學課程
-
-![Creative Cloud英雄影像](../assets/XD.jpg)
 
 Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數位體驗。 選取影像以檢視教學課程。
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Adobe影片教學課程
-
-![Creative Cloud英雄影像](../assets/CCEbanner-DVA.png)
 
 使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以檢視教學課程。
 

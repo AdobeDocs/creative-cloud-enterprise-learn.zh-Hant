@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
-
-![教學課程主圖影像](../assets/Rush.jpg)
 
 Premiere [!DNL Rush] 是首款跨裝置的全方位影片編輯應用程式，讓創作和分享線上內容變得比以往更加輕鬆。 此整合式桌面和行動解決方案會自動將專案和編輯內容同步到雲端，讓您可以隨處在任何裝置上工作。
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # 適用於企業的 Creative Cloud教學課程
-
-![Creative Cloud英雄影像](../assets/CCEbanner.png)
 
 身為企業創意人員，您必須與分散的團隊協作、建立可擴充的流程，並遵循公司系統和方針。 這些教學課程可協助您從企業角度學習Creative Cloud新功能。
 
@@ -237,7 +235,7 @@ ht-degree: 1%
     <div>
    <a href="collaboration-the-future-of-creativity.md"><strong>協作：創意的未來</strong></a>
     </div>
-    <em>在Adobe Creative Cloud訂閱眾多好處中，可免費存取 20，000 多種專業設計及精選的字體Adobe Fonts</em>
+    <em>在Adobe Creative Cloud訂閱眾多好處中，可免費存取 20,000 多種專業設計及精選的字體Adobe Fonts</em>
     <br>
   </td>
   <td>
@@ -338,7 +336,7 @@ ht-degree: 1%
     <div>
    <a href="taming-type-anxiety.md"><strong>坦平文字分析</strong></a>
     </div>
-    <em>瞭解如何在 Creative Cloud 中存取和使用超過 20，000 種專業設計的字體</em>
+    <em>瞭解如何在 Creative Cloud 中存取和使用超過 20,000 種專業設計的字體</em>
     <br>
   </td>
   <td>
@@ -368,7 +366,7 @@ ht-degree: 1%
     <div>
    <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>在OpenType字體中釋放隱藏的 Gems （PDF）</strong></a>
     </div>
-    <em>OpenType格式允許包含最多 65，536 個字元的字體</em>
+    <em>OpenType格式允許包含最多 65,536 個字元的字體</em>
     <br>
   </td>
 </table>

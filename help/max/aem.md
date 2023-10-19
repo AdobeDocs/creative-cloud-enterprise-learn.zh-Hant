@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
 
 # AEM Assets和 Asset Link
-
-![教學課程主圖影像](../assets/AEM.jpg)
 
 Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適用于企業和中型組織。 它提供了可擴充的現代化基礎，可提供引人入勝的體驗，藉以促進品牌互動、推動需求並提高客戶忠誠度。 Experience Manager包含一套完整的工具，可跨所有通道建立、管理和提供數位體驗。
 

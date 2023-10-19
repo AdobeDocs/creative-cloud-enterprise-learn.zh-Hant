@@ -5,16 +5,14 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 25%
+source-wordcount: '319'
+ht-degree: 26%
 
 ---
 
 # 教學課程
-
-![Max 2020 Hero Image](../assets/MAX.jpg)
 
 身為企業創意人員，您需要與分散的團隊協作、建立可擴充的流程，並符合公司系統和指導方針。 這些教學課程將協助您從企業角度學習 2021 年 Creative Cloud 版的新功能。
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]Adobe教學課程
-
-![Creative Cloud英雄影像](../assets/Stock.jpg)
 
 創意人員必須快速提供引人入勝的視覺內容，就面臨壓力。 Adobe Stock讓創意團隊可以存取他們每天使用的 Creative Cloud 應用程式中的逾 3 億個免版稅影像、視訊、音訊檔案、範本、插圖和 3D 資產。 透過 Creative Cloud Pro Edition，不限數量存取Adobe Stock標準資產。 在 stock.adobe.com 探索最新的收藏集。 選取影像以檢視教學課程。
 

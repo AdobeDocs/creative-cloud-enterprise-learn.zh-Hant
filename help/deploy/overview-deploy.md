@@ -5,16 +5,14 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 14%
+source-wordcount: '126'
+ht-degree: 15%
 
 ---
 
 # 適用於企業的 Creative Cloud部署和管理主題
-
-![Creative Cloud英雄影像](../assets/CCEbanner.png)
 
 適用於企業的 Creative Cloud 支援自訂部署和靈活的授權調整，而且可與其他 Adobe 企業產品搭配使用。
 

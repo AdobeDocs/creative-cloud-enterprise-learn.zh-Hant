@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -16,7 +16,7 @@ ht-degree: 8%
 ---
 
 
-# 適用於企業的 Creative Cloud教學課程 {#cce-learning-hub}
+# 適用于企業的Creative Cloud教學課程 {#cce-learning-hub}
 
 + [概觀](overview.md)
 + 適用於企業的 Creative Cloud {#cceoverview}

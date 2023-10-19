@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # 列印增效模組的設計 – 自訂臉孔遮色片
-
-![教學課程主圖影像](../assets/faceMaskSplash.jpg)
 
 如果可以使用自己的圖稿自訂遮色片，這會不會酷炫嗎？ 透過Adobe設計以列印增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈到他們的線上市集。
 
