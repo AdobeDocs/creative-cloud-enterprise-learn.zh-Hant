@@ -1,19 +1,20 @@
 ---
-title: 使用 Adobe Express 開始使用
-description: 瞭解 Adobe Express 的基本概念
+title: 首頁上的功能
+description: 探索首頁，讓您可以輕鬆瀏覽應用程式
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 8d532b2e-4eab-4c73-9ad6-30776904d59b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13408
+exl-id: e348f971-0dee-4282-860b-f33c2a05cd47
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# 開始使用 Adobe Express
+# 首頁上的功能
 
-學習 Adobe Express 的基本知識。
+探索首頁，讓您可以輕鬆瀏覽應用程式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
