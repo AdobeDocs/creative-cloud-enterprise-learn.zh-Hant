@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [如何新增文字](express/text-effects.md)
       + [如何新增影像](express/image-effects.md)
       + [如何新增 AI 世代影像](express/add-gen-ai-image.md)
+      + [如何使用格點](express/grids.md)
+      + [如何使用元素](express/add-design-assets.md)
+      + [使用層次和工作區域](express/layers.md)
+      + [如何進行共同作業](express/collaborate.md)
+      + [如何分享和下載](express/share.md)
+      + [如何使用版本記錄](express/version-history.md)
       + [安排社交貼文](express/schedule.md)
-      + [邀請專案共同作業人員](express/collaborate.md)
       + [快速獲取靈感](express/get-inspiration.md)
       + [建立範本](express/create-templates.md)
-      + [新增設計資產](express/add-design-assets.md)
       + [群組物件](express/group-objects.md)
-      + [選取和移動圖層](express/layers.md)
       + [建立多個頁面](express/multiple-pages.md)
       + [復原和重做](express/undo-redo.md)
       + [使用CC Libraries](express/cc-libraries.md)
