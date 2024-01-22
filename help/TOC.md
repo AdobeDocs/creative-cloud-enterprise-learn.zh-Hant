@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [首頁上的功能](express/get-started.md)
       + [快速動作簡介](express/quick-actions.md)
       + [範本簡介](express/introduction-templates.md)
+      + [設定品牌手冊](express/brand.md)
+      + [開始專案](express/new-project.md)
+      + [專案的UX](express/workspace.md)
+      + [如何新增文字](express/text-effects.md)
+      + [如何新增影像](express/image-effects.md)
+      + [如何新增 AI 世代影像](express/add-gen-ai-image.md)
       + [安排社交貼文](express/schedule.md)
       + [邀請專案共同作業人員](express/collaborate.md)
       + [快速獲取靈感](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [建立多個頁面](express/multiple-pages.md)
       + [復原和重做](express/undo-redo.md)
       + [使用CC Libraries](express/cc-libraries.md)
-      + [套用您的品牌](express/brand.md)
       + [Google 雲端硬碟整合](express/google-drive.md)
       + [如何一鍵移除相片背景](express/remove-background.md)
       + [調整挖剪圖案](express/refine-cutout.md)
-      + [使用文字效果](express/text-effects.md)
-      + [如何新增效果和調整至相片](express/image-effects.md)
       + [建立曲線文字](express/create-curved-text.md)
    + 使用案例教學課程 {#expressusecase}
       + [概觀](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [賦予營銷團隊建立多通道內容的能力](express/multi-channel-marketing-content.md)
       + [讓分散的團隊能夠將內容當地語系化](express/localized-marketing-content.md)
       + [快速開始創意構想](express/jumpstart-ideation.md)
-      + [初學者Adobe Express](express/adobe-express-beginners.md)
       + [使用 Firefly 建立行銷宣傳活動的傳單內容](express/create-local-marketing.md)
       + [使用 Firefly 建立招募和入門內容](express/create-on-boarding.md)
       + [使用 Firefly 製作社交海報](express/create-social-posters.md)

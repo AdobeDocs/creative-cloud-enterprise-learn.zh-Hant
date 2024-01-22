@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,46 @@ ht-degree: 0%
       <a href="introduction-templates.md">
          <img alt="快速動作簡介" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="安排社交貼文" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="設定品牌手冊" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="開始專案" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="專案的UX" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="如何新增文字" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="如何新增影像" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="如何新增 AI 世代影像" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="安排社交貼文" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="邀請專案共同作業人員" src="assets/collaborate.png" />
@@ -51,7 +83,9 @@ ht-degree: 0%
          <img alt="快速獲取靈感" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="建立範本" src="assets/templates.png" />
    </a>
@@ -61,8 +95,6 @@ ht-degree: 0%
             <img alt="新增設計資產" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="群組物件" src="assets/group-objects.png" />
@@ -73,7 +105,9 @@ ht-degree: 0%
             <img alt="選取和移動圖層" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="建立多個頁面" src="assets/multiple-pages.png" />
       </a>
@@ -83,16 +117,9 @@ ht-degree: 0%
          <img alt="復原和重做" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="套用您的品牌" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -100,29 +127,24 @@ ht-degree: 0%
          <img alt="Google 雲端硬碟整合" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="拿掉背景" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="使用文字效果" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="使用影像效果" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="拿掉背景" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="建立曲線文字" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />
       <div>
       <br>
