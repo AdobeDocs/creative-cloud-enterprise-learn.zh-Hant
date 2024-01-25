@@ -1,19 +1,20 @@
 ---
-title: 如何一鍵移除相片背景
-description: 瞭解如何從圖片中移除背景
+title: 如何從任何影像移除背景
+description: 瞭解如何一鍵移除影像背景
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13419
 exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 如何一鍵移除相片背景
+# 如何從任何影像中移除背景
 
-瞭解如何從圖片中移除背景。
+一鍵瞭解如何從影像中移除背景。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)

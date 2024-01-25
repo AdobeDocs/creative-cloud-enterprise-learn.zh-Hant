@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [在動畫中加入音效](express/audio-animation.md)
       + [如何調整動畫大小](express/resize-animations.md)
       + [匯出您的動畫](express/export-animations.md)
-      + [安排社交貼文](express/schedule.md)
+      + [如何從任何影像中移除背景](express/remove-background.md)
+      + [Adobe Express 有哪些新的 AI 世代功能？](express/intro-gen-ai.md)
+      + [如何使用物件橡皮擦工具](express/object-eraser.md)
+      + [如何使用生成填色](express/generative-fill.md)
+      + [使用 Gen AI 改善您的文字設計](express/gen-text.md)
+      + [如何使用文字轉範本世代 AI](express/text-to-template.md)
+      + [如何大量翻譯您的內容](express/bulk-translate.md)
+      + [如何編輯 PDF](express/edit-a-pdf.md)
+      + [如何使用排程器張貼](express/schedule.md)
       + [建立範本](express/create-templates.md)
       + [群組物件](express/group-objects.md)
       + [建立多個頁面](express/multiple-pages.md)
       + [使用CC Libraries](express/cc-libraries.md)
       + [Google 雲端硬碟整合](express/google-drive.md)
-      + [如何一鍵移除相片背景](express/remove-background.md)
       + [調整挖剪圖案](express/refine-cutout.md)
       + [建立曲線文字](express/create-curved-text.md)
    + 使用案例教學課程 {#expressusecase}
