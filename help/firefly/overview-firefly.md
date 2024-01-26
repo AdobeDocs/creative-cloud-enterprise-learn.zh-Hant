@@ -6,18 +6,16 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: c190544aec8c9979bc8a009147f98b68e445b307
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
 
-# [!DNL Firefly]Adobe概觀
+# [!DNL Firefly] Adobe概觀
 
-Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，主要著重于影像和文字效果的產生。 Firefly 提供新的方式來構想、創作和溝通，同時顯著改善創意工作流程。
-
-<br> 
+Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，主要著重於影像和文字效果的產生。 Firefly 提供新的方式來構想、創作和溝通，同時顯著改善創意工作流程。
 
 ## Look您可以使用 Adobe Firefly 做些什麼
 
