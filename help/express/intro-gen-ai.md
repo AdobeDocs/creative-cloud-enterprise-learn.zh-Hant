@@ -3,9 +3,9 @@ title: Adobe Express 有哪些新的 AI 世代功能？
 description: 瞭解 Adobe Express 中新的 AI 世代功能
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14844
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

@@ -3,12 +3,12 @@ title: ' [!DNL Express] Adobe操作教學課程」'
 description: 快速上Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '265'
 ht-degree: 1%
 
 ---
@@ -289,14 +289,63 @@ ht-degree: 1%
       </a>
   </td>
   <td>
+         <a href="refine-cutout.md">
+            <img alt="調整挖剪圖案" src="assets/cutouts.png" />
+         </a>
+   </td>
+   <td>
          <a href="create-curved-text.md">
             <img alt="建立曲線文字" src="assets/curved-text.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## 影片
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="如何開始影片專案" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="如何新增影片剪輯" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="什麼是影片時間軸？" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="如何新增音訊" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-video.md">
+            <img alt="如何匯出影片" src="assets/export-video.png" />
          </a>
    </td>
    <td>
     <img alt="間隔" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
-  </td>
+   </td>
+   <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
 </tr>
 </table>
