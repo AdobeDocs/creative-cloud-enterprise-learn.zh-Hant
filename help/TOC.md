@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
+source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '763'
 ht-degree: 4%
 
 ---
@@ -92,6 +92,12 @@ ht-degree: 4%
       + [如何使用範本](express/use-templates.md)
    + 使用案例教學課程 {#expressusecase}
       + [概觀](express/overview-express-use-case-tutorials.md)
+      + [為在線學習課程建立促銷視覺效果](express/promo-visual.md)
+      + [製作年終影片](express/end-of-year-video.md)
+      + [如何製作電子報](express/newsletter.md)
+      + [為辦公室製作數字螢幕公告](express/create-digital-screens.md)
+      + [建立簡報背景](express/create-backgrounds.md)
+      + [更新金融彙整影像](express/update-image.md)
       + [建立引人入勝的商品銷售內容](express/compelling-merchandise.md)
       + [賦予營銷團隊建立多通道內容的能力](express/multi-channel-marketing-content.md)
       + [讓分散的團隊能夠將內容當地語系化](express/localized-marketing-content.md)
