@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -262,11 +262,6 @@ ht-degree: 1%
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="建立範本" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="群組物件" src="assets/group-objects.png" />
          </a>
@@ -276,13 +271,13 @@ ht-degree: 1%
          <img alt="建立多個頁面" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Google 雲端硬碟整合" src="assets/google-drive.png" />
@@ -297,6 +292,11 @@ ht-degree: 1%
          <a href="create-curved-text.md">
             <img alt="建立曲線文字" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -346,6 +346,33 @@ ht-degree: 1%
     <img alt="間隔" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## 範本
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="如何和為何鎖定圖層" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="建立範本" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="儲存和共用範本" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="如何使用範本" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>

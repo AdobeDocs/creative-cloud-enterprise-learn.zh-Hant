@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 4%
       + [如何大量翻譯您的內容](express/bulk-translate.md)
       + [如何編輯 PDF](express/edit-a-pdf.md)
       + [如何使用排程器張貼](express/schedule.md)
-      + [建立範本](express/create-templates.md)
       + [群組物件](express/group-objects.md)
       + [建立多個頁面](express/multiple-pages.md)
       + [使用CC Libraries](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 4%
       + [使用多個剪輯](express/multiple-clips.md)
       + [如何新增音訊](express/add-audio-video.md)
       + [如何匯出影片](express/export-video.md)
+      + [如何和為何鎖定圖層](express/lock-layers.md)
+      + [建立範本](express/create-templates.md)
+      + [儲存和共用範本](express/share-templates.md)
+      + [如何使用範本](express/use-templates.md)
    + 使用案例教學課程 {#expressusecase}
       + [概觀](express/overview-express-use-case-tutorials.md)
       + [建立引人入勝的商品銷售內容](express/compelling-merchandise.md)
