@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 瞭解您在專案中安排和編輯視訊物件 （例如影片、影像、文字和圖形） 的時間軸。 時間軸代表對象和構成影片之對象的順序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+
+## 本系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
