@@ -5,7 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="設定品牌手冊" src="assets/brand.png" />
       </a>
@@ -36,12 +36,12 @@ ht-degree: 0%
       <a href="workspace.md">
          <img alt="專案的UX" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="如何新增文字" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -76,7 +76,6 @@ ht-degree: 0%
       <img alt="如何進行共同作業" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="如何使用版本記錄" src="assets/version-history.png" />
