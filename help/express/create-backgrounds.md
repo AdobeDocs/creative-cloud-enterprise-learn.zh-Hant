@@ -5,15 +5,15 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14892
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # 建立簡報背景
 
-瞭解如何使用由 Adobe Firefly 技術支援的文字到影像，為 PowerPoint 簡報建立引人入勝的背景。
+瞭解如何建立具吸引力的PowerPoint簡報背景。 使用由 Adobe Firevly 提供支援的文字轉影像，您可以為簡報產生個人化影像，然後進一步變更影像、套用效果並下載，以供簡報使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)

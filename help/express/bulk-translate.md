@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # 如何大量翻譯您的內容
 
-瞭解如何將單一和多頁檔案上的文字翻譯為您選擇的 46 種語言，免除手動翻譯和外部翻譯工具的麻煩。
+瞭解如何自動以 46 種不同語言翻譯內容，建立項目的語言版本。 您可以選取所需的語言、複製和翻譯內容，並保留所有動畫。
+
+>[!NOTE]
+>
+>分享或下載前，務必先檢閱翻譯內容，以獲得準確性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

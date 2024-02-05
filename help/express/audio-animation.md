@@ -1,13 +1,13 @@
 ---
 title: 將音訊新增至動畫
-description: 透過新增音訊，建立引人入勝且令人難忘的專案
+description: 在動畫中加入音效，建立引人入勝且令人難忘的專案
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14837
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
