@@ -5,9 +5,9 @@ feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14848
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,52 @@ ht-degree: 0%
 瞭解如何在幾秒鐘內從文字說明產生社交貼文、海報、傳單和卡片的可編輯範本。 您可以在下載或分享之前進一步編輯設計、變更字型和建立專案品牌。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+
+## 本系列的其他影片
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="remove-background.md">
+            <img alt="如何從任何影像中移除背景" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Adobe Express 有哪些新的 AI 世代功能" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="如何使用物件橡皮擦工具" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="如何使用生成填色" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="使用 Gen AI 改善您的文字設計" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="如何大量翻譯您的內容" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="如何編輯 PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+   <td>
+      <a href="schedule.md">
+         <img alt="如何使用排程器張貼" src="assets/schedule.png" />
+      </a>
+   </td>
+</tr>
+</table>
