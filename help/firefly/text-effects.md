@@ -1,20 +1,21 @@
 ---
 title: 文字效果
-description: 瞭解如何使用由 Adobe Firefly 提供支援的文字效果
+description: 瞭解如何使用簡單的文字提示，為您的專案建立獨特且鼓舞人心的文字
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # 文字效果
 
-瞭解如何使用由 Adobe Firefly 提供支援的「文字效果」，為電子報製作獨特且鼓舞人心的標題影像。 請在這裡加入 Adobe Firefly （測試版） [ ](https://firefly.adobe.com/) 。
+瞭解如何使用簡單的文字提示，為您的專案建立獨特且鼓舞人心的文字。 文字效果可讓您提升創造力，併為您的專案建立卓越的文字。 請在這裡](https://firefly.adobe.com/)試Adobe Firefly[。
 
 <br> 
 

@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
-      + [Adobe Firefly 概覽](firefly/overview-of-firefly.md)
+      + [概觀 [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [發現 [!DNL Adobe Firefly]](firefly/discover.md)
+      + [登陸頁面](firefly/landing-page.md)
+      + [文字轉換為影像](firefly/text-to-image.md)
+      + [文字效果](firefly/text-effects.md)
+      + [生成填色](firefly/gen-fill.md)
+      + [生成重新上色](firefly/gen-recolor.md)
+      + [如何使用範例 [!DNL Firefly]](firefly/examples.md)
       + [提高創意效率](firefly/enable-creative-efficiency.md)
       + [橫幅廣告變化 [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [生成填色 [!DNL Photoshop]](firefly/generative-fill.md)
-      + [文字效果](firefly/text-effects.md)
       + [生成重新上色 [!DNL Illustrator]](firefly/generative-recolor.md)
    + 網路研討會 {#firefly-webinars}
       + [嘗試使用 Adobe Firefly](firefly/webinar-experimenting.md)

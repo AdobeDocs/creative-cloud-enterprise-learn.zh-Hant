@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: c190544aec8c9979bc8a009147f98b68e445b307
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -60,13 +60,52 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="探索 Adobe Firefly" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="landing-page.md">
+         <img alt="登陸頁面" src="assets/landing-page.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-image.md">
+         <img alt="文字轉換為影像" src="assets/text-to-image.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="text-effects.md">
+         <img alt="文字效果" src="assets/text-effects.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-fill.md">
+         <img alt="生成填色" src="assets/generative-fill.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-recolor.md">
+         <img alt="生成重新上色" src="assets/generative-recolor.png" />
+      </a>
+   </td>
+   <td>
+      <a href="examples.md">
+         <img alt="如何使用 Firefly 的範例" src="assets/examples.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="提高創意效率" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="生成填色Photoshop" src="assets/generative-fill.png" />
+         <img alt="生成填色Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
   <td>
@@ -74,27 +113,10 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
          <img alt="橫幅廣告變體Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-<td>
-      <a href="text-effects.md">
-         <img alt="文字效果" src="assets/text-effects.png" />
-      </a>
-  </td>
-<td>
+   <td>
       <a href="generative-recolor.md">
-         <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
+            <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
       </a>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+   </td>
 </tr>
 </table>
