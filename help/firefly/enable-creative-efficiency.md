@@ -5,16 +5,17 @@ feature: Image Editing, Gen AI, Vector Editing
 role: User
 level: Beginner
 jira: KT-14193
-source-git-commit: c99c352a43a64cb98ed7fa7bcbf57a9bc94828f7
+exl-id: f2ef46a2-996e-4c9c-87bc-c65691c95199
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
 # 提高創意效率
 
-瞭解如何使用Adobe Photoshop和Illustrator中生成的 AI 支援工具加快內容建立。 本教學課程使用Adobe Illustrator發行前版本。
+瞭解如何使用Adobe Photoshop和Illustrator中生成的 AI 支援工具加快內容建立。
 
 <br> 
 
