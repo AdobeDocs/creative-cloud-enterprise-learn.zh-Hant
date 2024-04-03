@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
+source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
       </a>
    </td>
    <td>
+      <a href="custom-model-subject.md">
+         <img alt="使用主體建立自定義模型" src="assets/custom-model-subject.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-style.md">
          <img alt="使用樣式建立自定義模型" src="assets/custom-model-styles.png" />
       </a>
@@ -69,14 +74,14 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
          <img alt="探索 Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="landing-page.md">
          <img alt="登陸頁面" src="assets/landing-page.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="text-to-image.md">
          <img alt="文字轉換為影像" src="assets/text-to-image.png" />
       </a>
@@ -91,14 +96,14 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
          <img alt="生成填色" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-recolor.md">
          <img alt="生成重新上色" src="assets/generative-recolor.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="examples.md">
          <img alt="如何使用 Firefly 的範例" src="assets/examples.png" />
       </a>
@@ -113,22 +118,17 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
          <img alt="生成填色Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="web-banner-ad.md">
          <img alt="橫幅廣告變體Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-recolor.md">
             <img alt="Illustrator重新上色" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="間隔" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="間隔" src="../assets/Gray_thumbnail.png" />
