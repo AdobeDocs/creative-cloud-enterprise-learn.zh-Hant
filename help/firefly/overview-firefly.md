@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+source-git-commit: 2d7bf0097a3c6b4ca0a8e692026f3457c3ef5c82
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -22,33 +22,6 @@ Firefly 是一系列新系列的創意生成 AI 模型即將推出Adobe產品，
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
-## 進一步瞭解 Adobe Firefly
-
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly （測試版）" src="assets/firefly-beta.png" />
-      </a>
-  </td>
-  <td>
-      <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="在 Photoshop 中探索 Firefly" src="assets/firefly-photoshop.png" />
-      </a>
-  </td>
-  <td>
-      <a href="webinar-experimenting.md">
-         <img alt="嘗試使用 Adobe Firefly" src="assets/webinar-experimenting.png" />
-      </a>
-  </td>
-  <td>
-    <img alt="間隔" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
 
 ## Firefly 教學課程
 
