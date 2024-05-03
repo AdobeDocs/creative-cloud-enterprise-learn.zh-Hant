@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 身為企業創意人員，您必須與分散的團隊協作、建立可擴充的流程，並遵循公司系統和方針。 這些教學課程可協助您從企業角度學習Creative Cloud新功能。
 
-## 按一下以檢視產品教學課程 （按字母順序列出）
+## 選取產品 （按照字母順序列出） 教學課程以檢視
 
 ### Adobe Acrobat
 
@@ -51,63 +51,6 @@ ht-degree: 1%
 </tr>
 </table>
 
-### Adobe Express （先前為Adobe Creative Cloud Express）
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express：與眾不同的內容" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express：與眾不同的內容</strong></a>
-    </div>
-    <em> 使用 Adobe Express 快速製作精美的圖形、網頁和影片故事</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="在Adobe Creative Cloud Express中建立您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在 Adobe Creative Cloud Express 中建立品牌 （PDF）</strong></a>
-    </div>
-    <em>Adobe Creative Cloud Express輕鬆定義您的品牌</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="為您的「Creative Cloud Express頁新增幻影播放」" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>為Creative Cloud Express頁面新增幻影播放 （PDF）</strong></a>
-    </div>
-    <em>Adobe Creative Cloud Express提供一些令人驚豔且便於使用的版面元件，可生動呈現您的網頁故事</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="在Adobe Creative Cloud Express中建立您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在 Adobe Creative Cloud Express 中建立品牌 （PDF）</strong></a>
-    </div>
-    <em>Adobe Creative Cloud Express輕鬆定義您的品牌</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="認識您的新製作演出者：Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>認識您的新製作演出者：Adobe Spark Post （PDF）</strong></a>
-    </div>
-    <em>Adobe Creative Cloud Express在建立版面、定義顏色、匯入圖稿和排列構圖元素時向您學習</em>
-    <br>
-  </td>
-</tr>
-</table>
-
 ### Adobe Portfolio
 
 <table  style="table-layout:fixed">
@@ -129,7 +72,7 @@ ht-degree: 1%
     <div>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>將 Lightroom 和 Bēhance 連線至您的Adobe Portfolio （PDF）</strong></a>
     </div>
-    <em>將 Bēhance 專案當做作品集中的頁面使用</em>
+    <em>將 Bēhance 項目當做作品集中的頁面使用</em>
     <br>
   </td>
   <td>
@@ -161,7 +104,7 @@ ht-degree: 1%
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>使用 CC Libraries 改善 CC 工作流程</strong></a>
     </div>
-    <em>瞭解Creative Cloud Libraries如何將設計項目整合在一起，確保設計人員和團隊的專案一致性</em>
+    <em>瞭解Creative Cloud Libraries如何將設計元素整合在一起，確保設計人員和團隊的專案一致性</em>
     <br>
   </td>
   <td>
@@ -171,17 +114,17 @@ ht-degree: 1%
    <div>
    <a href="ccteamlibraries.md"><strong>為團隊建立Creative Cloud Libraries</strong></a>
     </div>
-    <em>瞭解如何使用適用于團隊的Creative Cloud Libraries在群組或團隊中共用資產</em>
+    <em>瞭解如何使用適用於團隊的Creative Cloud Libraries在群組或團隊中共用資產</em>
     <br>
   </td>
   <td>
    <a href="sharecclibraries.md">
-      <img alt="與適用于團隊的Creative Cloud Libraries共用品牌資產" src="assets/ShareLibraries_1280.jpg" />
+      <img alt="與適用於團隊的Creative Cloud Libraries共用品牌資產" src="assets/ShareLibraries_1280.jpg" />
    </a>
    <div>
-   <a href="sharecclibraries.md"><strong>與適用于團隊的Creative Cloud Libraries共用品牌資產</strong></a>
+   <a href="sharecclibraries.md"><strong>與適用於團隊的Creative Cloud Libraries共用品牌資產</strong></a>
     </div>
-    <em>瞭解如何使用適用于團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產</em>
+    <em>瞭解如何使用適用於團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產</em>
     <br>
   </td>
   <td>
@@ -198,10 +141,10 @@ ht-degree: 1%
   <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="使用Creative Cloud Libraries從Illustrator共用文字樣式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+      <img alt="使用Creative Cloud Libraries從Illustrator共享文字樣式" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用 Creative Cloud Libraries 從Illustrator共用文字樣式 （PDF）</strong></a>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>使用 Creative Cloud Libraries 從Illustrator共享文字樣式 （PDF）</strong></a>
     </div>
     <em>在Illustrator中更聰明地工作，而不是更努力地工作</em>
     <br>
@@ -258,6 +201,11 @@ ht-degree: 1%
     <em>使用Creative Cloud檔案和資料庫，將您的創造力從相機帶入最終設計</em>
     <br>
   </td>
+  <td>
+    <img alt="間隔" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -267,10 +215,10 @@ ht-degree: 1%
 <tr>
    <td>
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="在逼真環境中將產品視覺化" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
+      <img alt="在逼真環境中將產品可視化" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在逼真環境中將產品視覺化 （PDF）</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>在逼真環境中將產品可視化 （PDF）</strong></a>
     </div>
     <em>當您想要瞭解您的產品在真實世界中的樣貌時，Adobe [!DNL Dimension] 是您最適合的應用程式</em>
     <br>
@@ -346,7 +294,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>使用 Creative Cloud 建立精美的印刷樣式 （PDF）</strong></a>
     </div>
-    <em>瞭解如何運用您最愛的設計工具中最先進的印刷樣式控制項</em>
+    <em>瞭解如何運用您最愛的設計工具中最先進的印刷樣式控件</em>
     <br>
   </td>
    <td>
@@ -400,7 +348,7 @@ ht-degree: 1%
       <img alt="Illustrator符號 + 圖層 = 回應式 SVG 的完美結構！" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
    </a>
     <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator符號 + 圖層 = 回應式 SVG 的完美結構！ (PDF)</strong></a>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator符號 + 圖層 = 回應式 SVG 的完美結構！ （PDF）</strong></a>
     </div>
     <em>Illustrator為 SVG 格式提供無與倫比的支援，包括建立元件、群組、ID 和作品精確向量定義的功能</em>
     <br>
@@ -434,7 +382,7 @@ ht-degree: 1%
     <div>
    <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>使用Adobe Acrobat和InDesign輕鬆收集和整合設計意見回饋 （PDF）</strong></a>
     </div>
-    <em>專案關係人可以使用Acrobat來新增詳細的注釋和批註，然後您可以快速將這些標記匯回Adobe InDesign以在版面上下文中查看</em>
+    <em>項目關係人可以使用Acrobat來新增詳細的註釋和批註，然後您可以快速將這些標記匯回Adobe InDesign以在版面上下文中查看</em>
     <br>
   </td>
   <td>
@@ -449,12 +397,12 @@ ht-degree: 1%
   </td>
   <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="互動式 PDF：來自 InDesign 的書簽和連結的 TOC" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="互動式 PDF：來自 InDesign 的書籤和連結的 TOC" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>互動式 PDF：來自 InDesign 的書簽和連結的 TOC （PDF）</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>互動式 PDF：來自 InDesign 的書籤和連結的 TOC （PDF）</strong></a>
     </div>
-    <em>瞭解如何在 InDesign 中使用「目錄」功能來產生書簽和超連結，協助您的讀者快速找到 PDF 檔案中的資訊</em>
+    <em>瞭解如何在 InDesign 中使用「目錄」功能來產生書籤和超鏈接，協助您的讀者快速找到 PDF 檔案中的資訊</em>
     <br>
   </td>
 </tr>
@@ -493,20 +441,20 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="alphabetsoup.md">
-      <img alt="解碼圖形格式的字母湯" src="assets/Alphabetsoup.png" />
+      <img alt="譯碼圖形格式的字母湯" src="assets/Alphabetsoup.png" />
     </a>
     <div>
-    <a href="alphabetsoup.md"><strong>解碼圖形格式的字母湯</strong></a>
+    <a href="alphabetsoup.md"><strong>譯碼圖形格式的字母湯</strong></a>
     </div>
     <em>JPG、PNG、SVG、GIF 和 EPS 檔案皆常用於設計，有些用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？</em>
     <br>
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="使用適用于 iPad 的 [!DNL Stock] Adobe 和Photoshop 建立獨特的複合" src="assets/CompositePSiPad.jpg" />
+      <img alt="使用適用於 iPad 的 [!DNL Stock] Adobe 和Photoshop 建立獨特的複合" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>使用適用于 iPad 的 Adobe 和Photoshop [!DNL Stock] 建立獨特的複合</strong></a>
+    <a href="compositepsipad.md"><strong>使用適用於 iPad 的 Adobe 和Photoshop [!DNL Stock] 建立獨特的複合</strong></a>
     </div>
     <em>讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一</em>
     <br>
@@ -577,7 +525,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
-      <img alt="使用Adobe Photoshop動作快速為您的 Instagram 相片加上品牌化內容" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
+      <img alt="使用Adobe Photoshop動作快速為您的Instagram相片加上品牌化內容" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
     </a>
     <div>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>使用Adobe Photoshop動作 （PDF） 快速為您的 Instagram 相片加上品牌化內容</strong></a>
@@ -610,7 +558,7 @@ ht-degree: 1%
       <img alt="綠幕不只是視訊而已" src="assets/GreenScreenisNotJustforVideo.jpg" />
     </a>
     <div>
-    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>綠幕不僅適用于視訊 （PDF）</strong></a>
+    <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>綠幕不僅適用於視訊 （PDF）</strong></a>
     </div>
     <em>您可以在攝影工作室使用綠幕，並使用 After Effects 在 Photoshop 中準備相片使用</em>
     <br>
