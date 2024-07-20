@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe範本和Photoshop  [!DNL Stock]  智慧型物件建立大膽的標籤
-description: 使用Adobe逼真的包裝範本，設計您的自訂設計並將其視覺化 [!DNL Stock]
+title: 使用Adobe範本和Photoshop [!DNL Stock] 智慧型手機物件建立大膽的標籤
+description: 使用Adobe逼真的包裝範本，設計您的自定義設計並將其可視化 [!DNL Stock]
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe範本和Photoshop [!DNL Stock] 智慧型物件建立大膽的標籤
+# 使用Adobe範本和Photoshop [!DNL Stock] 智慧型手機物件建立大膽的標籤
 
-使用來自 Adobe 的逼真的包裝範本，設計您的自訂設計並 [!DNL Stock]    將其視覺化。
+使用來自 Adobe 的逼真的包裝範本，設計您的自訂設計並 [!DNL Stock]    將其可視化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: 變更Adobe  [!DNL Stock]  影像的顏色以符合您的故事
-description: 更努力地製作出色的影像來支援您的訊息。 在Adobe中尋找獨一無二的相片  [!DNL Stock]  ，然後調整Adobe Photoshop顏色以符合您的需求
+title: 變更Adobe [!DNL Stock] 影像的顏色以符合您的故事
+description: 更努力地製作出色的影像來支援您的訊息。 在Adobe中尋找獨一無二的相片 [!DNL Stock] ，然後調整Adobe Photoshop顏色以符合您的需求
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate

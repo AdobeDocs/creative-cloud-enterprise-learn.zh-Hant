@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Adobe XD教學課程
 
-Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數位體驗。 選取影像以檢視教學課程。
+Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計網站、應用程式、語音介面、遊戲和其他類型的數字體驗。 選取影像以檢視教學課程。
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
     <div>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>使用 XD 和 [!DNL Stock] Adobe （PDF） 建立可縮放的電子商務相片</strong></a>
     </div>
-    <em>將高解析度攝影與Adobe XD的自動Animate功能結合後，您就可以為網站設計更吸引人的體驗。</em>
+    <em>將高解析度攝影與Adobe XD的自動Animate功能結合后，您就可以為網站設計更吸引人的體驗。</em>
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
     <div>
    <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>設計具有 XD 的互動式測驗並製作原型 （PDF）</strong></a>
     </div>
-    <em>設計使用者在專案期間會遇到的意見回饋</em>
+    <em>設計使用者在項目期間會遇到的意見回饋</em>
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
-      <img alt="使用外部文字和圖形在XD中大幅強化「重複格線」" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="使用外部文字和圖形在XD中大幅強化「重複網格線」" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>使用外部文字和圖形 （PDF） 在XD中大幅強化重複格點</strong></a>
@@ -130,7 +130,7 @@ Adobe XD 是一種使用者體驗設計和原型製作工具，可用於設計�
     <div>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>使用 Adobe XD （PDF） 拍攝 MAX 的幕後奇幻影像</strong></a>
     </div>
-    <em>提供優化的行動網頁體驗真的能讓使用者產生共鳴</em>
+    <em>提供優化的行動網頁體驗真的能讓用戶產生共鳴</em>
     <br>
   </td>
   <td>

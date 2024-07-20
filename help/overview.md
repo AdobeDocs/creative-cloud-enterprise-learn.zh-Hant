@@ -1,5 +1,5 @@
 ---
-title: 適用于企業的Creative Cloud教學課程
+title: 適用於企業的Creative Cloud教學課程
 description: 歡迎使用適用於企業的 Creative Cloud學習中心
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
@@ -14,9 +14,9 @@ ht-degree: 13%
 
 # 適用於企業的 Creative Cloud教學課程
 
-歡迎來到適用於企業的 Creative Cloud學習中心。 在這裡，您可以找到一系列專注于適用於企業的 Creative Cloud的學習體驗。 我們的教學課程、網路研討會和使用案例旨在讓初學者和管理員都能快速掌握適用於企業的 Creative Cloud產品。
+歡迎來到適用於企業的 Creative Cloud學習中心。 在這裡，您可以找到一系列專注於適用於企業的 Creative Cloud的學習體驗。 我們的教學課程、網路研討會和使用案例旨在讓初學者和管理員都能快速掌握適用於企業的 Creative Cloud產品。
 
-## 流覽主題
+## 瀏覽主題
 
 <table style="table-layout:fixed">
 <tr>

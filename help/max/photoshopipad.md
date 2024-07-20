@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專業人員提供不限數量的創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -52,12 +52,12 @@ Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專�
 
 在此教學課程中，您將瞭解如何：
 * 存取您最愛的Photoshop工具
-* 在行動裝置上精准編輯，不影響品質
+* 在行動裝置上精準編輯，不影響品質
 * 更身歷其境且自然的體驗
 * 雲端檔的無縫工作流程
 
 **顯示者：**
-Dan Portable，解決方案顧問 （數位媒體）
+Dan Portable，解決方案顧問 （數字媒體）
 
 ![Photoshop iPad 標誌](../assets/ps_appicon_96.png)
 

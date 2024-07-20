@@ -7,16 +7,16 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
 # AEM Assets和 Asset Link
 
-Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適用于企業和中型組織。 它提供了可擴充的現代化基礎，可提供引人入勝的體驗，藉以促進品牌互動、推動需求並提高客戶忠誠度。 Experience Manager包含一套完整的工具，可跨所有通道建立、管理和提供數位體驗。
+Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適用於企業和中型組織。 它提供了可擴充的現代化基礎，可提供引人入勝的體驗，藉以促進品牌互動、推動需求並提高客戶忠誠度。 Experience Manager包含一套完整的工具，可跨所有通道建立、管理和提供數字體驗。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -37,7 +37,7 @@ Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適�
     <div>
    <a href="aem.md#tutorial2"><strong>InDesign託管的檔案AEM</strong></a>
     </div>
-    <em>以AEM方式代管您的InDesign檔，好讓多位使用者可以同時建立內容變體</em>
+    <em>以AEM方式代管您的InDesign檔，好讓多位用戶可以同時建立內容變體</em>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Adobe Experience Manager 是領先業界的數位體驗管理解決方案，適�
 使用 Asset Link 即時更新儲存在 AEM 中的資產。
 
 在此教學課程中，您將瞭解如何：
-* 使用專用面板搜尋和流覽設計程式中的資產，在需要時找到所需的內容
+* 使用專用面板搜尋和瀏覽設計程式中的資產，在需要時找到所需的內容
 * 直接從您的設計方案輕鬆上傳資產
 * 從DAM取出並存回您的設計方案中的資產，以進行即時更新
 
@@ -68,7 +68,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **描述**
-以AEM方式代管您的InDesign檔，好讓多位使用者可以同時建立內容變體。
+以AEM方式代管您的InDesign檔，好讓多位用戶可以同時建立內容變體。
 
 在此教學課程中，您將瞭解如何：
 * 將InDesign檔案上傳至AEM以存取一般儲存空間
@@ -87,7 +87,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>滿足您的內容和數位資產管理需求的強力組合</em>
+    <em>滿足您的內容和數字資產管理需求的強力組合</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>新一代數位資產管理</em>
+    <em>新一代數字資產管理</em>
     <br>
   </td>
   <td>
@@ -107,7 +107,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：優點</strong></a>
     </div>
-    <em>讓您的數位資產為您所用</em>
+    <em>讓您的數字資產為您所用</em>
     <br>
   </td>
 </tr>

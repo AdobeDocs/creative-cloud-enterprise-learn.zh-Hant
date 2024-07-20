@@ -1,6 +1,6 @@
 ---
 title: 為團隊建立Creative Cloud Libraries
-description: 瞭解如何使用適用于團隊的Creative Cloud Libraries在群組或團隊中共用資產
+description: 瞭解如何使用適用於團隊的Creative Cloud Libraries在群組或團隊中共用資產
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # 為團隊建立Creative Cloud Libraries
 
-瞭解如何使用適用于團隊的Creative Cloud Libraries在群組或團隊中共用資產。 這些類型的資料庫不會系結至個別使用者帳戶，而是屬於團隊。 您可以使用 ![ 建置影像 ](assets/Smock_Building_18_N.png) 圖示來識別團隊資料庫。
+瞭解如何使用適用於團隊的Creative Cloud Libraries在群組或團隊中共用資產。 這些類型的資料庫不會系結至個別用戶帳戶，而是屬於團隊。 您可以使用 ![建置影像](assets/Smock_Building_18_N.png) 圖示來識別團隊資料庫。
 
 >[!TIP]
 >
->當您的組織必須保留創意資產的擁有權時，任何適用于團隊的使用Creative Cloud Libraries。 一些範例包括：公司樣式指南、共用專案和UI設計項目。
+>當您的組織必須保留創意資產的擁有權時，任何適用於團隊的使用Creative Cloud Libraries。 一些範例包括：公司樣式指南、共享專案和UI設計元素。
 
 <br> 
 

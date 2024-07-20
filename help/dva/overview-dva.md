@@ -1,6 +1,6 @@
 ---
 title: Adobe影片教學課程
-description: 協助您快速上Adobe DVA 產品的教學課程
+description: 協助您快速上Adobe DVA產品的教學課程
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Adobe影片教學課程
 
-使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以檢視教學課程。
+使用適用於視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以檢視教學課程。
 
 <table>
 <tr>
@@ -26,7 +26,7 @@ ht-degree: 0%
     <div>
    <a href="motion-graphics-templates.md"><strong>專業動態圖形範本</strong></a>
     </div>
-    <em>動態圖形範本 （.mogrt） 是一種可協作且有效率的方式來建立可自訂的動態圖形套件 —標題、標誌動畫、標題列，以及與編輯團隊分享</em>
+    <em>動態圖形範本 （.mogrt） 是一種可協作且有效率的方式來建立可自定義的動態圖形套件 —標題、標誌動畫、標題欄，以及與編輯團隊分享</em>
     <br>
   </td>
   <td>

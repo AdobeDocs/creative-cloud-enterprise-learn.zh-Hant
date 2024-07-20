@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 掌握您的資產和專案。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>

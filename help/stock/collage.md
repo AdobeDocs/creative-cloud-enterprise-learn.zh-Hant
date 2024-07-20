@@ -1,5 +1,5 @@
 ---
-title: 使用  [!DNL Stock]  Adobe影像為海報製作 3D 拼貼
+title: 使用 [!DNL Stock] Adobe影像為海報製作 3D 拼貼
 description: 設計Adobe Illustrator拼貼，在Adobe中呈現影像中搶眼的 3D 效果 [!DNL Stock]
 feature: Licensable Assets, 3D
 role: User

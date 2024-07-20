@@ -1,6 +1,6 @@
 ---
 title: ' [!DNL Stock] Search Adobe授權記錄'
-description: 瞭解如何在適用於企業的 Creative Cloud中快速搜尋貴組織的Adobe  [!DNL Stock]  授權記錄
+description: 了解如何在適用於企業的 Creative Cloud中快速搜尋貴組織的Adobe [!DNL Stock] 授權記錄
 feature: Licensable Assets
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Stock]Search Adobe授權記錄
+# [!DNL Stock] Search Adobe授權記錄
 
-在此教學課程影片中，瞭解如何在適用於企業的 Creative Cloud中快速搜尋貴組織的Adobe [!DNL Stock] 授權記錄。
+在此教學課程影片中，了解如何在適用於企業的 Creative Cloud中快速搜尋貴組織的Adobe [!DNL Stock] 授權記錄。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

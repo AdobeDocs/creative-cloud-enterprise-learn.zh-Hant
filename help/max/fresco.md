@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Adobe Fresco 是一款跨平臺的應用程式，可透過將向量和點陣工作流程與雲端檔結合的筆刷方法來建立繪圖和畫作。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -58,11 +58,11 @@ Adobe Fresco 是一款跨平臺的應用程式，可透過將向量和點陣工�
 在此教學課程中，您將瞭解如何：
 * 使用模擬水彩和油畫的獨特即時筆刷，以及您最愛的圖元和向量筆刷
 * 透過將不同的筆刷分層及利用遮色片來建立紋理效果
-* 使用適用于 iPhone 的新 Fresco 應用程式隨處創作
-* 將您的作品匯出為各種格式，以便在其他行動和桌面應用程式中使用
+* 使用適用於 iPhone 的新 Fresco 應用程式隨處創作
+* 將您的作品導出為各種格式，以便在其他行動和桌面應用程式中使用
 
 **顯示者：**
-Liz Tanniss，解決方案顧問 （數位媒體）
+Liz Tanniss，解決方案顧問 （數字媒體）
 
 ## 建立紋理圖稿 — Fresco以Illustrator （4：10） {#tutorial2}
 
@@ -77,13 +77,13 @@ Liz Tanniss，解決方案顧問 （數位媒體）
 * 在Illustrator中將手工紋理套用至向量圖稿
 
 **顯示者：**
-Liz Tanniss，解決方案顧問 （數位媒體）
+Liz Tanniss，解決方案顧問 （數字媒體）
 
 ![Fresco標誌](../assets/fr_appicon_96.png)
 
 **Fresco資源**
 
-[](https://helpx.adobe.com/support/adobe-fresco.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/fresco/using/whats-new.html) 功能和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/adobe-fresco.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/fresco/using/whats-new.html)功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 26%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -77,9 +77,9 @@ ht-degree: 26%
       <img alt="Rush" src="../assets/Rush.jpg" />
     </a>
     <div>
-    <a href="rush.md"><strong>Rush</strong></a>
+    <a href="rush.md"><strong>沖</strong></a>
     </div>
-    <em>隨時隨地製作及分享線上影片</em>
+    <em>隨處建立和分享在線影片</em>
     <br>
   </td>
 </tr>
@@ -91,7 +91,7 @@ ht-degree: 26%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>設計用戶體驗、建立原型並加以分享</em>
+    <em>設計用戶體驗、製作原型並加以共用</em>
     <br>
   </td>
   <td>
@@ -148,9 +148,9 @@ ht-degree: 26%
       <img alt="iPad 版 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>iPad 版 Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>在 iPad 上Photoshop</strong></a>
     </div>
-    <em>在桌面和 iPad 上編輯、合成及製作精美的影像、圖形和圖稿</em>
+    <em>在桌面電腦和 iPad 上編輯、複合及製作精美的影像、圖形和圖稿</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ ht-degree: 26%
     <div>
     <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
     </div>
-    <em>新一代數位資產管理</em>
+    <em>新一代數字資產管理</em>
     <br>
   </td>
   <td>
@@ -185,7 +185,7 @@ ht-degree: 26%
       <img alt="Creative Cloud 桌面應用程式" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 桌面應用程式</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud桌面應用程式</strong></a>
     </div>
     <em>Creative Cloud 桌面應用程式是您管理 CC 應用程式、服務和協作等的中樞！</em>
     <br>
@@ -209,7 +209,7 @@ ht-degree: 26%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>InDesign與自訂自動化配對的複雜工具</em>
+    <em>InDesign與自定義自動化配對的複雜工具</em>
     <br>
   </td>
  <td>
@@ -217,7 +217,7 @@ ht-degree: 26%
       <img alt="Adobe Stock" src="../assets/Stock.jpg" />
     </a>
     <div>
-    <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
+    <a href="stock.md"><strong>土坯 [!DNL Stock]</strong></a>
     </div>
     <em>高品質數位影像、插圖、影片、音訊、範本等</em>
     <br>
@@ -241,7 +241,7 @@ ht-degree: 26%
     <div>
     <a href="handsonproject.md"><strong>建立您自己的臉孔遮色片</strong></a>
     </div>
-    <em>透過「Adobe設計以列印」增效模組，您可以在數百種 Zazzle 產品上視覺化您的設計，並直接發佈至其線上市集</em>
+    <em>透過「Adobe設計以列印」增效模組，您可以在數百種 Zazzle 產品上可視化您的設計，並直接發佈至其在線市集</em>
     <br>
   </td>
   <td>

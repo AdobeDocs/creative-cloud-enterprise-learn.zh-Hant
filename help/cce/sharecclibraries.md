@@ -1,6 +1,6 @@
 ---
-title: 與適用于團隊的 Creative Cloud Libraries 共用品牌資產
-description: 瞭解如何使用適用于團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產
+title: 與適用於團隊的 Creative Cloud Libraries 共用品牌資產
+description: 瞭解如何使用適用於團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 與適用于團隊的Creative Cloud Libraries共用品牌資產
+# 與適用於團隊的Creative Cloud Libraries共用品牌資產
 
-瞭解如何使用適用于團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產。 團隊Creative Cloud Libraries中的資產會儲存在中央位置，不會綁定給個別使用者帳戶。 您可以使用 ![ 建置影像 ](assets/Smock_Building_18_N.png) 圖示來識別團隊資料庫。
+瞭解如何使用適用於團隊的 Creative Cloud Libraries 為您的群組或團隊建立、使用和共用品牌資產。 團隊Creative Cloud Libraries中的資產會儲存在中央位置，不會綁定給個別用戶帳戶。 您可以使用 ![建置影像](assets/Smock_Building_18_N.png) 圖示來識別團隊資料庫。
 
 >[!TIP]
 >
->當您的組織必須保留創意資產的擁有權時，任何適用于團隊的使用Creative Cloud Libraries。 一些範例包括：公司樣式指南、共用專案和UI設計項目。
+>當您的組織必須保留創意資產的擁有權時，任何適用於團隊的使用Creative Cloud Libraries。 一些範例包括：公司樣式指南、共享專案和UI設計元素。
 
 <br> 
 

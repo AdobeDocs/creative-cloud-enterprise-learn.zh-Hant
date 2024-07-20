@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe影  [!DNL Stock]  像建立逼真的合成相片
-description: 將兩張出色的Adobe相片結合在一  [!DNL Stock]  起，將人們吸引到您的社交貼文中
+title: 使用Adobe影 [!DNL Stock] 像建立逼真的合成相片
+description: 將兩張出色的Adobe相片結合在一 [!DNL Stock] 起，將人們吸引到您的社交貼文中
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate

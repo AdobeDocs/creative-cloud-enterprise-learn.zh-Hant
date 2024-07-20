@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

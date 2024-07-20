@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專業人員提供不限數量的創意。 現在，無論靈感來臨何地，任何人都可以創造他們所能想像的一切。 如果想得上，可以透過Photoshop製作。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -57,7 +57,7 @@ Photoshop是全球最佳的影像和平面設計軟體，可為跨裝置的專�
 
 在此教學課程中，您將瞭解如何：
 * 「物件選取工具」可讓您更快速、更輕鬆地選取專案
-* 「內容感知填色」可讓您更有效控制來源影像中的樣本區域，以更好地複製及修補目的地區域
+* 「內容感知填色」可讓您更有效控制來源影像中的樣本區域，以更好地複製及修補目標區域
 * 筆刷可以是不同的形狀，以獲得更好的結果
 * Adobe Sensei有助於利用人工智慧處理日常工作
 
@@ -83,7 +83,7 @@ A.J Wood，資深解決方案顧問 （Digital Media）
 
 **Photoshop資源**
 
-[](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程、 [ 新增 ](https://helpx.adobe.com/photoshop/using/whats-new.html) 功能和社群論壇連結的中樞。
+[](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/photoshop/using/whats-new.html)功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

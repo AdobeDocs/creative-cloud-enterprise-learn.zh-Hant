@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # 使用Adobe建立半超現實的圖樣 [!DNL Stock]
 
-根據Adobe的超現實影像建立精美流暢的圖樣 [!DNL Stock] 。
+根據Adobe的超現實影像建立精美流暢的圖樣 [!DNL Stock]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

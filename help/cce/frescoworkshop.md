@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 在 iPad （和 iPhone） 上試試Fresco手
 
-在這個 15 分鐘的實作研討會中，透過Adobe Fresco探索數位繪圖和上色的全新世界。 快速學習使用圖層和剪裁遮色片，將顏料和紋理符合基本形狀。 跟隨設計師/開發人員 Chris Converse，使用Fresco和Adobe Stock重新建立靜態生命中的一部分插圖。
+在這個15分鐘的實作研討會中，透過AdobeFresco探索數位繪圖和上色的全新世界。 快速學習使用圖層和剪裁遮色片，將顏料和紋理符合基本形狀。 跟隨設計師/開發人員 Chris Converse，使用Fresco和Adobe Stock重新建立靜態生命中的一部分插圖。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 

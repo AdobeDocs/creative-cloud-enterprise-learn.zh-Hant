@@ -1,5 +1,5 @@
 ---
-title: 將Adobe  [!DNL Stock]  影像與 CSS 合併，建立引人入勝的網頁圖形
+title: 將Adobe [!DNL Stock] 影像與 CSS 合併，建立引人入勝的網頁圖形
 description: 透過在廣告宣傳活動中結合顏色和漸層，建立各種影像的品牌統一
 feature: Licensable Assets
 role: User

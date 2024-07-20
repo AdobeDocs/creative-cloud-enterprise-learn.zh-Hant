@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
@@ -16,18 +16,18 @@ ht-degree: 1%
 
 ® Adobe InDesign Server 軟體提供健全且可擴充的引擎，利用 InDesign 的設計、版面和印刷樣式功能，讓您以程式設計方式建立引人入勝的自動化檔。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="資料導向InDesign Server內容" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="數據導向InDesign Server內容" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>資料導向InDesign Server內容</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>數據導向InDesign Server內容</strong></a>
     </div>
-    <em>資料驅動型設計可以藉助InDesign Server</em>
+    <em>數據驅動型設計可以藉助InDesign Server</em>
     <br>
   </td>
   <td>
@@ -43,16 +43,16 @@ ht-degree: 1%
 </tr>
 </table>
 
-## 資料導向InDesign Server內容 （4：14） {#tutorial1}
+## 數據導向InDesign Server內容 （4：14） {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **描述**
-資料驅動型設計可以藉助InDesign Server程式化實現。
+數據驅動型設計可以藉助InDesign Server程式化實現。
 
 在此教學課程中，您將瞭解如何：
-* 建立具備預先格式化文字或物件樣式的InDesign範本
-* 外部資料驅動內容的流動可加快內容的個人化速度
+* 建立具備預先格式化文字或對象樣式的InDesign範本
+* 外部數據驅動內容的流動可加快內容的個人化速度
 * 產生特別色 PDF，或系結至版面的其他AEM驅動輸出格式
 
 **顯示者：**

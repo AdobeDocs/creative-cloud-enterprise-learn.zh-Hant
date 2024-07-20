@@ -1,6 +1,6 @@
 ---
 title: 使用Photoshop製作電影
-description: 在這個逐步的研討會影片教學課程中，結合Adobe  [!DNL Stock]  視訊和巧妙的遮色片技術，製作出一張活相片Photoshop
+description: 在這個逐步的研討會影片教學課程中，結合Adobe [!DNL Stock] 視訊和巧妙的遮色片技術，製作出一張活相片Photoshop
 feature: Image Editing
 role: User
 level: Beginner, Intermediate

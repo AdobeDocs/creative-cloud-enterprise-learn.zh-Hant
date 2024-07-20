@@ -7,16 +7,16 @@ level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # [!DNL Capture]
 
-[!DNL Capture]Adobe將行動電話和平板電腦轉變為設計集合工具。使用者可以建立許多不同類型的資產 （適用于作品的個別數位元素）。   這些資產會自動與其他桌面和行動Adobe應用程式同步。 使用者可以將其匯入其創意專案或輕鬆與共同作業人員共用。
+[!DNL Capture] Adobe將行動電話和平板電腦轉變為設計集合工具。用戶可以建立許多不同類型的資產 （適用於作品的個別數字元素）。   這些資產會自動與其他桌面和行動Adobe應用程式同步。 用戶可以將其匯入其創意專案或輕鬆與共同作業人員共用。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -56,7 +56,7 @@ ht-degree: 1%
 * 存取數千種Adobe Fonts
 
 **顯示者：**
-──Emily， Solutions Consultant （數位媒體）
+──Emily， Solutions Consultant （數字媒體）
 
 ![Capture標誌](../assets/ca_appicon_96.png)
 

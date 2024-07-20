@@ -1,22 +1,22 @@
 ---
-title: "[!DNL Stock]"
-description: 適用于企業的Adobe  [!DNL Stock]  可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產
+title: “[!DNL Stock]”
+description: 適用於企業的Adobe [!DNL Stock] 可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-創意人員必須快速提供令人注目的全新視覺震撼內容，以吸引眾人目光。 [!DNL Stock]適用于企業的Adobe可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產，全都可從他們每天使用的Adobe創意應用程式中完成。
+創意人員必須快速提供令人注目的全新視覺震撼內容，以吸引眾人目光。 [!DNL Stock]適用於企業的Adobe可讓創意團隊存取超過2億個影像、視訊、範本、插圖、音訊檔案和3D資產，全都可從他們每天使用的Adobe創意應用程式中完成。
 
-## 流覽產品教學課程
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -63,7 +63,7 @@ Adobe Experience Manager</strong></a>
 
 **顯示者：**
 
-Victoria London， [!DNL Stock] 解決方案顧問 （數位媒體）
+Victoria London， [!DNL Stock] 解決方案顧問 （數字媒體）
 
 ## AEM中的Search和授權 [!DNL Stock] 資產 （6：46） {#tutorial2}
 
@@ -78,11 +78,11 @@ Victoria London， [!DNL Stock] 解決方案顧問 （數位媒體）
 * 在網站上檢視從您的 [!DNL Stock] 授權記錄中AEM授權的 [!DNL Stock] 資產。
 
 **顯示者：**
-──Emily， Solutions Consultant （數位媒體）
+──Emily， Solutions Consultant （數字媒體）
 
-![[!DNL Stock] 標誌](../assets/st_appicon_96.png)
+![[!DNL Stock] 商標](../assets/st_appicon_96.png)
 
-**[!DNL Stock]Adobe資源**
+**[!DNL Stock] Adobe資源**
 
 [](https://helpx.adobe.com/support/stock.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 

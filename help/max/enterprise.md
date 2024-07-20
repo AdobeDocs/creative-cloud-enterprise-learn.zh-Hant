@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 在整個組織中管理Adobe權益和資產。
 
-## 流覽企業管理教學課程
+## 瀏覽企業管理教學課程
 
 <table style="table-layout:fixed">
 <tr>
@@ -58,7 +58,7 @@ ht-degree: 3%
 
 **顯示者：**
 
-Todd Burke，首席解決方案顧問 （數位媒體）
+Todd Burke，首席解決方案顧問 （數字媒體）
 
 **企業管理資源：**
 

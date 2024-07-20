@@ -7,14 +7,14 @@ level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 1%
 
 ---
 
 # 影片快速參考指南
 
-使用適用于視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以下載或檢視快速參考指南的 PDF。
+使用適用於視訊編輯、動態圖形、視覺效果、動畫等的Adobe軟體和應用程式，將您的創意化為現實。 選取影像以下載或檢視快速參考指南的 PDF。
 
 ## Adobe Audition
 
@@ -59,7 +59,7 @@ ht-degree: 1%
     <div>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf" target="_blank"><strong>在您的Creative Cloud Express頁面 （PDF） 中展示您的Creative Cloud Express影片</strong></a>
     </div>
-    <em>Adobe Spark Page可讓您從各種來源載入視訊，包括使用 Creative Cloud Express Video 建立的影片！</em>
+    <em>Adobe Spark Page可讓您從各種來源載載視訊，包括使用 Creative Cloud Express Video 建立的影片！</em>
     <br>
   </td>
   <td>
@@ -86,7 +86,7 @@ ht-degree: 1%
 <tr>
  <td>
    <a href="assets/AfterEffectsforPhotography.pdf" target="_blank">
-      <img alt="適用于攝影的After Effects" src="assets/AfterEffectsforPhotography.jpg" />
+      <img alt="適用於攝影的After Effects" src="assets/AfterEffectsforPhotography.jpg" />
    </a>
     <div>
    <a href="assets/AfterEffectsforPhotography.pdf" target="_blank"><strong>攝影After Effects （PDF）</strong></a>
@@ -101,7 +101,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CinemagraphsTheMesmerizingPlaceBetweenaPhotoandaVideo.pdf" target="_blank"><strong>Cinemagraph：相片與影片之間的迷人位置 （PDF）</strong></a>
     </div>
-    <em>進一步瞭解電影 ──這些存在於相片和影片之間的醒目混合體</em>
+    <em>進一步了解電影 ──這些存在於相片和影片之間的醒目混合體</em>
     <br>
   </td>
   <td>
@@ -133,7 +133,7 @@ ht-degree: 1%
     <div>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>在 After Effects 中使用索引鍵在相片中建立複雜的透明度 （PDF）</strong></a>
     </div>
-    <em>金鑰相當適合用於視訊，對於設計專案需要您的相片來說，也是一大利器。</em>
+    <em>密鑰相當適合用於視訊，對於設計專案需要您的相片來說，也是一大利器。</em>
     <br>
   </td>
  <td>
@@ -148,7 +148,7 @@ ht-degree: 1%
   </td>
   <td>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank">
-         <img alt="適用于攝影的令人驚豔的光線特效與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
+         <img alt="適用於攝影的令人驚豔的光線特效與After Effects" src="assets/DazzlingLightEffectsforPhotographywithAfterEffects.jpg" />
       </a>
       <div>
       <a href="assets/DazzlingLightEffectsforPhotographywithAfterEffects.pdf" target="_blank"><strong>配備After Effects （PDF） 的攝影效果令人驚豔</strong></a>
@@ -163,7 +163,7 @@ ht-degree: 1%
       <div>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>使用 After Effects （PDF） 編輯 VR 攝影 （360 度相片）</strong></a>
       </div>
-      <em>雖然更身歷其境的互動式遊戲和體驗並不常見，但 360 度攝影已經在這裡</em>
+      <em>雖然更身歷其境的互動式遊戲和體驗並不常見，但360度攝影已經在這裡</em>
       <br>
   </td>
 </tr>
@@ -180,7 +180,7 @@ ht-degree: 1%
       <div>
       <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf" target="_blank"><strong>透過自動閃避 [!DNL Adobe Premiere Rush] 功能順暢地結合音樂和對話或旁白 （PDF）</strong></a>
       </div>
-      <em>[!DNL Rush]Adobe Premiere在簡單易用的應用程式中提供進階的視訊編輯功能，因此任何人都可以在幾分鐘內建立專業品質的視訊</em>
+      <em>[!DNL Rush] Adobe Premiere在簡單易用的應用程式中提供進階的視訊編輯功能，因此任何人都可以在幾分鐘內建立專業質量的視訊</em>
       <br>
   </td>
   <td>

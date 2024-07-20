@@ -8,12 +8,12 @@ jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1239'
 ht-degree: 0%
 
 ---
 
-# [!DNL Stock]Adobe教學課程
+# [!DNL Stock] Adobe教學課程
 
 創意人員必須快速提供引人入勝的視覺內容，就面臨壓力。 Adobe Stock讓創意團隊可以存取他們每天使用的 Creative Cloud 應用程式中的逾 3 億個免版稅影像、視訊、音訊檔案、範本、插圖和 3D 資產。 透過 Creative Cloud Pro Edition，不限數量存取Adobe Stock標準資產。 在 stock.adobe.com 探索最新的收藏集。 選取影像以檢視教學課程。
 
@@ -21,30 +21,30 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="令人驚歎的數位資產 （PDF）" src="assets/Stunningdigitalassets.png" />
+         <img alt="令人驚歎的數字資產 （PDF）" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>令人驚歎的數位資產 （PDF）</strong></a>
+      <a href="stunning-digital-assets.md"><strong>令人驚歎的數字資產 （PDF）</strong></a>
       </div>
       <em>透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。</em>
       <br>
   </td>
   <td>
       <a href="searchstock.md">
-         <img alt="[!DNL Stock]Search Adobe授權記錄" src="assets/StockSearch_1280.jpg" />
+         <img alt="[!DNL Stock] Search Adobe授權記錄" src="assets/StockSearch_1280.jpg" />
       </a>
       <div>
-      <a href="searchstock.md"><strong>[!DNL Stock]Search Adobe授權記錄</strong></a>
+      <a href="searchstock.md"><strong>[!DNL Stock] Search Adobe授權記錄</strong></a>
       </div>
-      <em>瞭解如何在 適用於企業的 Creative Cloud 中快速搜尋貴組織的Adobe [!DNL Stock] 授權記錄</em>
+      <em>了解如何在 適用於企業的 Creative Cloud 中快速搜尋貴組織的Adobe [!DNL Stock] 授權記錄</em>
       <br>
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="為Adobe影像增添手繪美感 [!DNL Stock]" src="assets/handdrawn.jpg" />
+         <img alt="為Adobe影像增添手繪美感[!DNL Stock]" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>為Adobe影像增添手繪美感 [!DNL Stock]</strong></a>
+      <a href="handdrawn.md"><strong>為Adobe影像增添手繪美感[!DNL Stock]</strong></a>
       </div>
       <em>使用 iPad 版 Photoshop，利用獨特的技術為您的影像增添深度和維度，進而提升您的創意行銷。</em>
       <br>
@@ -83,12 +83,12 @@ ht-degree: 0%
   </td>
   <td>
       <a href="customanimations.md">
-         <img alt="透過Adobe自訂動畫，讓創意作品栩栩如生 [!DNL Stock]" src="assets/customanimations.jpg" />
+         <img alt="透過Adobe自定義動畫，讓創意作品栩栩如生 [!DNL Stock]" src="assets/customanimations.jpg" />
       </a>
       <div>
-      <a href="customanimations.md"><strong>透過Adobe自訂動畫，讓創意作品栩栩如生 [!DNL Stock]</strong></a>
+      <a href="customanimations.md"><strong>透過Adobe自定義動畫，讓創意作品栩栩如生 [!DNL Stock]</strong></a>
       </div>
-      <em>使用Adobe [!DNL Stock] 影像、紋理、圖樣來自訂Photoshop</em>
+      <em>使用Adobe [!DNL Stock] 影像、紋理、圖樣來自定義Photoshop</em>
       <br>
   </td>
   <td>
@@ -115,12 +115,12 @@ ht-degree: 0%
   </td>
   <td>
       <a href="boldlabel.md">
-         <img alt="使用Adobe範本和Photoshop [!DNL Stock] 智慧型物件建立大膽的標籤" src="assets/boldlabel.jpg" />
+         <img alt="使用Adobe範本和Photoshop [!DNL Stock] 智慧型手機物件建立大膽的標籤" src="assets/boldlabel.jpg" />
       </a>
       <div>
-      <a href="boldlabel.md"><strong>使用Adobe範本和Photoshop [!DNL Stock] 智慧型物件建立大膽的標籤</strong></a>
+      <a href="boldlabel.md"><strong>使用Adobe範本和Photoshop [!DNL Stock] 智慧型手機物件建立大膽的標籤</strong></a>
       </div>
-      <em>使用Adobe逼真的包裝範本，設計您的自訂設計並將其視覺化 [!DNL Stock]</em>
+      <em>使用Adobe逼真的包裝範本，設計您的自定義設計並將其可視化 [!DNL Stock]</em>
       <br>
   </td>
   <td>
@@ -140,7 +140,7 @@ ht-degree: 0%
       <div>
       <a href="featurecomparison.md"><strong>使用Adobe建立產品功能比較表 [!DNL Stock]</strong></a>
       </div>
-      <em>製作一張可比較產品定價計畫的圖形，為潛在客戶提供他們一覽所需的資訊</em>
+      <em>製作一張可比較產品定價計劃的圖形，為潛在客戶提供他們一覽所需的資訊</em>
       <br>
   </td>
 </tr>
@@ -224,7 +224,7 @@ ht-degree: 0%
       <div>
       <a href="moodboard.md"><strong>運用Adobe，快速建立鼓舞人心的情緒板 [!DNL Stock]</strong></a>
       </div>
-      <em>建立專案情緒板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶</em>
+      <em>建立項目情緒板，將資訊、構想、視覺效果和調色盤轉送給團隊/客戶</em>
       <br>
   </td>
 </tr>
@@ -241,20 +241,20 @@ ht-degree: 0%
   </td>
    <td>
    <a href="loadingscreen.md">
-      <img alt="使用Adobe和XD [!DNL Stock] 自訂載入螢幕動畫" src="assets/loadingscreen.jpg" />
+      <img alt="使用Adobe和XD [!DNL Stock] 自定義載入屏幕動畫" src="assets/loadingscreen.jpg" />
    </a>
     <div>
-   <a href="loadingscreen.md"><strong>使用Adobe和XD [!DNL Stock] 自訂載入螢幕動畫</strong></a>
+   <a href="loadingscreen.md"><strong>使用Adobe和XD [!DNL Stock] 自定義載入屏幕動畫</strong></a>
     </div>
-    <em>從Adobe自訂向量圖稿 [!DNL Stock] ，為行動應用程式建立令人心儀的載入畫面動畫</em>
+    <em>從Adobe自定義向量圖稿 [!DNL Stock] ，為行動應用程式建立令人心儀的載入畫面動畫</em>
     <br>
   </td>
   <td>
    <a href="presentationtemplate.md">
-      <img alt="自訂Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼" src="assets/presentationtemplate.jpg" />
+      <img alt="自定義Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼" src="assets/presentationtemplate.jpg" />
    </a>
     <div>
-   <a href="presentationtemplate.md"><strong>自訂Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼</strong></a>
+   <a href="presentationtemplate.md"><strong>自定義Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼</strong></a>
     </div>
     <em>使用來自 Adobe 的影像和範本 [!DNL Stock] 以及一些簡單易用的特殊效果，在幾分鐘內建立精美的風格化簡報</em>
     <br>
@@ -264,9 +264,9 @@ ht-degree: 0%
       <img alt="自訂向量插圖中的顏色Adobe [!DNL Stock]" src="assets/customizecolors.jpg" />
    </a>
     <div>
-   <a href="customizecolors.md"><strong>自訂Adobe [!DNL Stock] 向量插圖中的顏色</strong></a>
+   <a href="customizecolors.md"><strong>自定義Adobe [!DNL Stock] 向量插圖中的顏色</strong></a>
     </div>
-    <em>使用精美的插圖，為任何專案增添修飾效果。 在Adobe中找到完美的向量，然後使用Adobe Illustrator [!DNL Stock] 讓顏色符合專案的浮動視窗Adobe Illustrator</em>
+    <em>使用精美的插圖，為任何專案增添修飾效果。 在Adobe中找到完美的向量，然後使用Adobe Illustrator [!DNL Stock]讓顏色符合專案的浮動視窗Adobe Illustrator</em>
     <br>
   </td>
 </tr>
@@ -298,7 +298,7 @@ ht-degree: 0%
     <div>
    <a href="assets/CreateaUniqueEditorialGraphicwithAfterEffectsandAdobeStock.pdf" target="_blank"><strong>在 Photoshop （PDF） 中Animate [!DNL Stock] Adobe向量插圖</strong></a>
     </div>
-    <em>透過將After Effects與Adobe [!DNL Stock] 相結合，您可以快速建立令人驚豔的特殊效果，以視覺方式述說故事</em>
+    <em>透過將After Effects與Adobe [!DNL Stock]相結合，您可以快速建立令人驚豔的特殊效果，以視覺方式述說故事</em>
     <br>
   </td>
    <td>
@@ -308,7 +308,7 @@ ht-degree: 0%
       <div>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>合併Adobe [!DNL Stock] 影像來建立獨特的圖形 （PDF）</strong></a>
       </div>
-      <em>將兩張不同的影像結合在一起，為您的設計專案建立全新場景。 [!DNL Stock]Adobe和Adobe Photoshop讓一切變得簡單</em>
+      <em>將兩張不同的影像結合在一起，為您的設計專案建立全新場景。 [!DNL Stock] Adobe和Adobe Photoshop讓一切變得簡單</em>
       <br>
    </td>
 </tr>
@@ -325,12 +325,12 @@ ht-degree: 0%
   </td>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
-         <img alt="運用Adobe和Premiere Pro [!DNL Stock] 讓資料動起來" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
+         <img alt="運用Adobe和Premiere Pro [!DNL Stock] 讓數據動起來" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
       </a>
       <div>
-      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>使用 Adobe 和 Premiere Pro [!DNL Stock] （PDF） 讓資料動起來</strong></a>
+      <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank"><strong>使用 Adobe 和 Premiere Pro [!DNL Stock] （PDF） 讓數據動起來</strong></a>
       </div>
-      <em>運用Adobe [!DNL Stock] 和Adobe Premiere Pro，讓您的資料栩栩如生，講述更具說服力的故事Adobe Premiere Pro</em>
+      <em>運用Adobe [!DNL Stock] 和Adobe Premiere Pro，讓您的數據栩栩如生，講述更具說服力的故事Adobe Premiere Pro</em>
       <br>
   </td>
    <td>
@@ -340,7 +340,7 @@ ht-degree: 0%
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>使用Adobe Illustrator重新上色Adobe [!DNL Stock] 向量圖稿，以獲得您想要的外觀 （PDF）</strong></a>
       </div>
-      <em>[!DNL Stock]Adobe可讓您輕鬆找到獨特的向量圖形，Adobe Illustrator可讓您快速進行修改，以符合您的創意構想</em>
+      <em>[!DNL Stock] Adobe可讓您輕鬆找到獨特的向量圖形，Adobe Illustrator可讓您快速進行修改，以符合您的創意構想</em>
       <br>
    </td>
    <td>
@@ -367,10 +367,10 @@ ht-degree: 0%
   </td>
   <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
-         <img alt="透過Adobe和Photoshop [!DNL Stock] 在真實世界中視覺化海報設計" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="透過Adobe和Photoshop [!DNL Stock] 在真實世界中可視化海報設計" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用Adobe和Photoshop [!DNL Stock] （PDF） 在真實世界中視覺化海報設計</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>使用Adobe和Photoshop [!DNL Stock] （PDF） 在真實世界中可視化海報設計</strong></a>
       </div>
       <em>在現實環境中展示您的設計，讓您更能理解其在世界上的檢視方式</em>
       <br>

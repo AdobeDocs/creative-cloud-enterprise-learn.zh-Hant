@@ -8,7 +8,7 @@ thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 選取下方的影像以檢視或下載此 PDF 教學課程。
 
-[![教學課程 ](assets/Substance3DStager.png) {「width=680」} 的第一頁影像](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![教學課程](assets/Substance3DStager.png){“width=680”} 的第一頁影像](assets/Adobe-Substance-Stager.pdf){target="blank"}

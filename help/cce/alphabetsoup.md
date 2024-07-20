@@ -1,5 +1,5 @@
 ---
-title: 解碼圖形格式的字母湯
+title: 譯碼圖形格式的字母湯
 description: JPG、PNG、SVG、GIF 和 EPS 檔案都是設計中常用的檔案，有些是用於網頁，有些則用於簡報、出版物和創意專案。 但是它們是什麼意思，您應該選擇哪一個？
 feature: Image Editing
 role: User
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# 解碼圖形格式的字母湯
+# 譯碼圖形格式的字母湯
 
-JPG、PNG、SVG、GIF 和 EPS 檔案皆常用於設計，有些用於網頁，有些則用於簡報、出版物和創意專案。 但是，它們是什麼意思？您應該選擇哪一個？ 請參閱此 15 分鐘的實作研討會。 快速瞭解如何在Photoshop中套用透明度效果，使您的簡報技能更上層樓，同時探索不同的圖形匯出和優化設定。 跟隨設計師/開發人員 Chris Converse，使用從 Photoshop 匯出的自訂圖形，在 PowerPoint 中建立引人入勝的動畫。
+JPG、PNG、SVG、GIF 和 EPS 檔案皆常用於設計，有些用於網頁，有些則用於簡報、出版物和創意專案。 但是，它們是什麼意思？您應該選擇哪一個？ 請參閱此 15 分鐘的實作研討會。 快速瞭解如何在Photoshop中套用透明度效果，使您的簡報技能更上層樓，同時探索不同的圖形導出和優化設定。 跟隨設計師/開發人員 Chris Converse，使用從 Photoshop 導出的自定義圖形，在 PowerPoint 中建立引人入勝的動畫。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
