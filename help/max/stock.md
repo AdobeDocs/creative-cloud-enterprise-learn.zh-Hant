@@ -1,5 +1,5 @@
 ---
-title: “[!DNL Stock]”
+title: '[!DNL Stock]'
 description: 適用於企業的Adobe [!DNL Stock] 可讓創意團隊存取超過 2 億個影像、視訊、範本、插圖、音訊檔案和 3D 資產
 feature: Licensable Assets
 role: User
@@ -88,4 +88,4 @@ Victoria London， [!DNL Stock] 解決方案顧問 （數字媒體）
 
 **2020 年 10 月版**
 
-開始使用這些功能 （以及更多功能！） 從您的 Creative Cloud 桌面應用程式下載最新更新。
+從您的 Creative Cloud 桌面應用程式下載最新更新，開始使用這些功能 （以及更多！）。

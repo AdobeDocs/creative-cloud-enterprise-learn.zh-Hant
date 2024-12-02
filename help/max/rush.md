@@ -1,5 +1,5 @@
 ---
-title: “[!DNL Rush]”
+title: '[!DNL Rush]'
 description: Premiere [!DNL Rush] 是首款跨裝置的全方位影片編輯應用程式，可讓創作和分享在線內容變得比以往更加輕鬆
 feature: Video Editing
 role: User
@@ -68,4 +68,4 @@ A.J. Wood，解決方案顧問 （數字媒體）
 
 **2020 年 10 月版**
 
-開始使用這些功能 （以及更多功能！） 從您的 Creative Cloud 桌面應用程式下載最新更新。
+從您的 Creative Cloud 桌面應用程式下載最新更新，開始使用這些功能 （以及更多！）。
