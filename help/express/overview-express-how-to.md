@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ ht-degree: 1%
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="如何和為何鎖定圖層" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>如何和為何鎖定圖層</strong></a>
+            </div>
+            <em>了解為何鎖定範本的各種元素如此重要</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="建立範本" src="assets/create-template.png" />
+            <img alt="提高效率：建立可重複使用的範本" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>提高效率：建立可重複使用的範本</strong></a>
+         </div>
+         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率和成本節約</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="儲存和共用範本" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>儲存和共用範本</strong></a>
+         </div>
+         <em>瞭解如何為您的團隊儲存及分享範本至品牌手冊或資料庫</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="如何使用範本" src="assets/use-templates.png" />
+            <img alt="使用範本輕鬆保持品牌一致性" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>使用範本輕鬆保持品牌一致性</strong></a>
+         </div>
+         <em>瞭解如何在整個組織中快速有效率地建立品牌內容</em>
+         <br>
    </td>
 </tr>
 </table>

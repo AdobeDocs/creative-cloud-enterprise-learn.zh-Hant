@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
          <div>
          <a href="create-templates.md"><strong>提高效率：建立可重複使用的範本</strong></a>
          </div>
-         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率、專業性和成本節約</em>
+         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率和成本節約</em>
          <br>
    </td>
    <td>

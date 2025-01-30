@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 3%
@@ -27,7 +27,7 @@ ht-degree: 3%
 
 >[!TAB 提高效率：建立可重複使用的範本]
 
-瞭解如何使用範本為您的組織 [帶來品牌一致性、效率、專業性和成本節約](create-templates.md)
+瞭解如何使用範本](create-templates.md)為您的組織[帶來品牌一致性、效率、專業性和成本節約。
 
 >[!ENDTABS]
 
