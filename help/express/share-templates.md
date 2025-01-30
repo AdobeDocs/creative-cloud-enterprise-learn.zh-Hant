@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="如何和為何鎖定圖層" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="如何和為何鎖定圖層" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>如何和為何鎖定圖層</strong></a>
+            </div>
+            <em>了解為何鎖定範本的各種元素如此重要</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="建立範本" src="assets/create-template.png" />
+            <img alt="提高效率：建立可重複使用的範本" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>提高效率：建立可重複使用的範本</strong></a>
+         </div>
+         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率、專業性和成本節約</em>
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="如何使用範本" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="使用範本輕鬆保持品牌一致性" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>使用範本輕鬆保持品牌一致性</strong></a>
+         </div>
+         <em>瞭解如何在整個組織中快速有效率地建立品牌內容</em>
+         <br>
+   </td>
     <td>
       <img alt="間隔" src="../assets/Whitespacer.png" />
       <div>
