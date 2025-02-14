@@ -1,19 +1,19 @@
 ---
-title: ' [!DNL Express] Adobe操作教學課程」'
+title: ' [!DNL Express] Adobe作教學課程」'
 description: 快速上Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
 
-# [!DNL Express] Adobe操作教學課程
+# [!DNL Express] Adobe作教學課程
 
 開始使用由 Adobe Firefly 支援的生成 AI，創作出出色的出色作品。 使用 Adobe Express 設計傳單、TikToks、履歷表和標籤。
 
@@ -366,10 +366,10 @@ ht-degree: 1%
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="提高效率：建立可重複使用的範本" src="assets/create-template.png" />
+            <img alt="最大化效率：建立可重複使用的範本" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>提高效率：建立可重複使用的範本</strong></a>
+         <a href="create-templates.md"><strong>最大化效率：建立可重複使用的範本</strong></a>
          </div>
          <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率和成本節約</em>
          <br>

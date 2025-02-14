@@ -6,14 +6,14 @@ role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# 提高效率：建立可重複使用的範本
+# 最大化效率：建立可重複使用的範本
 
 瞭解如何使用 Adobe Express 範本為您的組織帶來品牌一致性、效率、專業性和成本節約。 此教學課程會逐步瞭解如何從任何現有內容建立可重複使用的內容，無論是Photoshop、Illustrator、InDesign還是 PowerPoint 檔案。
 

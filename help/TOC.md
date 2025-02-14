@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 4%
       + [CCE 指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [概觀](express/overview-express.md)
-   + 操作教學課程 {#expresshowto}
+   + 作教學課程 {#expresshowto}
       + [概觀](express/overview-express-how-to.md)
       + [首頁上的功能](express/get-started.md)
       + [快速動作簡介](express/quick-actions.md)
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [如何新增音訊](express/add-audio-video.md)
       + [如何匯出影片](express/export-video.md)
       + [如何和為何鎖定圖層](express/lock-layers.md)
-      + [建立範本](express/create-templates.md)
+      + [最大化效率：建立可重複使用的範本](express/create-templates.md)
       + [儲存和共用範本](express/share-templates.md)
       + [如何使用範本](express/use-templates.md)
    + 使用案例教學課程 {#expressusecase}
@@ -133,7 +133,7 @@ ht-degree: 4%
    + [概觀](stock/overview-stock.md)
    + 教程 {#stocktutorials}
       + [令人驚歎的數字資產](stock/stunning-digital-assets.md)
-      + [ [!DNL Stock] Search Adobe授權記錄](stock/searchstock.md)
+      + [Search Adobe [!DNL Stock] 授權記錄](stock/searchstock.md)
       + [為Adobe影像增添手繪美感 [!DNL Stock] ](stock/handdrawn.md)
       + [使用遮色片和動畫為印刷樣式增添風格](stock/flairtypography.md)
       + [在Photoshop中Animate Adobe [!DNL Stock] 向量插圖](stock/animatevector.md)
