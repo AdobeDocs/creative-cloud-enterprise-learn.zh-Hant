@@ -163,7 +163,7 @@ Rick Accelerationstein，數位媒體公司解決方案諮詢資深經理
 
 **Acrobat與Adobe Sign資源**
 
-[&#128279;](https://helpx.adobe.com/support/document-cloud.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/acrobat/using/whats-new.html)功能和社群論壇連結的中樞。
+[&#128279;](https://helpx.adobe.com/tw/support/document-cloud.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/tw/acrobat/using/whats-new.html)功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

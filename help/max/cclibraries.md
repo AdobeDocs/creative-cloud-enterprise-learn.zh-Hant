@@ -80,7 +80,7 @@ Ashley Dvorin，資深解決方案顧問 （Digital Media）
 
 **CC Libraries資源**
 
-[&#128279;](https://helpx.adobe.com/creative-cloud/help/libraries.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
+[&#128279;](https://helpx.adobe.com/tw/creative-cloud/help/libraries.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

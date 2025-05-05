@@ -64,7 +64,7 @@ A.J. Wood，解決方案顧問 （數字媒體）
 
 **[!DNL Rush]資源**
 
-[&#128279;](https://helpx.adobe.com/support/premiere-rush.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)功能和社群論壇連結的中樞。
+[&#128279;](https://helpx.adobe.com/tw/support/premiere-rush.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/tw/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

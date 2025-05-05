@@ -62,6 +62,6 @@ Todd Burke，首席解決方案顧問 （數字媒體）
 
 **企業管理資源：**
 
-[Adobe Fonts 使用手冊](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts 使用手冊](https://helpx.adobe.com/tw/fonts/user-guide.html)
 
-[企業管理員指南](https://helpx.adobe.com/enterprise/admin-guide.html)
+[企業管理員指南](https://helpx.adobe.com/tw/enterprise/admin-guide.html)

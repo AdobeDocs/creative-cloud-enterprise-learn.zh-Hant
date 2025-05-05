@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 關於指名用戶授權
 
-[指名使用者授權](https://helpx.adobe.com/enterprise/using/licensing.html) 是一種軟體授權模式，可將軟體指派給個人而不是序號或裝置。 NUL 為 IT 管理員提供進階使用者身分管理的企業級安全性，並且可使用Adobe Admin Console輕鬆部署和管理應用程式。
+[指名使用者授權](https://helpx.adobe.com/tw/enterprise/using/licensing.html) 是一種軟體授權模式，可將軟體指派給個人而不是序號或裝置。 NUL 為 IT 管理員提供進階使用者身分管理的企業級安全性，並且可使用Adobe Admin Console輕鬆部署和管理應用程式。
 
 ## 指名用戶授權的優點：
 
