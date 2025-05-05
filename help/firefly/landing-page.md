@@ -15,7 +15,7 @@ ht-degree: 4%
 
 # 登陸頁面
 
-瞭解如何在 firefly.adobe.com 開始使用 Adobe](https://firefly.adobe.com/) Firefly[。
+瞭解如何在 firefly.adobe.com 開始使用 Adobe[&#128279;](https://firefly.adobe.com/) Firefly。
 
 <br> 
 

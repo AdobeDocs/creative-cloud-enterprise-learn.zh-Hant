@@ -63,7 +63,7 @@ Dan Portable，解決方案顧問 （數字媒體）
 
 **Photoshop iPad 資源**
 
-[](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
+[&#128279;](https://helpx.adobe.com/support/photoshop.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

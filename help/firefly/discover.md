@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # 探索 Adobe Firefly
 
-使用專為商業安全使用和創新設計的生成 AI，探索 Adobe Firefly [創意](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) 的未來。 請在這裡](https://firefly.adobe.com/)試Adobe Firefly[。
+使用專為商業安全使用和創新設計的生成 AI，探索 Adobe Firefly [創意](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) 的未來。 請在這裡[&#128279;](https://firefly.adobe.com/)試Adobe Firefly。
 
 <br> 
 

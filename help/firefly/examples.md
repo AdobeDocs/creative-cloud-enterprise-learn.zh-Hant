@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # 如何使用 Firefly 的範例
 
-瞭解如何使用 Firefly 製作鼓舞人心的 PowerPoint 簡報、情緒板、構想、螢幕保護等等。 請在這裡](https://firefly.adobe.com/)試Adobe Firefly[。
+瞭解如何使用 Firefly 製作鼓舞人心的 PowerPoint 簡報、情緒板、構想、螢幕保護等等。 請在這裡[&#128279;](https://firefly.adobe.com/)試Adobe Firefly。
 
 <br> 
 

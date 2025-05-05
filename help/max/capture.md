@@ -62,7 +62,7 @@ ht-degree: 0%
 
 **[!DNL Capture]資源**
 
-[](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
+[&#128279;](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)學習與支援是您其他教學課程和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![James The Abys（Mary Mastrantonio 在《Abyss》中，Mary Mastrantonio 與之接觸 CGI 水的十要點場景](assets/Photorealistic_2.jpg)
 
-這種將圖層化或「合成」3D 模型融入影像或視訊的技巧並不新，事實上，其原點會回到 VFX 的早期 （甚至在 1980 年代）。 令人振奮的新增功能是，此技巧已成為Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)用戶的強大工具[，也是攝影師的新工作流程。
+這種將圖層化或「合成」3D 模型融入影像或視訊的技巧並不新，事實上，其原點會回到 VFX 的早期 （甚至在 1980 年代）。 令人振奮的新增功能是，此技巧已成為Adobe [!DNL Dimension][&#128279;](https://www.adobe.com/products/dimension.html)用戶的強大工具，也是攝影師的新工作流程。
 
 
 ## 在 Adobe 中建立複合影像背後的技術 [!DNL Dimension]
@@ -168,4 +168,4 @@ Look為上下文和照明都有趣的位置。 考慮上下文時，想像場景
 
 最終成果是現實和 3D 的具說服力的融合，可協助一般使用者以最少的精力來建立逼真的影像。 使用我們為展示工作流程所建立的 [免費 [!DNL Dimension] 場景](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) ，讓您自己試試看。
 
-[下載今天的最新版本](https://creativecloud.adobe.com/apps/download/dimension)[!DNL Dimension]，並開始建立逼真的影像。
+[下載今天的最新版本](https://creativecloud.adobe.com/apps/download/dimension) [!DNL Dimension]，並開始建立逼真的影像。

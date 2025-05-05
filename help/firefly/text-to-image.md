@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # 文字轉換為影像
 
-瞭解如何從文字說明建立影像。 [您可以根據您的特定需求產生影](https://www.adobe.com/products/firefly/features/text-to-image.html) 像，以建立個人化且鼓舞人心的內容。 請在這裡](https://firefly.adobe.com/)試Adobe Firefly[。
+瞭解如何從文字說明建立影像。 [您可以根據您的特定需求產生影](https://www.adobe.com/products/firefly/features/text-to-image.html) 像，以建立個人化且鼓舞人心的內容。 請在這裡[&#128279;](https://firefly.adobe.com/)試Adobe Firefly。
 
 <br> 
 

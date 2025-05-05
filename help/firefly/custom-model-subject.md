@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # 使用主體建立自定義模型
 
-瞭解如何在 Firefly 中建立「自定義模型」，使用特定主題為貴組織的品牌建立全新的影像。 「自定義模型」可讓您大規模建立相關的個人化內容。 請在這裡](https://firefly.adobe.com/)試Adobe Firefly[。
+瞭解如何在 Firefly 中建立「自定義模型」，使用特定主題為貴組織的品牌建立全新的影像。 「自定義模型」可讓您大規模建立相關的個人化內容。 請在這裡[&#128279;](https://firefly.adobe.com/)試Adobe Firefly。
 
 <br> 
 

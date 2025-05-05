@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ### 尋找序號
 
-您可以透過Adobe授權網站](https://licensing.adobe.com/) （LWS） 取得與您ETLA合約相關聯的[序號授權。請依照下列指示顯示和下載：
+您可以透過Adobe授權網站[&#128279;](https://licensing.adobe.com/) （LWS） 取得與您ETLA合約相關聯的序號授權。請依照下列指示顯示和下載：
 
 1. [使用您的Adobe ID和密碼登入 Adobe 授權網站](https://licensing.adobe.com/) （LWS）。
 1. 選擇 **「授權>擷取序號**。

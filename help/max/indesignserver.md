@@ -94,7 +94,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 
 **InDesign Server資源**
 
-[](https://www.adobe.com/products/indesignserver.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
+[&#128279;](https://www.adobe.com/products/indesignserver.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 

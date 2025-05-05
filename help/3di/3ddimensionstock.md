@@ -1,6 +1,6 @@
 ---
 title: 使用和Adobe自定義 3D 模型 [!DNL Dimension] 並建立品牌 [!DNL Stock]
-description: 在 [！DNL [!DNL Dimension]] 使用材質、環境屬性、照明和攝影，為任何設計專案製作逼真的影像
+description: 在 [!DNL [!DNL Dimension]] 使用材質、環境屬性、照明和攝影，為任何設計專案製作逼真的影像
 feature: 3D
 role: User
 level: Beginner, Intermediate
