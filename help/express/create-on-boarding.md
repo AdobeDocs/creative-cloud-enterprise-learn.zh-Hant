@@ -17,4 +17,4 @@ ht-degree: 1%
 
 瞭解如何在 Adobe Express 中使用由 Adobe Firefly 支援的「文字轉影像」，為員工招募和入門內容製作獨特的圖形。 此範例中使用了範本，讓公司內部的每一個人建立精確的品牌化內容。 此教學課程使用新的 [Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444271?quality=12&learn=on&hidetitle=true&captions=chi_hant)

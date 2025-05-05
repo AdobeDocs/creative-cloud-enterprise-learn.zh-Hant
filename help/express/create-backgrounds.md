@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何建立具吸引力的PowerPoint簡報背景。 使用由 Adobe Firefly 提供支援的文字轉影像，您可以為簡報產生個人化影像，然後進一步變更影像、套用效果並下載以用於簡報。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433987?quality=12&learn=on&hidetitle=true&captions=chi_hant)

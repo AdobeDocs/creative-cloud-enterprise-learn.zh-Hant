@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用由 Adobe Firefly 技術支援的「生成填色」，從影像中新增和移除元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437843?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

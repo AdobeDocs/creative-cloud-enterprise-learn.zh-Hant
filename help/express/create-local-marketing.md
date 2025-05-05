@@ -17,4 +17,4 @@ ht-degree: 1%
 
 瞭解如何在 Adobe Express 中使用 Adobe Firefly 支援的「文字到影像」，從全球旅店行銷活動建立當地語系化內容。 此教學課程使用新的 [Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443595?quality=12&learn=on&hidetitle=true&captions=chi_hant)

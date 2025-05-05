@@ -17,7 +17,7 @@ ht-degree: 0%
 
 將影像和標題等元素新增至動畫中，提升動畫層次。 瞭解如何在不變更動畫的同時，新增、複製、重新排列或取代場景中的元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433931?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

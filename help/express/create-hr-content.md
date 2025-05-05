@@ -15,4 +15,4 @@ ht-degree: 1%
 
 瞭解如何快速建立與您組織品牌一致的多通道人力資源內容。 快速提供多通道內容，可讓您透過通訊觸及更多員工，協助他們隨時掌握最新消息。 此教學課程使用新的 [Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434608?quality=12&learn=on&hidetitle=true&captions=chi_hant)

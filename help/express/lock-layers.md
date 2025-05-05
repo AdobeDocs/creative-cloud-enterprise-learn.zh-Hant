@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解為什麼鎖定範本的各種元素如此重要，以免變更。 某些元素 （例如標誌） 不應變更，因此在分享您的範本前可以先鎖定元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437078?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用 Adobe Express 範本為您的組織帶來品牌一致性、效率、專業性和成本節約。 此教學課程會逐步瞭解如何從任何現有內容建立可重複使用的內容，無論是Photoshop、Illustrator、InDesign還是 PowerPoint 檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433975?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

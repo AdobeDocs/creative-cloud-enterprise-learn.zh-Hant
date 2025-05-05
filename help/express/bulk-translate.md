@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >分享或下載前，務必先檢閱翻譯內容，以獲得準確性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438279?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

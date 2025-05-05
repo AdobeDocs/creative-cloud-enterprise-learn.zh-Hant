@@ -44,7 +44,7 @@ Acrobat和適用於企業的 Creative Cloud應用程式將從到期前 60 天開
 
 下列資訊概述了一般用戶的體驗。 以下有簡短的影片，接著檢視一般用戶體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441290?hidetitle=true&captions=chi_hant)
 
 **到期前**
 

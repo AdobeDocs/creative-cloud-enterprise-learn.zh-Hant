@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用特定畫布大小 （例如 Instagram 正方形貼文） 從頭開始建立全新的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441439?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

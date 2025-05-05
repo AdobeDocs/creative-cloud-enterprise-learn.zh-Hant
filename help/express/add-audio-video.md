@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何透過新增音訊來建立引人入勝且令人難忘的專案。 您可以上傳您自己的音訊檔案，或選擇免版稅的 Stock 音訊。 您也可以錄製配音，並調整音訊和旁白的音量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436865?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

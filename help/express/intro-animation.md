@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何在社交媒體貼文中加入動畫以增加參與度。 選取頁面上的任何元素 （例如影像） 並套用各種類型的動畫，即可存取動畫面板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436596?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

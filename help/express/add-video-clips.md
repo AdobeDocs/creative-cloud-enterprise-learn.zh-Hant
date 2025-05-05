@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用拖放式影片創作，快速輕鬆地製作出色的影片。 從範本或您自己的靜態設計開始，然後新增您的品牌、設計資產、Adobe Stock視訊和音樂等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436443?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

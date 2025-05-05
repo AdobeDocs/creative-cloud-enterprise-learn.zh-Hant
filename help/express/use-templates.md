@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何在整個組織中快速有效率地建立品牌內容。 此教學課程逐步瞭解如何建立全新的品牌特效內容，以便立即分享和當地語系化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436141?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

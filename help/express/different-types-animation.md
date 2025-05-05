@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解您可以新增到專案中的三種不同類型的動畫 （簡介、迴圈和外緣），使其更具吸引力。 每個動畫都有可預視和選取的不同樣式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433953?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

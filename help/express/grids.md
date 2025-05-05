@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用網格線製作相片拼貼、情緒板和引人注目的海報。 有 40 種不同的格點版面可供您使用自己的影像或Adobe Stock相片進行自定義。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3440003?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

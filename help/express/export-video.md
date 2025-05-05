@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何設定影片解析度、下載影片，以及將影片直接分享到社交頻道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436026?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

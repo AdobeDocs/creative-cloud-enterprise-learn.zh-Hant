@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解如何使用 Express 新增音訊 （包括免版稅的 Stock 音訊檔案），建立引人入勝且令人難忘的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433920?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 本系列的其他影片
 

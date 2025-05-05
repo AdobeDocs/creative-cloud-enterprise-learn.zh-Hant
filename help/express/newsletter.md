@@ -17,4 +17,4 @@ ht-degree: 0%
 
 瞭解如何使用關鍵詞搜尋專業設計的範本，開始建立電子報。 變更標誌和文字副本后，您可以邀請同事共同作業並新增他們自己的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439214?quality=12&learn=on&hidetitle=true&captions=chi_hant)
