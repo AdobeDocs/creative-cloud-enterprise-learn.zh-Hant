@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
+source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '821'
 ht-degree: 5%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 5%
       + [發現 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加快創新思維](firefly/accelerate-ideas.md)
       + [為商品建立可重用的場景](firefly/reusable-scenes.md)
+      + [建立自定義模型](firefly/custom-model.md)
       + [使用主題建立自定義模型](firefly/custom-model-subject.md)
       + [使用樣式建立自定義模型](firefly/custom-model-style.md)
       + [登錄頁](firefly/landing-page.md)
