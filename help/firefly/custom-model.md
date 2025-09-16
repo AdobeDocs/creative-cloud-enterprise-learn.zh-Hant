@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
+source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,21 @@ ht-degree: 1%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474942?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+
+## 什麼是Firefly定制模型
+
+自定義模型使組織能夠使用Firefly的「文本到影像」功能生成與其品牌標識相一致的影像內容。
+
+您可以用您自己的影像訓練這些模型，以生成反映您的風格、主題或其他品牌要素的內容。
+
+## 核心優勢/使用案例
+
+**品牌一致性設計**&#x200B;快速建立與您品牌的美感密切相關的視覺效果。
+
+**字元主題**&#x200B;跨場景、光照、姿勢等維護基於字元的影像的一致性。 減少在開發上花費的時間。
+
+**概念更新速度加快**&#x200B;通過更快地展示品牌創意和概念，加快利益相關方之間的協調。
 
 >[!IMPORTANT]
 >
