@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474942?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 什麼是Firefly定制模型
 
