@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 使用樣式建立自定義模型
+# 建立自定義模型
 
 瞭解如何在Firefly中構建自定義模型，以使用特定類型的樣式（如背景、顏色和色調）為組織的品牌建立新的影像。 自定義模型允許您按比例建立相關的個性化內容。 嘗試Adobe Firefly[此處](https://firefly.adobe.com/)。
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474942?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## 什麼是Firefly定制模型
 
