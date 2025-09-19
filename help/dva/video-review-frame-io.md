@@ -1,22 +1,22 @@
 ---
-title: 使用 Frame.io 進行視訊審核
-description: 瞭解Adobe Premiere Pro Frame.io 擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂，以及更快核准，這一切都無需離開時程表
+title: 帶Frame.io的視頻審閱
+description: 瞭解Adobe Premiere Pro的Frame.io擴展如何讓您集中和共用資產、接收即時評論、跟蹤修訂並獲得更快的批准 — 所有這些都無需離開時間線
 feature: Collaboration
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
 exl-id: 7a3e55f0-5208-4d4f-9427-108a468a1f56
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 88dc22b079d5c978cc1fd459d673ed349987f526
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-# 使用 Frame.io 進行視訊審核
+# 使用Frame.io進行視頻審閱
 
-在您創作的地方進行共同作業。 瞭解 Adobe Premiere Pro 的 Frame.io 擴充功能如何讓您集中化和共用資產、接收即時評論、追蹤修訂以及更快核准，這些全都無需離開此實作教學課程的時間軸。
+在您建立的位置進行協作。 瞭解Adobe Premiere Pro的Frame.io擴展如何讓您集中和共用資產、接收即時評論、跟蹤修訂並獲得更快的批准 — 所有這些都無需在本動手教程中留下時間表。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/Videoreviewwithframe.png){“width=680”} 的第一頁影像](assets/Video-review-with-Frame.io.pdf){target="blank"}
+[![教程的首頁影像](assets/Videoreviewwithframe.png)](assets/Video-review-with-Frame.io.pdf){target="blank"}
