@@ -1,23 +1,23 @@
 ---
-title: 專業動態圖形範本
-description: 動態圖形範本 （.mogrt） 是一種可協作且有效率的方式來建立可自定義的動態圖形套件 —標題、標誌動畫、標題欄，以及與編輯團隊分享
+title: 專業運動圖形模板
+description: Motion Graphics模板(.mogrt)是一種協作而高效的方法，可建立可定製的Motion Graphics軟體包 — 標題、徽標動畫、下三分之一，並與編輯團隊共用
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-11642
 thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 專業動態圖形範本
+# 專業運動圖形模板
 
-動態圖形範本 （.mogrt） 是一種可協作且有效率的方式，可建立可自定義的動態圖形套件 （例如標題、標誌動畫、標題欄），以及與編輯團隊分享。 編輯者可以在 Adobe After Effects CC 和Adobe Premiere Pro CC中使用「基本圖形」工作流程，匯入MOGRT並設定屬性 （例如文字、字型、顏色、大小、速度或版面可編輯），同時保持序列的一致外觀和設計。
+Motion Graphics模板(.mogrt)是一種協作和高效的方法，可建立可定製的Motion Graphics軟體包，例如標題、徽標動畫、低三分之一，並與編輯團隊共用。 使用Adobe After Effects CC和Adobe Premiere Pro CC的「基本圖形」工作流，編輯可以導入MOGRT並設定屬性，如文本、字型、顏色、大小、速度或佈局可編輯，同時保持序列的一致外觀和設計。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/MORGTs.png){“width=680”} 的第一頁影像](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
+[![教程的首頁影像](assets/MORGTs.png){width="680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

@@ -1,22 +1,22 @@
 ---
-title: 內容創作者的Acrobat
-description: 瞭解有助於簡化創意工作流程的Adobe Acrobat中的關鍵工具
+title: Acrobat內容建立者
+description: 瞭解Adobe Acrobat幫助簡化創意工作流程的關鍵工具
 feature: Share, Workflow
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# 為內容創作者Acrobat
+# Acrobat為內容建立者
 
-身為內容建立者，您可能會產生 PDF，然後在Acrobat中例行檢視這些 PDF 檔案。 但是，還有許多其他工具有助於簡化一般創意工作流程。
+作為內容建立者，您可能會生成PDF，然後定期查看Acrobat的這些PDF檔案。 但是，還有許多其他工具可以幫助簡化典型的創造性工作流。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/Acrobatforcontentcreators.png){“width=680”} 的第一頁影像](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![教程的首頁影像](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

@@ -1,26 +1,26 @@
 ---
-title: 令人驚歎的數字資產
-description: 透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。
+title: 驚艷的數字資產
+description: 瞭解如何將Adobe Stock與CC Libraries整合，在本實踐教程中為打印和螢幕建立一致且專業的設計結果
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# 令人驚歎的數字資產
+# 驚艷的數字資產
 
-透過本實作教學課程，瞭解如何將Adobe Stock與CC Libraries整合，為印刷和螢幕製作一致且專業的設計成果。
+瞭解如何將Adobe Stock與CC Libraries整合，在本實踐教程中為打印和螢幕建立一致且專業的設計結果。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/Stunningdigitalassets.png){“width=680”} 的第一頁影像](assets/Stunning-Digital-Assets.pdf){target="blank"}
+[![教程的首頁影像](assets/Stunningdigitalassets.png){width="680"}](assets/Stunning-Digital-Assets.pdf){target="blank"}
 
 >[!NOTE]
 >
->Adobe Stock儲存至CC Libraries的資產可以無縫新增到 Microsoft PowerPoint 和 Word 中。 有關如何下載和安裝 Adobe Creative Cloud 載入宏的指示，請參閱 [這裡](https://helpx.adobe.com/tw/creative-cloud/help/libraries-addin-microsoft-office.html) 或在 Microsoft App Store 中。 此程式對於這兩個應用程式都很簡單，尤其是對於有在 Illustrator、InDesign 或 Photoshop 中使用 Adobe Stock 體驗的應用程式而言。 如需詳細資訊，請造訪 [探索 Microsoft Office 365 中的Adobe Stock整合式增效模組](https://helpx.adobe.com/tw/stock/help/microsoft-office-plug-ins.html)。
+>Adobe Stock保存到CC Libraries的資產可以無縫地添加到MicrosoftPowerPoint和Word中。 有關如何下載和安裝Adobe Creative Cloud載入項的說明，請在[此處](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html)或MicrosoftApp Store中找到。 這個過程對兩個應用都很簡單，尤其對那些在Illustrator、InDesign或Photoshop使用過Adobe Stock的用戶來說。 有關詳細資訊，請訪問[瀏覽Adobe StockOffice 365](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html)中的Microsoft整合插件。

@@ -1,22 +1,22 @@
 ---
-title: 3D 設計和演算
-description: 匯入內容、安排場景、套用材質和紋理、調整基於影像的和實體照明、以不同的解析度儲存相機，以及演算逼真的影像
+title: 3D設計和渲染
+description: 導入內容、安排場景、應用材料和紋理、調整基於影像和物理照明、保存具有不同解析度的相機以及渲染照片真實感影像
 feature: 3D
 role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# 3D 設計和演算
+# 3D設計和渲染
 
-匯入內容、安排場景、套用材質和紋理、調整基於影像和實體照明、以不同解析度儲存相機，以及演算逼真的影像──一切都可Adobe Substance 3D Stager。
+導入內容、安排場景、應用材料和紋理、調整基於影像和物理照明、保存具有不同解析度的相機以及渲染照片真實感影像 — 所有這一切都在Adobe Substance 3D Stager。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/Substance3DStager.png){“width=680”} 的第一頁影像](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![教程的首頁影像](assets/Substance3DStager.png){width="680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}

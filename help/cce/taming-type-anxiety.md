@@ -1,23 +1,23 @@
 ---
-title: 坦平文字分析
-description: 瞭解如何在 Creative Cloud 中存取和使用超過 20,000 種專業設計的字體
+title: 馴服焦慮症
+description: 瞭解如何訪問和使用20,000多種專業設計的字型，以Creative Cloud
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# 坦平文字特性
+# 馴服型焦慮
 
-在Adobe Creative Cloud訂閱眾多好處中，有 20,000 多種專業設計及精選的字體可從Adobe Fonts中免費取用。 Adobe Fonts最初稱為 Typekit，透過單一許可協定提供，可供設計人員為個人或商業專案提供無限的創意使用。
+在Adobe Creative Cloud訂閱的眾多好處中，有2萬多種來自Adobe Fonts的專業設計和策劃字型是免費的。 Adobe Fonts最初被稱為Typekit，它通過單一的授權協定提供，為設計者提供無限的個人或商業項目的創造性使用。
 
-選取下方的影像以檢視或下載此 PDF 教學課程。
+選擇下面的影像以查看或下載此PDF教程。
 
-[![教學課程](assets/TamingTypeAnxiety.png){“width=680”} 的第一頁影像](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
+[![教程的首頁影像](assets/TamingTypeAnxiety.png){width="680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
