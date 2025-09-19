@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Stock保存到CC Libraries的資產可以無縫地添加到MicrosoftPowerPoint和Word中。 有關如何下載和安裝Adobe Creative Cloud載入項的說明，請在[此處](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html)或MicrosoftApp Store中找到。 這個過程對兩個應用都很簡單，尤其對那些在Illustrator、InDesign或Photoshop使用過Adobe Stock的用戶來說。 有關詳細資訊，請訪問[瀏覽Adobe StockOffice 365](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html)中的Microsoft整合插件。
+>Adobe Stock保存到CC Libraries的資產可以無縫地添加到MicrosoftPowerPoint和Word中。 有關如何下載和安裝Adobe Creative Cloud載入項的說明，請在[此處](https://helpx.adobe.com/tw/creative-cloud/help/libraries-addin-microsoft-office.html)或MicrosoftApp Store中找到。 這個過程對兩個應用都很簡單，尤其對那些在Illustrator、InDesign或Photoshop使用過Adobe Stock的用戶來說。 有關詳細資訊，請訪問[瀏覽Adobe StockOffice 365](https://helpx.adobe.com/tw/stock/help/microsoft-office-plug-ins.html)中的Microsoft整合插件。
