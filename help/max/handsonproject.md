@@ -99,7 +99,7 @@ Patti Sokol，數位媒體首席解決方案顧問
 
 **按兩下「使用 3D 模型的白色遮色片下載 [!DNL Dimension] 檔」**
 
-[![比較影像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
+[![比較影像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **顯示者：**
 Patti Sokol，數位媒體首席解決方案顧問
