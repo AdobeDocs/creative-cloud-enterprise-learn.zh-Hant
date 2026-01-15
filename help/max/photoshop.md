@@ -83,7 +83,7 @@ A.J Wood，高級解決方案顧問（數字媒體）
 
 **Photoshop資源**
 
-[學習和支援](https://helpx.adobe.com/support/photoshop.html)是您的中心，可獲取其他教程、[新增內容](https://helpx.adobe.com/photoshop/using/whats-new.html)和社區論壇連結。
+[學習和支援](https://helpx.adobe.com/tw/support/photoshop.html)是您的中心，可獲取其他教程、[新增內容](https://helpx.adobe.com/tw/photoshop/using/whats-new.html)和社區論壇連結。
 
 **2020年10月發佈**
 

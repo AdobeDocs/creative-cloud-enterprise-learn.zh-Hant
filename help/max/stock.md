@@ -85,7 +85,7 @@ Victoria Torres,[!DNL Stock]解決方案顧問（數字媒體）
 
 **Adobe[!DNL Stock]資源**
 
-[學習和支援](https://helpx.adobe.com/support/stock.html)是您的中心，可獲取其他教程和社區論壇連結。
+[學習和支援](https://helpx.adobe.com/tw/support/stock.html)是您的中心，可獲取其他教程和社區論壇連結。
 
 **2020年10月發佈**
 
