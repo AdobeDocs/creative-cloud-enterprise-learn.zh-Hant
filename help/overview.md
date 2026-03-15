@@ -5,10 +5,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: a596540deb715b3ef158456d7c3c989d235da468
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 13%
+source-wordcount: '586'
+ht-degree: 5%
 
 ---
 
@@ -19,8 +19,9 @@ ht-degree: 13%
 ## 瀏覽主題
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce
   {target = _self}
   {title = Creative Cloud for enterprise tutorials}
@@ -69,8 +70,8 @@ ht-degree: 13%
   {description = Learn all about the MAX 2020 enterprise sessions}
   {image = https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_123d1f364e7b955b6abb56e8708e22f080254474d.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -195,8 +196,8 @@ ht-degree: 13%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" title="Adobe Video" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1b94f0eb740d3be825f3f8db916c0703c432d9ed5.png?width=400&format=webply&optimize=medium" alt="Adobe Video"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" title="Adobe影片" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1b94f0eb740d3be825f3f8db916c0703c432d9ed5.png?width=400&format=webply&optimize=medium" alt="Adobe影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +205,7 @@ ht-degree: 13%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" title="Adobe Video">Adobe影片</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" title="Adobe影片">Adobe影片</a>
                     </p>
                     <p class="is-size-6">透過影片將您的想法生動呈現</p>
                 </div>

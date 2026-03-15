@@ -1,41 +1,42 @@
 ---
-title: ' [!DNL Express] Adobe總覽'
-description: 快速上Adobe [!DNL Express]
+title: Adobe [!DNL Express] 總覽
+description: 在Adobe [!DNL Express]上快速上手
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: d529664e5d0bb6f97c2624e6ce6e655cfc1e0ac9
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 10%
+source-wordcount: '621'
+ht-degree: 4%
 
 ---
 
-# [!DNL Express] Adobe概觀
+# Adobe [!DNL Express]總覽
 
-使用全新、全方位的 Adobe Express 應用程式，設計 Reels 和 TikTok 影片、傳單、履歷表、橫幅、標誌等，輕鬆快速地創作內容。 使用由 Adobe Firefly 支援的生成 AI 功能，設計出令人驚豔的作品。
+使用全新的多合一Adobe Express應用程式，輕鬆快速地建立內容，協助設計卷軸和TikTok影片、傳單、履歷、橫幅、標誌等。 以Adobe Firefly支援的創作AI功能設計令人驚豔的作品。
 
 ## 新增功能
 
 >[!BEGINTABS]
 
->[!TAB 使用範本輕鬆保持品牌一致性]
+>[!TAB 輕鬆維持與範本的品牌一致性]
 
-瞭解如何在整個組織中使用 [範本](use-templates.md) 快速有效率地建立品牌內容。
+瞭解如何在整個組織內使用[範本](use-templates.md)，快速且有效率地建立品牌內內容。
 
->[!TAB 提高效率：建立可重複使用的範本]
+>[!TAB 最大化效率：建立可重複使用的範本]
 
-瞭解如何使用範本[&#128279;](create-templates.md)為您的組織帶來品牌一致性、效率、專業性和成本節約。
+瞭解如何使用[範本](create-templates.md)為您的組織帶來品牌一致性、效率、專業精神和成本節省。
 
 >[!ENDTABS]
 
-## [!DNL Express] Adobe教學課程
+## Adobe [!DNL Express]教學課程
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
   {title = Getting started}
@@ -78,8 +79,8 @@ ht-degree: 10%
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
@@ -98,9 +99,9 @@ ht-degree: 10%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="快速入門">開始</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="快速入門">快速入門</a>
                     </p>
-                    <p class="is-size-6">瞭解如何導覽、使用快速動作，以及探索數千個專業設計的範本</p>
+                    <p class="is-size-6">瞭解如何導覽、使用快速動作及探索數千個專業設計的範本</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -112,8 +113,8 @@ ht-degree: 10%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" title="基本工作" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_15cf8f0d1a7756e41a06cfd9c0c469e0301b1a58f.png?width=400&format=webply&optimize=medium" alt="基本工作"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" title="基本任務" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_15cf8f0d1a7756e41a06cfd9c0c469e0301b1a58f.png?width=400&format=webply&optimize=medium" alt="基本任務"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,9 +122,9 @@ ht-degree: 10%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="基本工作">基本工作</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="基本任務">基本任務</a>
                     </p>
-                    <p class="is-size-6">瞭解如何製作真正引人注目的內容</p>
+                    <p class="is-size-6">瞭解如何製作引人注目的內容</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -146,7 +147,7 @@ ht-degree: 10%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" title="動畫">動畫</a>
                     </p>
-                    <p class="is-size-6">使用自定義動畫，讓您的內容更上層樓</p>
+                    <p class="is-size-6">透過自訂動畫將您的內容提升到新的境界</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -169,7 +170,7 @@ ht-degree: 10%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" title="進階工作">進階工作</a>
                     </p>
-                    <p class="is-size-6">深入瞭解 AI 世代、PDF 編輯等</p>
+                    <p class="is-size-6">深入探討Gen AI、PDF編輯等</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -192,7 +193,7 @@ ht-degree: 10%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" title="影片">影片</a>
                     </p>
-                    <p class="is-size-6">輕鬆製作影片。 為真正出色的內容加入Adobe Stock影片和音樂</p>
+                    <p class="is-size-6">輕鬆觀賞影片。 新增Adobe Stock影片和音樂，以呈現引人注目的內容</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -215,7 +216,7 @@ ht-degree: 10%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" title="範本">範本</a>
                     </p>
-                    <p class="is-size-6">瞭解如何為您的組織帶來品牌一致性、效率和成本節約</p>
+                    <p class="is-size-6">瞭解如何為貴組織帶來品牌一致性、效率和成本節省</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
@@ -238,7 +239,7 @@ ht-degree: 10%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" title="使用案例">使用案例</a>
                     </p>
-                    <p class="is-size-6">了解組織中不同的團隊如何因使用 Adobe Express 而獲益</p>
+                    <p class="is-size-6">瞭解組織內不同的團隊如何受益於使用Adobe Express</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
