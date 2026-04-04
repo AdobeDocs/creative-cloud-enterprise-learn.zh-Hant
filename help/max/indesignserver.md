@@ -63,21 +63,21 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/tw/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server：購買指南" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server：購買指南</strong></a>
+   <a href="https://www.adobe.com/tw/products/indesignserver/buying-guide.html"><strong>InDesign Server：購買指南</strong></a>
     </div>
     <em>內部開發人員或合作夥伴可用的資源</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/tw/products/indesignserver/partner.html">
       <img alt="InDesign Server：尋找合作夥伴" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server：尋找合作夥伴</strong></a>
+   <a href="https://www.adobe.com/tw/products/indesignserver/partner.html"><strong>InDesign Server：尋找合作夥伴</strong></a>
     </div>
     <em>雖然您擁有公司內部開發的專業知識，Adobe建議與合作夥伴合作尋找符合您需求的解決方案</em>
     <br>
@@ -94,7 +94,7 @@ Eric Rowse，資深解決方案顧問 （Digital Media）
 
 **InDesign Server資源**
 
-[&#128279;](https://www.adobe.com/products/indesignserver.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
+[&#128279;](https://www.adobe.com/tw/products/indesignserver.html)學習與支援是您其他教學課程、新增功能和社群論壇連結的中樞。
 
 **2020 年 10 月版**
 
