@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![詹姆斯·卡梅倫的《深淵》中瑪麗·馬斯特蘭托尼奧伸出手觸碰CGI水觸手的場景](assets/Photorealistic_2.jpg)
 
-這種將3D模型分層或「合成」成影像或視頻的技術並不新鮮，其起源實際上可以追溯到VFX的早期（可追溯到20世紀80年代）。 最新而令人興奮的是，此技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)用戶的強大工具，並成為攝影師的有趣新工作流。
+這種將3D模型分層或「合成」成影像或視頻的技術並不新鮮，其起源實際上可以追溯到VFX的早期（可追溯到20世紀80年代）。 最新而令人興奮的是，此技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/tw/products/dimension.html)用戶的強大工具，並成為攝影師的有趣新工作流。
 
 
 ## 在Adobe[!DNL Dimension]中建立複合映像的技術
@@ -58,7 +58,7 @@ Adobe[!DNL Dimension]允許用戶使用AdobeAI直接將2D和3D元素無縫地組
 
 ### 選擇位置
 
-查找對上下文和光照都感興趣的位置。 在考慮背景時，想像場景的潛在用途是有幫助的。 例如，空路視圖可用於添加3D汽車，而咖啡店的桌子視圖可用於[顯示食品包裝](https://www.adobe.com/products/dimension/packaging-design-mockup.html)。
+查找對上下文和光照都感興趣的位置。 在考慮背景時，想像場景的潛在用途是有幫助的。 例如，空路視圖可用於添加3D汽車，而咖啡店的桌子視圖可用於[顯示食品包裝](https://www.adobe.com/tw/products/dimension/packaging-design-mockup.html)。
 
 將虛擬照片的![4個位置場景與3D複合影像的相同場景進行比較](assets/Photorealistic_8.png)
 

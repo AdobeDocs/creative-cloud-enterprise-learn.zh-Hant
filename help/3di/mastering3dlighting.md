@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![由相片構成的環境光線範例、3D 工作室場景和抽象 3D 場景](assets/Mastering3dlighting_5.jpg)
 
-當您在其中建立新場景時 [[!DNL Dimension]](https://www.adobe.com/products/dimension.html)，將會為您建立默認環境光線。 因此，您可以立即看到場景中的任何內容。 [!DNL Dimension] Adobe入門資產包含一定數量的環境光線，您可以立即試用。此外， [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) 提供精選的眾多環境光源。
+當您在其中建立新場景時 [[!DNL Dimension]](https://www.adobe.com/tw/products/dimension.html)，將會為您建立默認環境光線。 因此，您可以立即看到場景中的任何內容。 [!DNL Dimension] Adobe入門資產包含一定數量的環境光線，您可以立即試用。此外， [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) 提供精選的眾多環境光源。
 
 環境光線會產生高度逼真的成果，並且能為您節省許多時間。 為了手動獲得類似的成果，您必須實際以 3D （包括各種光源） 建立整個環境，這是大量的工作。
 
