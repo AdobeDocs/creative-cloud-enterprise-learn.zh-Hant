@@ -1,36 +1,42 @@
 ---
-title: 如何新增 AI 世代影像
-description: 探索如何將由 Adobe Firefly 技術支援的生成 AI 影像新增至您的創意專案
+title: 如何新增Gen AI影像
+description: 瞭解如何將Adobe Firefly支援的創作AI影像新增至您的創意專案
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-14824
 exl-id: 15906f59-1b56-4dfc-b425-f2f904f26183
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/HVyHc1uDqnpSF7lZsUEz8aqVPInaOC17R7K95D1EHmg
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 113
 ht-degree: 0%
 
 ---
 
-# 如何新增 AI 世代影像
+# 如何新增Gen AI影像
 
-探索如何將由 Adobe Firefly 技術支援的生成 AI 影像新增至您的創意專案。 根據文字提示產生影像，並提供不同樣式和內容類型的選項，將內容個人化。
+瞭解如何將Adobe Firefly支援的創作AI影像新增至您的創意專案。 根據文字提示產生影像，並使用不同樣式和內容型別的選項來個人化您的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
  <td>
       <a href="brand.md">
-         <img alt="設定品牌手冊" src="assets/brand.png" />
+         <img alt="設定品牌套件" src="assets/brand.png" />
       </a>
   </td>
    <td>
       <a href="new-project.md">
-         <img alt="開始專案" src="assets/starting-a-project.png" />
+         <img alt="啟動專案" src="assets/starting-a-project.png" />
       </a>
   </td>
    <td>
@@ -62,19 +68,19 @@ ht-degree: 0%
    </td>
     <td>
          <a href="layers.md">
-            <img alt="使用層次和工作區域" src="assets/layers.png" />
+            <img alt="使用圖層和工作區域" src="assets/layers.png" />
          </a>
    </td>
 </tr>
 <tr>
    <td>
    <a href="collaborate.md">
-      <img alt="如何進行共同作業" src="assets/collaborate.png" />
+      <img alt="如何共同作業" src="assets/collaborate.png" />
    </a>
    </td>
    <td>
    <a href="share.md">
-      <img alt="如何分享和下載" src="assets/share.png" />
+      <img alt="如何共用和下載" src="assets/share.png" />
    </a>
    </td>
    <td>
@@ -83,7 +89,7 @@ ht-degree: 0%
    </a>
    </td>
    <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>

@@ -1,41 +1,47 @@
 ---
 title: 如何新增音訊
-description: 瞭解如何透過新增音訊建立引人入勝且令人難忘的專案
+description: 瞭解如何新增音訊，以建立吸引人且令人難忘的專案
 feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14874
 exl-id: 04e4642c-edd2-4de9-8fec-94b791f2103d
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/cdcuq86X0fCKt7RVWIXLdBb55jRysXufYg0NuI9gNKk
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: 89
 ht-degree: 0%
 
 ---
 
 # 如何新增音訊
 
-瞭解如何透過新增音訊來建立引人入勝且令人難忘的專案。 您可以上傳您自己的音訊檔案，或選擇免版稅的 Stock 音訊。 您也可以錄製配音，並調整音訊和旁白的音量。
+瞭解如何新增音訊，以建立吸引人且令人難忘的專案。 您可以上傳自己的音訊檔案，或選擇免版稅的庫存音訊。 您也可以錄製語音並調整音訊和語音的音量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436865?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
    <td>
          <a href="start-video.md">
-            <img alt="如何開始影片專案" src="assets/start-video.png" />
+            <img alt="如何開始視訊專案" src="assets/start-video.png" />
          </a>
    </td>
   <td>
          <a href="add-video-clips.md">
-            <img alt="如何新增影片剪輯" src="assets/add-video-clips.png" />
+            <img alt="如何新增視訊片段" src="assets/add-video-clips.png" />
          </a>
    </td>
    <td>
          <a href="video-timeline.md">
-            <img alt="什麼是影片時間軸？" src="assets/video-timeline.png" />
+            <img alt="什麼是視訊時間軸？" src="assets/video-timeline.png" />
          </a>
    </td>
    <td>
@@ -47,21 +53,21 @@ ht-degree: 0%
 <tr>
     <td>
          <a href="export-video.md">
-            <img alt="如何匯出影片" src="assets/export-video.png" />
+            <img alt="如何匯出視訊" src="assets/export-video.png" />
          </a>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>

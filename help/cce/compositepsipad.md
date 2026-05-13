@@ -1,25 +1,31 @@
 ---
-title: 使用適用於 iPad 的 Adobe [!DNL Stock] 和Photoshop 建立獨特的複合
-description: 讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一
+title: 使用iPad的Adobe [!DNL Stock] 和Photoshop建立獨特的複合影像
+description: 讓Photoshop的強大功能觸手可及。 瞭解如何以全新方式使用您最愛的Creative Cloud應用程式之一，並搭配重新設計的觸控式介面
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: c2f1440a-5da7-4e04-9c7d-fe595d45a8c2
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/UTSIXioFXwxeJ0XPhiB86YkkNizx98fD-dRt2xsmPj4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: 90
 ht-degree: 0%
 
 ---
 
-# 使用適用於 iPad 的 [!DNL Stock] Adobe 和Photoshop 建立獨特的複合
+# 使用iPad的Adobe [!DNL Stock]和Photoshop建立獨特的複合專案
 
-讓Photoshop的力量隨手可得。 透過重新工程的觸控式介面，瞭解如何以全新方式使用您喜愛的Creative Cloud應用程式之一。
+讓Photoshop的強大功能觸手可及。 瞭解如何以全新方式使用您最愛的Creative Cloud應用程式之一，並搭配重新設計的觸控式介面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
 
 <br> 
 
-[**下載快速參考 PDF 指南**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[**下載快速參考PDF指南**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
 [![快速參考指南第一頁的影像](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

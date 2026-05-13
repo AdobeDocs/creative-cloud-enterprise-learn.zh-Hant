@@ -1,92 +1,97 @@
 ---
 title: '[!DNL Stock]'
-description: Adobe [!DNL Stock] 面向企業，讓創意團隊能夠訪問超過2億張影像、視頻、模板、插圖、音頻檔案和3D資產
+description: 適用於企業的Adobe [!DNL Stock] 可讓創意團隊存取超過2億張影像、影片、範本、插圖、音訊檔案和3D資產
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-創意人士正面臨壓力，要求他們快速提供新的、在視覺上具有吸引力的內容，以吸引和保持關注。 針對企業的Adobe[!DNL Stock]使創意團隊能夠訪問超過2億張影像、視頻、模板、插圖、音頻檔案和3D資產 — 所有內容都來自他們每天使用的Adobe創意應用。
+創意人員面臨快速提供吸引目光且吸引目光的新內容的壓力。 適用於企業的Adobe [!DNL Stock]可讓創意團隊存取超過2億張影像、影片、範本、插圖、音訊檔案和3D資產，這些全都來自他們每天使用的Adobe創意應用程式。
 
-## 瀏覽產品Tutorials
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="通過Adobe更快地找到最佳資產 [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
+      <img alt="使用Adobe更快找到最佳資產 [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>通過Adobe[!DNL Stock]</strong></a>更快地找到最佳資產
+   <a href="stock.md#tutorial1"><strong>使用Adobe更快找到最佳資產[!DNL Stock]</strong></a>
     </div>
-    <em>查找完美的免版稅庫存影像，以使用AdobeAI支援的更好、更快的搜索結果來增強您的創意項目</em>
+    <em>尋找最完美的免版稅庫存影像，以使用Adobe AI支援的搜尋結果來增強您的創意專案</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="在中搜索和許可[!DNL Stock]資AEM產" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="在AEM中搜尋並授權[!DNL Stock] Assets" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>搜索和許可[!DNL Stock]資產 
-ADOBE EXPERIENCE MANAGER</strong></a>
+   <a href="stock.md#tutorial2"><strong>搜尋並授權[!DNL Stock] Assets於 
+Adobe Experience Manager</strong></a>
     </div>
-    <em>簡化將許可Adobe[!DNL Stock]資產上載到數字資產管理系統的過程</em>
+    <em>簡化將您的授權Adobe [!DNL Stock]資產上傳至數位資產管理系統的程式</em>
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Whitespacer.png" />
+    <img alt="分隔符號" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## 使用Adobe[!DNL Stock]&#x200B;(10:49)更快地查找最佳資產 {#tutorial1}
+## 使用Adobe [!DNL Stock] (10:49)更快找到最佳資產 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **描述**
-查找完美的免版稅庫存影像，以便使用AdobeAI支援的更好、更快的搜索結果來增強您的創意項目。
+尋找完美的免版稅庫存影像，利用Adobe AI技術支援的更佳、更快速的搜尋結果來增強您的創意專案。
 
-在本教程中，您將學習如何：
+在本教學課程中，您將學習如何：
 
-* 在搜索高質量影像和視頻時花費時間和精力
-* 輕鬆管理和跟蹤整個企業的資產許可證和使用情況
-* 在您的Adobe Creative Cloud應用程式內搜索、預覽和許可
+* 減少搜尋高品質影像和視訊的時間和壓力
+* 輕鬆管理及追蹤整個企業的資產授權及使用情況
+* 直接在Adobe Creative Cloud應用程式中搜尋、預覽和授權
 
-**提交者：**
+**展示者：**
 
-Victoria Torres,[!DNL Stock]解決方案顧問（數字媒體）
+Victoria Torres，[!DNL Stock]解決方案顧問（數位媒體）
 
-## 在(6[!DNL Stock])中搜索和許AEM可:46資產 {#tutorial2}
+## 在AEM (6:46)中搜尋並授權[!DNL Stock] Assets {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **描述**
-簡化將許可的Adobe[!DNL Stock]資產上載到數字資產管理系統的過程。
+簡化將授權的Adobe [!DNL Stock]資產上傳至數位資產管理系統的程式。
 
-在本教程中，您將學習如何：
-* 執行Adobe[!DNL Stock]資產搜索而不離開工AEM作區
-* 在許可時將許可資AEM產直接保存到資料夾
-* 在[!DNL Stock]網站上AEM查看從[!DNL Stock]許可證歷史記錄中許可的資產。
+在本教學課程中，您將學習如何：
+* 在不離開Adobe工作區的情況下執行AEM [!DNL Stock]資產搜尋
+* 授權時將授權資產直接儲存到AEM資料夾
+* 在[!DNL Stock]網站的[!DNL Stock]授權記錄中，檢視從AEM授權的資產。
 
-**提交者：**
-解決方案顧問（數字媒體）Emily Palmer
+**展示者：**
+解決方案顧問Emily Palmer （數位媒體）
 
-![[!DNL Stock]徽標](../assets/st_appicon_96.png)
+![[!DNL Stock]標誌](../assets/st_appicon_96.png)
 
-**Adobe[!DNL Stock]資源**
+**Adobe [!DNL Stock]資源**
 
-[學習和支援](https://helpx.adobe.com/tw/support/stock.html)是您的中心，可獲取其他教程和社區論壇連結。
+[學習與支援](https://helpx.adobe.com/support/stock.html)是您其他教學課程和社群論壇連結的中樞。
 
-**2020年10月發佈**
+**2020年10月發行版本**
 
-從您的Creative Cloud案頭應用下載最新更新，開始使用這些功能（以及更多！）。
+開始使用這些功能（以及更多功能！） 從您的Creative Cloud案頭應用程式下載最新更新。

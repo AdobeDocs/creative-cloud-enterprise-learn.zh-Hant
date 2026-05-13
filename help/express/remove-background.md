@@ -1,31 +1,37 @@
 ---
-title: 如何從任何影像移除背景
-description: 瞭解如何一鍵移除影像背景
+title: 如何移除任何影像的背景
+description: 瞭解如何按一下即可移除影像的背景
 feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-13419
 exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
-source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
+TQID: https://experienceleague.adobe.com/xBg4Zfx-ubhvVDxZoElMmj6gaIqOarKe0w0I731KouU
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 116
 ht-degree: 0%
 
 ---
 
-# 如何從任何影像中移除背景
+# 如何從任何影像移除背景
 
-瞭解如何使用快速動作，一鍵從影像中移除背景。 拿掉影像背景後，您可下載影像並用於多種用途。
+瞭解如何使用快速動作，按一下即可從影像中移除背景。 移除背景之後，您的影像就可以下載並用於多種用途。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
    <td>
          <a href="intro-gen-ai.md">
-            <img alt="Adobe Express 有哪些新的 AI 世代功能" src="assets/intro-gen-ai.png" />
+            <img alt="Adobe Express中有哪些新的Gen AI功能" src="assets/intro-gen-ai.png" />
          </a>
    </td>
    <td>
@@ -35,19 +41,19 @@ ht-degree: 0%
    </td>
    <td>
          <a href="generative-fill.md">
-            <img alt="如何使用生成填色" src="assets/gen-fill.png" />
+            <img alt="如何使用產生式填色" src="assets/gen-fill.png" />
          </a>
    </td>
    <td>
       <a href="gen-text.md">
-         <img alt="使用 Gen AI 改善您的文字設計" src="assets/text-design.png" />
+         <img alt="使用Gen AI改善您的文字設計" src="assets/text-design.png" />
       </a>
    </td>   
 </tr>
 <tr>
     <td>
       <a href="text-to-template.md">
-         <img alt="如何使用文字轉範本世代 AI" src="assets/text-to-template.png" />
+         <img alt="如何使用Text-to-template Gen AI" src="assets/text-to-template.png" />
       </a>
    </td>
    <td>
@@ -57,7 +63,7 @@ ht-degree: 0%
    </td>
    <td>
       <a href="edit-a-pdf.md">
-         <img alt="如何編輯 PDF" src="assets/edit-pdf.png" />
+         <img alt="如何編輯PDF" src="assets/edit-pdf.png" />
       </a>
    </td>
    <td>

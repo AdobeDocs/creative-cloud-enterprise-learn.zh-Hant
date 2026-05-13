@@ -1,20 +1,24 @@
 ---
-title: 使用 Adobe 和 Creative Cloud Express [!DNL Stock] 影片所製作的影片，開始您的年度報告
-description: 利用 Adobe 和 Creative Cloud Express [!DNL Stock] 影片，讓您的年度報告成為故事
+title: 以使用Adobe [!DNL Stock] 和Spark Video建立的影片開始您的年度報告
+description: 使用Adobe [!DNL Stock] 和Spark Video製作您的年報
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331808.jpg
 exl-id: fb6f1901-fbe1-4d79-8584-489a5b1ddad7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/b37y9IOIaHqvAFa8IbFOm-ErsK5Dol8rIwAIVyNeo-Q
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: 45
 ht-degree: 0%
 
 ---
 
-# 使用以 Adobe 和 Creative Cloud Express 影片建立的 [!DNL Stock] 影片，開始您的年度報告
+# 以使用Adobe [!DNL Stock]和Spark Video建立的影片開始您的年度報告
 
-利用 Adobe 和 Creative Cloud Express [!DNL Stock] 影片，讓您的年度報告成為故事。
+使用Adobe [!DNL Stock]和Spark Video製作您的年度報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

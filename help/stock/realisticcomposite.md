@@ -1,20 +1,24 @@
 ---
-title: 使用Adobe影 [!DNL Stock] 像建立逼真的合成相片
-description: 將兩張出色的Adobe相片結合在一 [!DNL Stock] 起，將人們吸引到您的社交貼文中
+title: 使用Adobe [!DNL Stock] 影像建立逼真的合成像片
+description: 將兩張出色的Adobe [!DNL Stock] 像片彙整在一起，吸引人們觀看您的社交貼文
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
 exl-id: 251fdc84-a3fe-47fb-b457-48c881d277ae
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/7vnQi1M3XIBiGahNV0-wj-k4dAvQvUwVKTb1vjSH3YE
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: 37
 ht-degree: 0%
 
 ---
 
-# 使用Adobe影像建立逼真的 [!DNL Stock] 合成相片
+# 使用Adobe [!DNL Stock]影像建立逼真的合成像片
 
-將兩張出色的Adobe相片結合在一 [!DNL Stock] 起，將人們吸引到您的社交貼文中。
+彙集兩張出色的Adobe [!DNL Stock]像片，吸引人們觀看您的社交貼文。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

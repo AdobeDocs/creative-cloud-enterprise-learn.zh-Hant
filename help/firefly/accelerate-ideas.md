@@ -1,22 +1,28 @@
 ---
-title: 加速Creative構想
-description: 瞭解如何快速地將想法可視化，並探索企業宣傳活動的概念
+title: 加速Creative構思
+description: 瞭解如何快速將商業行銷活動的想法視覺化並探索概念
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-15422
 exl-id: df991508-194c-4316-aeb6-76a5b06b10f2
-source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
+TQID: https://experienceleague.adobe.com/WdwXApTtF-jTQLypoGJcnjszpej8AggKMtD6GC7KJ8M
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: 50
+ht-degree: 4%
 
 ---
 
-# 加速創意構想
+# 加速創意創意
 
-瞭解如何快速地將想法可視化，並探索企業宣傳活動的概念。 加快創意構想，讓組織可以快速製作高質量的內容。 請在這裡[&#128279;](https://firefly.adobe.com/)試Adobe Firefly。
+瞭解如何快速將商業行銷活動的想法視覺化並探索概念。 加速創意創意力可讓組織快速製作高品質的內容。 在[這裡](https://firefly.adobe.com/?locale=tw)試用Adobe Firefly。
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3452529?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)

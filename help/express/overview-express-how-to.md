@@ -1,21 +1,27 @@
 ---
-title: ' [!DNL Express] Adobe作教學課程」'
-description: 快速上Adobe [!DNL Express]
+title: Adobe [!DNL Express] 操作教學課程
+description: 在Adobe [!DNL Express]上快速上手
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+TQID: https://experienceleague.adobe.com/vXAaKbzUm97uoCDQm45GxgyCs335hL1ZxfofYgtEcRw
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 368
 ht-degree: 1%
 
 ---
 
-# [!DNL Express] Adobe作教學課程
+# Adobe [!DNL Express]操作教學課程
 
-開始使用由 Adobe Firefly 支援的生成 AI，創作出出色的出色作品。 使用 Adobe Express 設計傳單、TikToks、履歷表和標籤。
+開始建立令人驚歎的工作，並透過Adobe Firefly支援的創作AI脫穎而出。 使用Adobe Express設計傳單、TikToks、履歷和卷軸。
 
 ## 快速入門
 
@@ -23,7 +29,7 @@ ht-degree: 1%
 <tr>
  <td>
       <a href="get-started.md">
-         <img alt="首頁上的功能" src="assets/home-page.png" />
+         <img alt="首頁內容" src="assets/home-page.png" />
       </a>
  </td>
  <td>
@@ -37,25 +43,25 @@ ht-degree: 1%
       </a>
  </td>
  <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>
 </tr>
 </table>
 
-## 基本工作
+## 基本任務
 
 <table style="table-layout:fixed">
 <tr>
  <td>
       <a href="brand.md">
-         <img alt="設定品牌手冊" src="assets/brand.png" />
+         <img alt="設定品牌套件" src="assets/brand.png" />
       </a>
   </td>
    <td>
       <a href="new-project.md">
-         <img alt="開始專案" src="assets/starting-a-project.png" />
+         <img alt="啟動專案" src="assets/starting-a-project.png" />
       </a>
   </td>
    <td>
@@ -77,7 +83,7 @@ ht-degree: 1%
   </td>
    <td>
       <a href="add-gen-ai-image.md">
-         <img alt="如何新增 AI 世代影像" src="assets/gen-ai-image.png" />
+         <img alt="如何新增Gen AI影像" src="assets/gen-ai-image.png" />
       </a>
   </td>
    <td>
@@ -94,17 +100,17 @@ ht-degree: 1%
 <tr>
    <td>
          <a href="layers.md">
-            <img alt="使用層次和工作區域" src="assets/layers.png" />
+            <img alt="使用圖層和工作區域" src="assets/layers.png" />
          </a>
    </td>
    <td>
    <a href="collaborate.md">
-      <img alt="如何進行共同作業" src="assets/collaborate.png" />
+      <img alt="如何共同作業" src="assets/collaborate.png" />
    </a>
    </td>
    <td>
    <a href="share.md">
-      <img alt="如何分享和下載" src="assets/share.png" />
+      <img alt="如何共用和下載" src="assets/share.png" />
    </a>
    </td>
    <td>
@@ -116,21 +122,21 @@ ht-degree: 1%
 <tr>
    <td>
       <a href="undo-redo.md">
-         <img alt="復原和重做" src="assets/undo-redo.png" />
+         <img alt="還原和重做" src="assets/undo-redo.png" />
       </a>
    </td>
    <td>
       <a href="get-inspiration.md">
-         <img alt="快速獲取靈感" src="assets/inspiration.png" />
+         <img alt="快速獲得靈感" src="assets/inspiration.png" />
       </a>
   </td>
   <td>
-      <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+      <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
       <div>
       <br>
    </td>
    <td>
-      <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+      <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
       <div>
       <br>
    </td>
@@ -148,12 +154,12 @@ ht-degree: 1%
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="不同類型的動畫" src="assets/different-animations.png" />
+            <img alt="不同型別的動畫" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
          <a href="tweak-animation.md">
-            <img alt="調整動畫的設定" src="assets/tweaking-settings.png" />
+            <img alt="調整動畫設定" src="assets/tweaking-settings.png" />
          </a>
    </td>
    <td>
@@ -165,17 +171,17 @@ ht-degree: 1%
 <tr>
    <td>
          <a href="stagger-animations.md">
-            <img alt="如何將動畫搖晃" src="assets/stagger-animations.png" />
+            <img alt="如何錯開動畫" src="assets/stagger-animations.png" />
          </a>
    </td>
    <td>
          <a href="add-sections-animation.md">
-            <img alt="在動畫中新增區段" src="assets/add-sections.png" />
+            <img alt="將區段加入動畫" src="assets/add-sections.png" />
          </a>
    </td>
    <td>
          <a href="audio-animation.md">
-            <img alt="在動畫中加入音效" src="assets/add-audio.png" />
+            <img alt="新增音訊至您的動畫" src="assets/add-audio.png" />
          </a>
    </td>
    <td>
@@ -191,17 +197,17 @@ ht-degree: 1%
          </a>
    </td>
    <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>
     <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>
     <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>
@@ -214,12 +220,12 @@ ht-degree: 1%
 <tr>
    <td>
          <a href="remove-background.md">
-            <img alt="如何從任何影像中移除背景" src="assets/background.png" />
+            <img alt="如何從任何影像移除背景" src="assets/background.png" />
          </a>
    </td>
    <td>
          <a href="intro-gen-ai.md">
-            <img alt="Adobe Express 有哪些新的 AI 世代功能" src="assets/intro-gen-ai.png" />
+            <img alt="Adobe Express中有哪些新的Gen AI功能" src="assets/intro-gen-ai.png" />
          </a>
    </td>
    <td>
@@ -229,19 +235,19 @@ ht-degree: 1%
    </td>
    <td>
          <a href="generative-fill.md">
-            <img alt="如何使用生成填色" src="assets/gen-fill.png" />
+            <img alt="如何使用產生式填色" src="assets/gen-fill.png" />
          </a>
    </td>      
 </tr>
 <tr>
    <td>
       <a href="gen-text.md">
-         <img alt="使用 Gen AI 改善您的文字設計" src="assets/text-design.png" />
+         <img alt="使用Gen AI改善您的文字設計" src="assets/text-design.png" />
       </a>
    </td>
    <td>
       <a href="text-to-template.md">
-         <img alt="如何使用文字轉範本世代 AI" src="assets/text-to-template.png" />
+         <img alt="如何使用Text-to-template Gen AI" src="assets/text-to-template.png" />
       </a>
    </td>
    <td>
@@ -251,7 +257,7 @@ ht-degree: 1%
    </td>
    <td>
       <a href="edit-a-pdf.md">
-         <img alt="如何編輯 PDF" src="assets/edit-pdf.png" />
+         <img alt="如何編輯PDF" src="assets/edit-pdf.png" />
       </a>
    </td>
 </tr>
@@ -280,12 +286,12 @@ ht-degree: 1%
 <tr>
    <td>
       <a href="google-drive.md">
-         <img alt="Google 雲端硬碟整合" src="assets/google-drive.png" />
+         <img alt="Google Drive整合" src="assets/google-drive.png" />
       </a>
   </td>
   <td>
          <a href="refine-cutout.md">
-            <img alt="調整挖剪圖案" src="assets/cutouts.png" />
+            <img alt="縮小切除" src="assets/cutouts.png" />
          </a>
    </td>
    <td>
@@ -294,7 +300,7 @@ ht-degree: 1%
          </a>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>
@@ -307,17 +313,17 @@ ht-degree: 1%
 <tr>
    <td>
          <a href="start-video.md">
-            <img alt="如何開始影片專案" src="assets/start-video.png" />
+            <img alt="如何開始視訊專案" src="assets/start-video.png" />
          </a>
    </td>
   <td>
          <a href="add-video-clips.md">
-            <img alt="如何新增影片剪輯" src="assets/add-video-clips.png" />
+            <img alt="如何新增視訊片段" src="assets/add-video-clips.png" />
          </a>
    </td>
    <td>
          <a href="video-timeline.md">
-            <img alt="什麼是影片時間軸？" src="assets/video-timeline.png" />
+            <img alt="什麼是視訊時間軸？" src="assets/video-timeline.png" />
          </a>
    </td>
    <td>
@@ -334,16 +340,16 @@ ht-degree: 1%
    </td>
     <td>
          <a href="export-video.md">
-            <img alt="如何匯出影片" src="assets/export-video.png" />
+            <img alt="如何匯出視訊" src="assets/export-video.png" />
          </a>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>
    <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
    </td>
@@ -356,12 +362,12 @@ ht-degree: 1%
 <tr>
    <td>
         <a href="lock-layers.md">
-            <img alt="如何和為何鎖定圖層" src="assets/lock-layers.png" />
+            <img alt="鎖定圖層的方式與原因" src="assets/lock-layers.png" />
         </a>
         <div>
-            <a href="lock-layers.md"><strong>如何和為何鎖定圖層</strong></a>
+            <a href="lock-layers.md"><strong>鎖定圖層的方式及原因</strong></a>
             </div>
-            <em>了解為何鎖定範本的各種元素如此重要</em>
+            <em>瞭解為何鎖定範本的各種元素很重要</em>
             <br>
     </td>
     <td>
@@ -371,27 +377,27 @@ ht-degree: 1%
          <div>
          <a href="create-templates.md"><strong>最大化效率：建立可重複使用的範本</strong></a>
          </div>
-         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率和成本節約</em>
+         <em>瞭解如何使用範本為您的組織帶來品牌一致性、效率和成本節省</em>
          <br>
    </td>
    <td>
          <a href="share-templates.md">
-            <img alt="儲存和共用範本" src="assets/share-templates.png" />
+            <img alt="儲存並共用範本" src="assets/share-templates.png" />
          </a>
          <div>
-         <a href="share-templates.md"><strong>儲存和共用範本</strong></a>
+         <a href="share-templates.md"><strong>儲存並共用範本</strong></a>
          </div>
-         <em>瞭解如何為您的團隊儲存及分享範本至品牌手冊或資料庫</em>
+         <em>瞭解如何儲存範本並分享至您團隊的品牌套件或媒體櫃</em>
          <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="使用範本輕鬆保持品牌一致性" src="assets/use-templates.png" />
+            <img alt="輕鬆維持與範本的品牌一致性" src="assets/use-templates.png" />
          </a>
          <div>
-         <a href="use-templates.md"><strong>使用範本輕鬆保持品牌一致性</strong></a>
+         <a href="use-templates.md"><strong>輕鬆維持與範本的品牌一致性</strong></a>
          </div>
-         <em>瞭解如何在整個組織中快速有效率地建立品牌內容</em>
+         <em>瞭解如何在整個組織中快速有效地建立品牌內內容</em>
          <br>
    </td>
 </tr>
