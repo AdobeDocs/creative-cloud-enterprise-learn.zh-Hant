@@ -28,4 +28,4 @@ ht-degree: 4%
 
 瞭解如何在Adobe Express中使用由Adobe Firefly提供支援的文字轉影像，為社群媒體建立促銷活動。 此教學課程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430570?captions=chi_hant&quality=12&learn=on&hidetitle=true)

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何邀請人員編輯、發佈至網路、排程社交貼文或下載您的動畫。 Adobe Express會根據您的情況，提供建議來匯出成哪種檔案格式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433964?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

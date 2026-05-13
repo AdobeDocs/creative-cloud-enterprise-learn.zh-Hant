@@ -28,7 +28,7 @@ ht-degree: 0%
 
 瞭解如何新增音訊，以建立吸引人且令人難忘的專案。 您可以上傳自己的音訊檔案，或選擇免版稅的庫存音訊。 您也可以錄製語音並調整音訊和語音的音量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436865?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

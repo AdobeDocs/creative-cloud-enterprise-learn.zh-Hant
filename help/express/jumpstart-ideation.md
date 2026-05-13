@@ -30,4 +30,4 @@ ht-degree: 2%
 
 此教學課程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446172?captions=chi_hant&quality=12&learn=on&hidetitle=true)

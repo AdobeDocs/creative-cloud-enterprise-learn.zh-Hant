@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何調整動畫設定以提高成效。 您可以編輯動畫的持續時間、個性、速度和強度，以建立特定效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438532?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

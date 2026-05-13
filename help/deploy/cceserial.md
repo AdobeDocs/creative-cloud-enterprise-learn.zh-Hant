@@ -52,7 +52,7 @@ ht-degree: 4%
 
 下列資訊概述一般使用者體驗。 以下是簡短影片，隨後是使用者體驗的檢閱。
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441290?captions=chi_hant&hidetitle=true)
 
 **到期之前**
 

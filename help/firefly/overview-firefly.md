@@ -254,7 +254,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="建立自訂模型" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474931?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="建立自訂模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474942?captions=chi_hant&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="建立自訂模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,7 +323,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="文字效果" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="文字效果"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432215?captions=chi_hant&quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="文字效果"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

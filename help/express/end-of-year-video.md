@@ -26,4 +26,4 @@ ht-degree: 0%
 
 瞭解如何建立鼓舞人心的年終影片，以回顧過去一年發生的一切、與客戶分享里程碑，並再次體驗有趣的團隊活動。 在本教學課程中，您會將背景、文字動畫和素材加入視訊中。 使用切換效果讓視訊更流暢，而外露效果更佳。 您也可以選擇下載最終影片並使用註解，以提升協助工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434008?captions=chi_hant&quality=12&learn=on&hidetitle=true)

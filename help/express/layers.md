@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何在設計專案中使用工作畫板和圖層。 針對不同的社交管道新增、刪除、複製、重新排序工作區域以及調整其大小。 您也可以變更圖層棧疊中元素的順序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447076?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

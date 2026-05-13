@@ -26,7 +26,7 @@ ht-degree: 0%
 
 瞭解如何在整個組織中快速有效地建立品牌內內容。 本教學課程將逐步說明如何建立全新的品牌上內容，並立即進行共用和本地化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436141?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

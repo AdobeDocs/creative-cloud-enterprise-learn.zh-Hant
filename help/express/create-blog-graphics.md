@@ -28,4 +28,4 @@ ht-degree: 5%
 
 瞭解如何使用Adobe Firefly支援的文字轉影像，為網頁、部落格及社交行銷活動建立獨特的圖形內容。 此教學課程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441376?captions=chi_hant&quality=12&learn=on&hidetitle=true)

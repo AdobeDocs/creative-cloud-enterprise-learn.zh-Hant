@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何使用格線來製作像片拼貼、情境板和吸引目光的海報。 您有40種不同的格線版面配置，可使用您自己的影像或Adobe Stock像片進行自訂。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3440003?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

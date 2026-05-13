@@ -28,7 +28,7 @@ ht-degree: 0%
 
 瞭解如何透過拖放視訊建立功能，快速輕鬆地製作傑出的視訊。 從範本或您自己的靜態設計開始，然後新增您的品牌、設計資產、Adobe Stock影片和音樂等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436443?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

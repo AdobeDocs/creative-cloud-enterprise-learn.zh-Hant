@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何導覽及調整動畫時間表。 時間軸是整個動畫的整體檢視，您可以在其中預覽和縮小/延伸動畫長度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437612?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

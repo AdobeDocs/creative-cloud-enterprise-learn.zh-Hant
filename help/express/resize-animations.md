@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何使用Instagram等社群媒體貼文的內建預設集最佳化動畫大小。 無論您如何調整動畫大小，都會保留設定，因此您不需要重建它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437737?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何在社群媒體貼文中新增動畫以增加參與度。 您可以透過選取頁面上的任何元素（例如影像）並套用各種型別的動畫來存取動畫面板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436596?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

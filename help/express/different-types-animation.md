@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解您可以新增到專案的三種不同型別的動畫（介紹、循環和輸出），使其更吸引人。 每個動畫都有不同的樣式，您可以預覽和選取。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433953?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

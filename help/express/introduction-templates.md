@@ -24,7 +24,7 @@ ht-degree: 0%
 
 探索數千個專業設計的範本，滿足您所有的社群媒體和行銷需求。 範本可以讓您快速建立自訂內容，將您自己的文字和像片混合在一起。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443551?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

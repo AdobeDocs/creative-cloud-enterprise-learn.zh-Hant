@@ -26,4 +26,4 @@ ht-degree: 0%
 
 瞭解如何使用關鍵字搜尋專業設計的範本，以開始建立電子報。 變更標誌和文字復本後，您可以邀請同事共同作業並新增自己的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439214?captions=chi_hant&quality=12&learn=on&hidetitle=true)

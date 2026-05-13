@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解為何必須鎖定範本的各種元素，使其無法變更。 某些元素（例如標誌）不應變更，因此可在共用範本前加以鎖定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437078?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

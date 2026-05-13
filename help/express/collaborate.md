@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何在創意專案上與同事共同作業，包括邀請他們、設定許可權、解決評論，以及同時處理專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439548?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

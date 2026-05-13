@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何透過新增音訊（包括Express提供的免版稅庫存音訊檔案）來建立吸引人和難忘的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433920?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

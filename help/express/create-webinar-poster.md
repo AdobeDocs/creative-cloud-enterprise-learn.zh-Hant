@@ -27,4 +27,4 @@ ht-degree: 4%
 
 瞭解如何在Adobe Express中使用由Adobe Firefly提供支援的「文字轉影像」，為虛擬實境活動製作網路研討會海報。 此教學課程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446874?captions=chi_hant&quality=12&learn=on&hidetitle=true)

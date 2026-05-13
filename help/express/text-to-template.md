@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何在數秒內從文字說明產生社交貼文、海報、傳單和卡片的可編輯範本。 您可以編輯設計、變更字型，並在下載或共用之前進一步將專案品牌化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438134?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

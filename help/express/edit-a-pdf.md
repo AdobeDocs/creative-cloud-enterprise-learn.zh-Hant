@@ -29,7 +29,7 @@ ht-degree: 0%
 
 瞭解如何新增搶眼的文字、影像、品牌、顏色、動畫等，讓您的靜態、過時PDF煥然一新。 編輯完成後，您可以下載PDF、共用或將PDF轉換為其他檔案格式，例如JPEG。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437909?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

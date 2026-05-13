@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解如何為PowerPoint簡報建立吸引人的背景。 使用Adobe Firefly支援的text-to-image，您可以為您的簡報產生個人化影像，然後進一步變更影像、套用效果，以及下載影像，以用於您的簡報。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433987?captions=chi_hant&quality=12&learn=on&hidetitle=true)

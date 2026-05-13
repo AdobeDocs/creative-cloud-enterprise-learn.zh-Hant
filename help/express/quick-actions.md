@@ -26,7 +26,7 @@ ht-degree: 0%
 
 快速動作可節省時間，並提供基本編輯工具供日常創意工作使用。 快速動作的範例包括合併和裁剪視訊、移除背景、調整影像和視訊大小、將視訊轉換為GIF以及編輯PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446316?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

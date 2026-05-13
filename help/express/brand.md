@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何建立品牌資產集合，為您的企業或個人專案建立一致且專業的設計。 品牌套件是品牌資產（如標誌、顏色、字型、圖形和範本）的集合。 它們可以從頭開始建立，或從現有程式庫建立，並與同事共用，而同事可以擁有編輯或檢視許可權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449376?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

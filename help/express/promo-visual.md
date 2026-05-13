@@ -26,4 +26,4 @@ ht-degree: 0%
 
 瞭解如何為線上學習課程建立吸引人的視覺效果。 從重新混合數千個專業設計的範本開始。 接下來，新增像片並使用編輯技巧將其混合到構成中，然後再調整大小及傳送最終視覺效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433942?captions=chi_hant&quality=12&learn=on&hidetitle=true)

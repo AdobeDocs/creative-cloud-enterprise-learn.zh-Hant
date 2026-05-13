@@ -24,7 +24,7 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Firefly支援的文字效果來建立具影響力的設計。 使用文字提示，您可以產生特殊的文字效果，您可以調整並修飾這些效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438829?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 
