@@ -1,31 +1,38 @@
 ---
-title: 設定品牌手冊
+title: 設定品牌套件
 description: 瞭解如何為您的企業或個人專案建立品牌資產集合
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13417
 exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: 137
 ht-degree: 0%
 
 ---
 
-# 設定品牌手冊
+# 設定品牌套件
 
-瞭解如何建立品牌資產集合，為您的企業或個人專案建立一致且專業的設計。 品牌手冊是品牌資產的集合，例如標誌、顏色、字型、圖形和範本。 這些檔案可以從頭或從現有的資料庫建立，並與擁有編輯或檢視許可權的同事共用。
+瞭解如何建立品牌資產集合，為您的企業或個人專案建立一致且專業的設計。 品牌套件是品牌資產（如標誌、顏色、字型、圖形和範本）的集合。 它們可以從頭開始建立，或從現有程式庫建立，並與同事共用，而同事可以擁有編輯或檢視許可權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449376?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3449376?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
   <td>
       <a href="new-project.md">
-         <img alt="開始專案" src="assets/starting-a-project.png" />
+         <img alt="啟動專案" src="assets/starting-a-project.png" />
       </a>
   </td>
    <td>
@@ -47,7 +54,7 @@ ht-degree: 0%
 <tr>
    <td>
       <a href="add-gen-ai-image.md">
-         <img alt="如何新增 AI 世代影像" src="assets/gen-ai-image.png" />
+         <img alt="如何新增Gen AI影像" src="assets/gen-ai-image.png" />
       </a>
   </td>
    <td>
@@ -62,19 +69,19 @@ ht-degree: 0%
    </td>
    <td>
          <a href="layers.md">
-            <img alt="使用層次和工作區域" src="assets/layers.png" />
+            <img alt="使用圖層和工作區域" src="assets/layers.png" />
          </a>
    </td>
 </tr>
 <tr>
     <td>
    <a href="collaborate.md">
-      <img alt="如何進行共同作業" src="assets/collaborate.png" />
+      <img alt="如何共同作業" src="assets/collaborate.png" />
    </a>
    </td>
    <td>
    <a href="share.md">
-      <img alt="如何分享和下載" src="assets/share.png" />
+      <img alt="如何共用和下載" src="assets/share.png" />
    </a>
    </td>
    <td>
@@ -83,7 +90,7 @@ ht-degree: 0%
    </a>
    </td>
    <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>

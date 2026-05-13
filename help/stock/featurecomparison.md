@@ -1,20 +1,28 @@
 ---
-title: 使用Adobe建立產品功能比較表 [!DNL Stock]
-description: 製作一張可比較產品定價計劃的圖形，為潛在客戶提供他們一覽所需的資訊
+title: 使用Adobe [!DNL Stock]建立產品功能比較表
+description: 建立比較產品訂價計畫的圖形，讓潛在客戶一目瞭然地獲得所需的資訊
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
 exl-id: d521eb09-b7c4-4739-898d-53c22d91e253
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/pLfJpZsehJU-501RaFQi0Y6HQP08-kGcvqG-KM6PvQw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: 54
 ht-degree: 0%
 
 ---
 
-# 使用Adobe建立產品功能比較表 [!DNL Stock]
+# 使用Adobe [!DNL Stock]建立產品功能比較表
 
-製作一張可比較產品定價計劃的圖形，為潛在客戶提供他們一覽所需的資訊。
+建立比較產品訂價計畫的圖形，讓潛在客戶一目瞭然地獲得所需的資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

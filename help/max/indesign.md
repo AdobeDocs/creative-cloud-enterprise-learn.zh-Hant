@@ -1,20 +1,28 @@
 ---
 title: InDesign
-description: 建立豐富的數位及印刷體驗，從電子書、電子雜誌、書籍、報告到白皮書
+description: 創造豐富的數位和印刷體驗，從eBooks和電子雜誌，到書籍、報表和白皮書
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/pKY2Rbu80CAU9iZU3rU4kbUzO8lBYaTvY2dr7UB8f4c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: 435
 ht-degree: 0%
 
 ---
 
 # InDesign
 
-此業界標準的應用程式可製作精美的檔，供印刷及數位出版使用。 從電子書、電子雜誌、書籍、報告到白皮書，建立豐富的數位及印刷體驗。
+符合產業標準的應用程式，可建立美觀的列印與數位出版檔案。 創造豐富的數位和印刷體驗，從eBooks和電子雜誌，到書籍、報表和白皮書。
 
 ## 瀏覽產品教學課程
 
@@ -22,134 +30,134 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="indesign.md#tutorial1">
-        <img alt="產生 QR 碼" src="../assets/InDesign_qrCodes_sokol_thumbnail.jpg" />
+        <img alt="產生QR碼" src="../assets/InDesign_qrCodes_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial1"><strong>產生 QR 碼</strong></a>
+    <a href="indesign.md#tutorial1"><strong>產生QR碼</strong></a>
     </div>
-    <em>產生連結至網站的 QR 碼</em>
+    <em>產生連結至網站的QR碼</em>
     <br>
   </td>
   <td>
    <a href="indesign.md#tutorial2">
-      <img alt="從 InDesign 共用以供審核" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
+      <img alt="從InDesign共用以供檢閱" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>從 InDesign 共用以供審核</strong></a>
+   從InDesign共用<a href="indesign.md#tutorial2"><strong>以檢閱</strong></a>
     </div>
-    <em>設計師及其團隊成員的順暢創意審核體驗</em>
+    <em>為設計師及其團隊成員提供順暢的創意評論體驗</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="從檔案讀入 PDF 註釋
-雲端審核" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="從檔案匯入PDF註解 
+雲端檢閱" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>從檔案讀入 PDF 註釋
-雲端審核</strong></a>
+    從檔案<a href="indesign.md#tutorial3"><strong>匯入PDF註解 
+雲端檢閱</strong></a>
     </div>
-    <em>直接將 PDF 中的註釋讀入InDesign，並快速套用要求的變更</em>
+    <em>從PDF直接將評論匯入InDesign，並快速套用要求的變更</em>
     <br>
   </td>
 </tr>
 <tr>
 <td>
    <a href="indesign.md#tutorial4">
-      <img alt="將視訊檔案新增至InDesign檔" src="../assets/indesign_video_sokol_thumbnail.jpg" />
+      <img alt="新增視訊檔案至InDesign檔案" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial4"><strong>將視訊檔案新增至InDesign檔</strong></a>
+   <a href="indesign.md#tutorial4"><strong>新增視訊檔案至InDesign檔案</strong></a>
     </div>
-    <em>將影片新增至InDesign。 輸出為 PDF 並在線發佈</em>
+    <em>新增視訊至InDesign。 輸出至PDF並線上上發佈</em>
     <br>
   </td>
  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
  </td>
  <td>
-    <img alt="間隔" src="../assets/Gray_thumbnail.png" />
+    <img alt="分隔符號" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
  </td>
 </tr>
 </table>
 
-## 產生 QR 碼 （2：34） {#tutorial1}
+## 產生QR碼(2:34) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
 **描述**
-產生連結至網站的 QR 碼。
+產生連結至網站的QR碼。
 
-在此教學課程中，您將瞭解如何：
-* 透過行動裝置提供對網頁內容的免手存取權
+在本教學課程中，您將學習如何：
+* 透過行動裝置提供對網頁內容的擴音存取
 * 讓您的客戶感到安全
-* 數字意味著將內容保持在最新版本非常容易
+* 數位化表示內容隨時保持最新狀態
 
-**顯示者：**
-Patti Sokol，數位媒體首席解決方案顧問
+**展示者：**
+Patti Sokol，首席解決方案顧問（數位媒體）
 
-## 從 InDesign 共用以供審核 （4：04） {#tutorial2}
+## 從InDesign (4:04)共用以進行檢閱 {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
 **描述**
-InDesign「共用以供審核」可為設計師及其團隊成員提供更加流暢的創意審核體驗。
+「InDesign分享稽核」為設計師及其團隊成員提供更加流暢的創意稽核體驗。
 
-在此教學課程中，您將瞭解如何：
-* 無需建立 PDF，直接從InDesign啟動審核
-* 從網頁瀏覽器審核及加上註釋
-* 在一個位置收集多位相關人員的意見
-* 管理應用程式內的意見回饋，讓您立即可以進行變更。
+在本教學課程中，您將學習如何：
+* 直接從InDesign啟動稽核，無需建立PDF
+* 從網頁瀏覽器檢閱和評論
+* 在一個地方收集多個利害關係人的意見反應
+* 管理可立即進行變更的應用程式內意見反應。
 
-**Adobe審核和註釋選項比較 PDF**
+**Adobe檢閱和註解選項比較PDF**
 
 [![比較影像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**顯示者：**
-──Emily， Solutions Consultant （數字媒體）
+**展示者：**
+解決方案顧問Emily Palmer （數位媒體）
 
-## 從Document Cloud審核匯入 PDF 註釋 （4：52） {#tutorial3}
+## 從PDF評論匯入Document Cloud評論(4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
 **描述**
-直接將 PDF 中的註釋讀入InDesign，並快速套用要求的變更。
+將評論從PDF直接匯入InDesign並快速套用請求的變更。
 
-在此教學課程中，您將瞭解如何：
-* 支援現有的 PDF 註釋工作流程
-* 適用於從多個來源合併的 PDF
+在本教學課程中，您將學習如何：
+* 支援現有的PDF註解工作流程
+* 適用於從多個來源合併的PDF
 
-**Adobe審核和註釋選項比較 PDF**
+**Adobe檢閱和註解選項比較PDF**
 
 [![比較影像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**顯示者：**
-Michael Murphy，數位媒體資深解決方案顧問
+**展示者：**
+資深解決方案顧問Michael Murphy (Digital Media)
 
-## 將視訊檔案新增至 InDesign 檔 （5：58） {#tutorial4}
+## 新增視訊檔案至InDesign檔案(5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
 **描述**
-將影片新增至InDesign。 輸出為 PDF 並在線發佈。
+新增視訊至InDesign。 輸出至PDF並線上發佈。
 
-在此教學課程中，您將瞭解如何：
-* 將影片新增至InDesign
-* 輸出為 PDF 並在線發佈
+在本教學課程中，您將學習如何：
+* 新增視訊至InDesign
+* 輸出至PDF並線上發佈
 
-**顯示者：**
-Patti Sokol，數位媒體首席解決方案顧問
+**展示者：**
+Patti Sokol，首席解決方案顧問（數位媒體）
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
 **InDesign資源**
 
-[&#128279;](https://helpx.adobe.com/tw/support/indesign.html)學習與支援是您其他教學課程、[新增](https://helpx.adobe.com/tw/indesign/user-guide.html/indesign/using/whats-new.ug.html)功能和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/indesign.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/indesign/user-guide.html/indesign/using/whats-new.ug.html)和社群論壇連結的中樞。
 
-**2020 年 10 月版**
+**2020年10月發行版本**
 
-開始使用這些功能 （以及更多功能！） 從您的 Creative Cloud 桌面應用程式下載最新更新。
+開始使用這些功能（以及更多功能！） 從您的Creative Cloud案頭應用程式下載最新更新。

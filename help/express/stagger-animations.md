@@ -1,25 +1,32 @@
 ---
-title: 如何搖晃動畫
-description: 讓您的動畫搖搖晃晃地吸引眾人目光
+title: 如何交錯顯示動畫
+description: 錯開動畫以吸引別人的注意
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14835
 exl-id: 665b5cb0-0e0e-44d3-ad30-616d1fa7f99f
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/mJCDN-84o2YKBbawp1JBT2At26iYmg4-LYh2mOTKwQ0
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 0%
 
 ---
 
-# 如何將動畫搖晃
+# 如何錯開動畫
 
-瞭解如何將動畫搖晃以獲得完美的行為，以吸引他人的注意。 調整不同元素的時間，更輕鬆地閱讀訊息。
+瞭解如何交錯顯示動畫，以獲得吸引某人注意力的完美行為。 調整不同元素的時機，讓使用者更容易閱讀訊息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,12 +37,12 @@ ht-degree: 0%
    </td>
    <td>
          <a href="different-types-animation.md">
-            <img alt="不同類型的動畫" src="assets/different-animations.png" />
+            <img alt="不同型別的動畫" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
          <a href="tweak-animation.md">
-            <img alt="調整動畫的設定" src="assets/tweaking-settings.png" />
+            <img alt="調整動畫設定" src="assets/tweaking-settings.png" />
          </a>
    </td>
    <td>
@@ -47,12 +54,12 @@ ht-degree: 0%
 <tr>
    <td>
          <a href="add-sections-animation.md">
-            <img alt="在動畫中新增區段" src="assets/add-sections.png" />
+            <img alt="將區段加入動畫" src="assets/add-sections.png" />
          </a>
    </td>
    <td>
          <a href="audio-animation.md">
-            <img alt="在動畫中加入音效" src="assets/add-audio.png" />
+            <img alt="新增音訊至您的動畫" src="assets/add-audio.png" />
          </a>
    </td>
    <td>

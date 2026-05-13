@@ -1,20 +1,28 @@
 ---
-title: 自定義Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼
-description: 使用來自 Adobe 的影像和範本 [!DNL Stock] 以及一些簡單易用的特殊效果，在幾分鐘內建立精美的風格化簡報
+title: 自訂Adobe [!DNL Stock] 簡報範本，以提供專業又搶眼的外觀
+description: 使用Adobe [!DNL Stock] 中的影像和範本及一些容易執行的特效，在幾分鐘內建立美觀又別具風格的簡報
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
 exl-id: 79d1192f-73cc-4316-886c-203c102856cb
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/SwG15-dkuRSgSoi5UvKqsVhryaBpo6sydP5-ThaXns0
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: 59
 ht-degree: 0%
 
 ---
 
-# 自定義Adobe [!DNL Stock] 簡報範本，外觀專業又搶眼
+# 自訂Adobe [!DNL Stock]簡報範本，以提供專業又搶眼的外觀
 
-使用來自 Adobe 的影像和範本 [!DNL Stock] 以及一些簡單易用的特殊效果，在幾分鐘內製作出精美的風格化簡報。
+使用Adobe [!DNL Stock]中的影像和範本及一些容易執行的特效，在幾分鐘內建立美觀又別具風格的簡報。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

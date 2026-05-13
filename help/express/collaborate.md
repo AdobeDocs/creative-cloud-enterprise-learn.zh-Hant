@@ -1,36 +1,43 @@
 ---
-title: 如何進行共同作業
-description: 瞭解如何與同事共同處理創意專案
+title: 如何共同作業
+description: 瞭解如何在創意專案上與同事共同作業
 feature: Collaboration
 role: User
 level: Beginner
 jira: null
 exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 0%
 
 ---
 
-# 如何進行共同作業
+# 如何共同作業
 
-瞭解如何與同事共同處理創意專案，包括邀請他們、設定許可權、解析註釋，以及同時處理專案。
+瞭解如何在創意專案上與同事共同作業，包括邀請他們、設定許可權、解決評論，以及同時處理專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439548?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3439548?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
  <td>
       <a href="brand.md">
-         <img alt="設定品牌手冊" src="assets/brand.png" />
+         <img alt="設定品牌套件" src="assets/brand.png" />
       </a>
   </td>
    <td>
       <a href="new-project.md">
-         <img alt="開始專案" src="assets/starting-a-project.png" />
+         <img alt="啟動專案" src="assets/starting-a-project.png" />
       </a>
   </td>
    <td>
@@ -52,7 +59,7 @@ ht-degree: 0%
   </td>
    <td>
       <a href="add-gen-ai-image.md">
-         <img alt="如何新增 AI 世代影像" src="assets/gen-ai-image.png" />
+         <img alt="如何新增Gen AI影像" src="assets/gen-ai-image.png" />
       </a>
   </td>
    <td>
@@ -69,12 +76,12 @@ ht-degree: 0%
 <tr>
    <td>
          <a href="layers.md">
-            <img alt="使用層次和工作區域" src="assets/layers.png" />
+            <img alt="使用圖層和工作區域" src="assets/layers.png" />
          </a>
    </td>
    <td>
    <a href="share.md">
-      <img alt="如何分享和下載" src="assets/share.png" />
+      <img alt="如何共用和下載" src="assets/share.png" />
    </a>
    </td>
    <td>
@@ -83,7 +90,7 @@ ht-degree: 0%
    </a>
    </td>
    <td>
-      <img alt="間隔" src="../assets/Whitespacer.png" />
+      <img alt="分隔符號" src="../assets/Whitespacer.png" />
       <div>
       <br>
    </td>

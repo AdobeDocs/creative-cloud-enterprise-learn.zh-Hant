@@ -1,36 +1,43 @@
 ---
-title: 如何使用排程器進行發佈
-description: 安排 Instagram、Facebook、Twitter、Pinterest 和 LinkedIn 的社交貼文
+title: 如何使用排程器張貼
+description: 為Instagram、Facebook、Twitter、Pinterest和LinkedIn排程社交貼文
 feature: Share, Social Media
 role: User
 level: Intermediate
 jira: KT-13430
 exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
-source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
+TQID: https://experienceleague.adobe.com/6rljjy1u63w3iFmoqbePPyzSeVMrJXfgm1F9bCnhAGw
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: 122
 ht-degree: 0%
 
 ---
 
 # 如何使用排程器張貼
 
-安排 Instagram、Facebook、Twitter、Pinterest 和 LinkedIn 的社交貼文。 您可以為每個平台選擇特定屬性。 例如，您可以在 Instagram 上選擇您的內容是要貼文、故事還是轉臻。
+為Instagram、Facebook、Twitter、Pinterest和LinkedIn排程社交貼文。 您可以為每個平台選擇特定屬性。 例如，在Instagram上，您可以選擇您的內容是要成為貼文、本文或卷軸。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
    <td>
          <a href="remove-background.md">
-            <img alt="如何從任何影像中移除背景" src="assets/background.png" />
+            <img alt="如何從任何影像移除背景" src="assets/background.png" />
          </a>
    </td>
    <td>
          <a href="intro-gen-ai.md">
-            <img alt="Adobe Express 有哪些新的 AI 世代功能" src="assets/intro-gen-ai.png" />
+            <img alt="Adobe Express中有哪些新的Gen AI功能" src="assets/intro-gen-ai.png" />
          </a>
    </td>
    <td>
@@ -40,19 +47,19 @@ ht-degree: 0%
    </td>
    <td>
          <a href="generative-fill.md">
-            <img alt="如何使用生成填色" src="assets/gen-fill.png" />
+            <img alt="如何使用產生式填色" src="assets/gen-fill.png" />
          </a>
    </td>      
 </tr>
 <tr>
    <td>
       <a href="gen-text.md">
-         <img alt="使用 Gen AI 改善您的文字設計" src="assets/text-design.png" />
+         <img alt="使用Gen AI改善您的文字設計" src="assets/text-design.png" />
       </a>
    </td>
    <td>
       <a href="text-to-template.md">
-         <img alt="如何使用文字轉範本世代 AI" src="assets/text-to-template.png" />
+         <img alt="如何使用Text-to-template Gen AI" src="assets/text-to-template.png" />
       </a>
    </td>
    <td>
@@ -62,7 +69,7 @@ ht-degree: 0%
    </td>
    <td>
       <a href="edit-a-pdf.md">
-         <img alt="如何編輯 PDF" src="assets/edit-pdf.png" />
+         <img alt="如何編輯PDF" src="assets/edit-pdf.png" />
       </a>
    </td>
 </tr>

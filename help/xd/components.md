@@ -1,23 +1,33 @@
 ---
-title: 在 Adobe XD 中使用 [!UICONTROL 元件] 時感到自在
-description: 瞭解如何使用 [!UICONTROL 元件] 為您的設計工作流程套用速度和一致性提供前所未有的靈活性
+title: 熟悉Adobe XD中的[!UICONTROL 元件]
+description: 瞭解如何使用[!UICONTROL 元件]，讓您在套用設計工作流程的速度和一致性時，擁有前所未有的彈性
 feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/gjTuI3Dz-0BxWN6LqWtEL6hRHtDoj-pjMnKHkAPZ6iI
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: 69
 ht-degree: 0%
 
 ---
 
-# 在 Adobe XD 中使用 [!UICONTROL 元件] 時感到自在
+# 熟悉Adobe XD中的[!UICONTROL 元件]
 
-瞭解如何使用 [!UICONTROL 元件] ，為您的設計工作流程套用速度和一致性，給予您前所未有的靈活性。
+瞭解如何使用[!UICONTROL 元件]，讓您在套用設計工作流程的速度和一致性時，擁有前所未有的彈性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-按兩下 PDF 檔案圖示，下載本教學課程的 PDF。
+按一下PDF檔案圖示以下載本教學課程的PDF。
 
-[![PDF 檔案圖示](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)
+[![PDF檔案圖示](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

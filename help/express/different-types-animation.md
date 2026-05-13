@@ -1,25 +1,32 @@
 ---
-title: 不同類型的動畫
-description: 使用各種類型的動畫來提高項目的參與度
+title: 不同型別的動畫
+description: 使用各種型別的動畫來提高專案的參與度
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
 exl-id: 9675124e-a1d4-47c4-be4f-704b7c43590f
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/zTBbsyfVc4UlV3J84LtT4Lc-16dni-T3CDI1TAd-cLs
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# 不同類型的動畫
+# 不同型別的動畫
 
-瞭解您可以新增到專案中的三種不同類型的動畫 （簡介、迴圈和外緣），使其更具吸引力。 每個動畫都有可預視和選取的不同樣式。
+瞭解您可以新增到專案的三種不同型別的動畫（介紹、循環和輸出），使其更吸引人。 每個動畫都有不同的樣式，您可以預覽和選取。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433953?quality=12&learn=on&hidetitle=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433953?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
-## 本系列的其他影片
+## 此系列的其他影片
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,7 +37,7 @@ ht-degree: 0%
    </td>
    <td>
          <a href="tweak-animation.md">
-            <img alt="調整動畫的設定" src="assets/tweaking-settings.png" />
+            <img alt="調整動畫設定" src="assets/tweaking-settings.png" />
          </a>
    </td>
    <td>
@@ -40,19 +47,19 @@ ht-degree: 0%
    </td>
    <td>
          <a href="stagger-animations.md">
-            <img alt="如何將動畫搖晃" src="assets/stagger-animations.png" />
+            <img alt="如何錯開動畫" src="assets/stagger-animations.png" />
          </a>
    </td>
 </tr>
 <tr>
    <td>
          <a href="add-sections-animation.md">
-            <img alt="在動畫中新增區段" src="assets/add-sections.png" />
+            <img alt="將區段加入動畫" src="assets/add-sections.png" />
          </a>
    </td>
    <td>
          <a href="audio-animation.md">
-            <img alt="在動畫中加入音效" src="assets/add-audio.png" />
+            <img alt="新增音訊至您的動畫" src="assets/add-audio.png" />
          </a>
    </td>
    <td>

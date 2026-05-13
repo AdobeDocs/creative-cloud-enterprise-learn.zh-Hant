@@ -1,90 +1,104 @@
 ---
 title: Photoshop
-description: Photoshop教程清單
+description: Photoshop教學課程清單
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/d4119C3FBhupshY9ryrLLT2VtRPHDRqagPOXjI8HW4c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 341
 ht-degree: 0%
 
 ---
 
 # Photoshop
 
-Photoshop是世界上最好的成像和圖形設計軟體，為各種設備的專業人士提供了無限的創造力。 現在，任何人都可以創造他們想像的任何東西，任何靈感都會觸及。 如果你能想到，你就能和Photoshop一起。
+Photoshop是全世界最好的影像與繪圖設計軟體，可讓專業人員在各種裝置上發揮無限的創造力。 現在，任何人都能創作任何他們想像的東西，任何地方都能激發靈感。 如果可以思考，就能透過Photoshop達成目標。
 
-## 瀏覽產品Tutorials
+## 瀏覽產品教學課程
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">
-      <img alt="編輯與市場活動匹配的影像" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
+      <img alt="編輯影像以符合您的行銷活動" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>編輯與您的市場活動相匹配的影像</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>編輯影像以符合您的行銷活動</strong></a>
     </div>
-    <em>使用Adobe Photoshop功能強大的選擇和顏色編輯工具來大幅更改影像以滿足您的公司品牌推廣需要</em>
+    <em>使用Adobe Photoshop中強大的選取和色彩編輯工具，大幅變更影像以符合您的公司品牌需求</em>
     <br>
   </td>
   <td>
     <a href="photoshop.md#tutorial2">
-        <img alt="選擇並替換天空" src="../assets/PS_Sky_Replace_wood.jpg" />
+        <img alt="選取並取代天空" src="../assets/PS_Sky_Replace_wood.jpg" />
     </a>
     <div>
-    <a href="photoshop.md#tutorial2"><strong>選擇並替換天空</strong></a>
+    <a href="photoshop.md#tutorial2"><strong>選取並取代天空</strong></a>
     </div>
-    <em>自動選擇影像中的天空，並替換為您選擇的天空，自動調整影像的顏色以匹配您的選擇</em>
+    <em>自動選取影像中的天空，並取代為您選擇的天空，自動調整影像的顏色以符合您的選擇</em>
     <br>
   </td>
   <td>
-    <img alt="間隔物" src="../assets/Whitespacer.png" />
+    <img alt="分隔符號" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## 編輯與市場活動匹配的影像(5:45) {#tutorial1}
+## 編輯影像以符合您的行銷活動(5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **描述**
-使用Adobe Photoshop強大的選擇和顏色編輯工具可以顯著更改影像，以滿足您的公司品牌需要。
+使用Adobe Photoshop中強大的選取和色彩編輯工具，大幅變更影像以符合您公司的品牌需求。
 
-在本教程中，瞭解如何：
-* 「對象選擇工具」使選擇項目更快、更簡單
-* 「內容感知填充」允許對源映像中的樣本區域進行更多控制，以便更好地克隆和修補目標區域
-* 畫筆可以是不同形狀，以獲得更好的效果
-* AdobeAI利用人工智慧完成日常任務
+在本教學課程中，瞭解如何：
+* 「物件選取工具」可讓選取專案的速度更快、更簡單
+* 內容感知填色可讓您更深入控制來源影像中的範例區域，以便更佳地複製及修補目標區域
+* 筆刷可以是不同的形狀，以獲得更好的結果
+* Adobe AI利用人工智慧執行日常工作
 
-**提交者：**
-A.J Wood，高級解決方案顧問（數字媒體）
+**展示者：**
+A.J Wood，資深解決方案顧問（數位媒體）
 
-## 選擇並替換天空(2:16) {#tutorial2}
+## 選取並取代天空(2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
 **描述**
-自動選擇影像中的天空並替換為您選擇的天空，自動調整影像的顏色以匹配您的選擇。
+自動選取影像中的天空，並以您選取的天空取代，自動調整影像的顏色以符合您的選擇。
 
-在本教程中，您將學習如何：
-* Sky Replacement提供一鍵式解決方案，可即時交換映像中的天空
-* Sky Replacement將其輸出保存為圖層組，每個蒙版、調整和影像都可進行進一步細化
+在本教學課程中，您將學習如何：
+* Sky Replacement提供一鍵式解決方案，可立即交換影像中的天空
+* Sky Replacement會將其輸出儲存為圖層群組，其中包含每個遮色片、調整和影像，以供進一步細分
 
 
-**提交者：**
-A.J Wood，高級解決方案顧問（數字媒體）
+**展示者：**
+A.J Wood，資深解決方案顧問（數位媒體）
 
-![Photoshop徽標](../assets/ps_appicon_96.png)
+![Photoshop標誌](../assets/ps_appicon_96.png)
 
 **Photoshop資源**
 
-[學習和支援](https://helpx.adobe.com/tw/support/photoshop.html)是您的中心，可獲取其他教程、[新增內容](https://helpx.adobe.com/tw/photoshop/using/whats-new.html)和社區論壇連結。
+[學習與支援](https://helpx.adobe.com/tw/support/photoshop.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/photoshop/using/whats-new.html)和社群論壇連結的中樞。
 
-**2020年10月發佈**
+**2020年10月發行版本**
 
-從您的Creative Cloud案頭應用下載最新更新，開始使用這些功能（以及更多！）。
+開始使用這些功能（以及更多功能！） 從您的Creative Cloud案頭應用程式下載最新更新。
