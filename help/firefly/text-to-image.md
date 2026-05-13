@@ -22,7 +22,7 @@ ht-degree: 9%
 
 # 文字到影像
 
-瞭解如何從文字說明建立影像。 [根據您的特定需求產生影像](https://www.adobe.com/products/firefly/features/text-to-image.html)可讓您建立個人化和啟發性的內容。 在[這裡](https://firefly.adobe.com/?locale=tw)試用Adobe Firefly。
+瞭解如何從文字說明建立影像。 [根據您的特定需求產生影像](https://www.adobe.com/tw/products/firefly/features/text-to-image.html)可讓您建立個人化和啟發性的內容。 在[這裡](https://firefly.adobe.com/?locale=tw)試用Adobe Firefly。
 
 <br> 
 

@@ -97,7 +97,7 @@ A.J Wood，資深解決方案顧問（數位媒體）
 
 **Photoshop資源**
 
-[學習與支援](https://helpx.adobe.com/support/photoshop.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/photoshop/using/whats-new.html)和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/photoshop.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/photoshop/using/whats-new.html)和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

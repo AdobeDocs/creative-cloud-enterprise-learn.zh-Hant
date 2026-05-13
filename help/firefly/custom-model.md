@@ -1,6 +1,6 @@
 ---
 title: 建立自訂模型
-description: 瞭解如何訓練Firefly自訂模型。 如需詳細資訊，請參閱[此處](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)。
+description: 瞭解如何訓練Firefly自訂模型。 如需詳細資訊，請參閱[此處](https://helpx.adobe.com/tw/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)。
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 # 建立自訂模型
 
-瞭解如何在Firefly中訓練自訂模型，為您的組織品牌建立全新的影像。 自訂模型可讓您大規模建立相關的個人化品牌內容。 在[此處](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)進一步瞭解訓練自訂模型。
+瞭解如何在Firefly中訓練自訂模型，為您的組織品牌建立全新的影像。 自訂模型可讓您大規模建立相關的個人化品牌內容。 在[此處](https://helpx.adobe.com/tw/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)進一步瞭解訓練自訂模型。
 
 <br> 
 

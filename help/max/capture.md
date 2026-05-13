@@ -72,7 +72,7 @@ Adobe [!DNL Capture]將行動電話和平板電腦轉換為設計收集工具。
 
 **[!DNL Capture]資源**
 
-[學習與支援](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)是您其他教學課程和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/mobile-apps/help/capture-faq.html)是您其他教學課程和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

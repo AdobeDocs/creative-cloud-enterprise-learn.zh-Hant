@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ![在James Cameron的《深淵》中，Mary Mastrantonio伸手觸控CGI水觸角的場景](assets/Photorealistic_2.jpg)
 
-這種將3D模型分層，或將3D模型「合成」成影像或視訊的技巧並不新鮮，事實上其來源可以追溯到VFX的早期（早在1980年代）。 令人興奮的新功能是，這項技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)使用者的強大工具，也是攝影師有趣的新工作流程。
+這種將3D模型分層，或將3D模型「合成」成影像或視訊的技巧並不新鮮，事實上其來源可以追溯到VFX的早期（早在1980年代）。 令人興奮的新功能是，這項技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/tw/products/dimension.html)使用者的強大工具，也是攝影師有趣的新工作流程。
 
 
 ## 在Adobe [!DNL Dimension]中建立複合影像背後的技術
@@ -68,7 +68,7 @@ Ricoh Theta、Gopro MAX和Insta 360等相機可擷取360張全景。 Ricoh Theta
 
 ### 選擇位置
 
-尋找前後關聯和光源都感興趣的位置。 考慮上下文時，想像場景的潛在用途會很有幫助。 例如，空白道路的檢視可用於加入3D汽車，而咖啡館的桌檢視則可用於[顯示食品包裝](https://www.adobe.com/products/dimension/packaging-design-mockup.html)。
+尋找前後關聯和光源都感興趣的位置。 考慮上下文時，想像場景的潛在用途會很有幫助。 例如，空白道路的檢視可用於加入3D汽車，而咖啡館的桌檢視則可用於[顯示食品包裝](https://www.adobe.com/tw/products/dimension/packaging-design-mockup.html)。
 
 將虛擬像片的![4個位置場景與3D複合的相同場景做比較](assets/Photorealistic_8.png)
 

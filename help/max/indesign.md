@@ -156,7 +156,7 @@ Patti Sokol，首席解決方案顧問（數位媒體）
 
 **InDesign資源**
 
-[學習與支援](https://helpx.adobe.com/support/indesign.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/indesign.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/indesign/user-guide.html/indesign/using/whats-new.ug.html)和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

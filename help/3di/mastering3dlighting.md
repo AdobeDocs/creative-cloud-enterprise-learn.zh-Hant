@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ![由像片、3D工作室場景和抽象3D場景所組成的環境燈光範例](assets/Mastering3dlighting_5.jpg)
 
-當您在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中建立新場景時，將會為您建立預設的環境光。 這就是您能夠立即實際看到場景中任何內容的原因。 Adobe [!DNL Dimension] Starter Assets包含特定數量的環境指示燈，您可以立即試用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)提供大量精選的環境光。
+當您在[[!DNL Dimension]](https://www.adobe.com/tw/products/dimension.html)中建立新場景時，將會為您建立預設的環境光。 這就是您能夠立即實際看到場景中任何內容的原因。 Adobe [!DNL Dimension] Starter Assets包含特定數量的環境指示燈，您可以立即試用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)提供大量精選的環境光。
 
 環境燈光會產生非常逼真的效果，可以節省您許多時間。 為了以手動方式達到類似效果，您必須實際在3D中建立整個環境（包括各種光源），這是相當大量的工作。
 

@@ -171,7 +171,7 @@ Emilie Enke，助理解決方案顧問（數位媒體）
 
 **Acrobat與Adobe Sign資源**
 
-[學習與支援](https://helpx.adobe.com/support/document-cloud.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/acrobat/using/whats-new.html)和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/document-cloud.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/acrobat/using/whats-new.html)和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

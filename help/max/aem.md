@@ -127,7 +127,7 @@ Eric Rowse，資深解決方案顧問（數位媒體）
 
 **資產連結與AEM資源**
 
-[學習與支援](https://helpx.adobe.com/support/experience-manager.html)是您其他教學課程、新增功能及社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/experience-manager.html)是您其他教學課程、新增功能及社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

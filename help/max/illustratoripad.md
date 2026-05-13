@@ -75,7 +75,7 @@ Dave Weinberg，資深解決方案顧問（數位媒體）
 
 iPad資源上的&#x200B;**Illustrator**
 
-[學習與支援](https://helpx.adobe.com/support/illustrator.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/illustrator.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/tw/illustrator/using/whats-new/mobile-2021.html)和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 

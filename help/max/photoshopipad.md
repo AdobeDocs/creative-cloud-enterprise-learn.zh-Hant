@@ -75,7 +75,7 @@ iPad標誌上的![Photoshop](../assets/ps_appicon_96.png)
 
 iPad資源上的&#x200B;**Photoshop**
 
-[學習與支援](https://helpx.adobe.com/support/photoshop.html)是您其他教學課程和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/photoshop.html)是您其他教學課程和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 
