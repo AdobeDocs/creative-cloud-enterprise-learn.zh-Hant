@@ -6,9 +6,13 @@ level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 871
@@ -89,9 +93,9 @@ ht-degree: 4%
 
 對於所有後續啟動Acrobat的嘗試，系統將提示使用者&#x200B;**立即登入**，之後再選擇建立自己的Adobe ID並進入試用模式。 不過，一般使用者建立的任何新Adobe ID都不會與您組織的授權建立關聯，而且會對您的使用者造成額外的混淆。
 
-對話方塊1](assets/acrobatsignin1.png)中的![Acrobat Sign
+對話方塊1![&#128279;](assets/acrobatsignin1.png)中的Acrobat Sign
 
-對話方塊2](assets/acrobatsignin2.png)中的![Acrobat Sign
+對話方塊2![&#128279;](assets/acrobatsignin2.png)中的Acrobat Sign
 
 ## 如果您需要協助，請聯絡我們
 

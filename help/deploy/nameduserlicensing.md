@@ -6,10 +6,15 @@ level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 638
@@ -37,7 +42,7 @@ ht-degree: 1%
 
 * 充分利用專家服務。
 
-  您與Adobe簽署的企業授權合約可透過電話或網路會議，為Adobe專家提供無限制的30分鐘工作階段，協助您解決任何問題。 若要預約工作階段，請前往Admin Console中的[支援]索引標籤，然後按一下[要求專家工作階段]****。
+  您與Adobe簽署的企業授權合約可透過電話或網路會議，為Adobe專家提供無限制的30分鐘工作階段，協助您解決任何問題。 若要預約工作階段，請前往Admin Console中的[支援]索引標籤，然後按一下[要求專家工作階段]&#x200B;**&#x200B;**。
 
 * 大量使用者？ 沒問題。
 

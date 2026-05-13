@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 keywords: 3D照明，600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 2754
@@ -47,7 +52,7 @@ ht-degree: 0%
 
 您最好一次操作一個指示燈。 作用中光源應該是場景中唯一可見的光，而所有其他光源應該暫時關閉。 如此一來，您就可以看到特定光線如何影響場景，並透過處理其屬性（例如位置、方向、強度等）來變更該效果。
 
-![ 3盞燈的範例，分別照明3d車型，且全部3盞燈一起運作](assets/Mastering3dlighting_3.gif)
+![&#x200B; 3盞燈的範例，分別照明3d車型，且全部3盞燈一起運作](assets/Mastering3dlighting_3.gif)
 
 另一個有用的技巧是使用閃亮的金屬材料（鉻或鏡子）來建立球面。 這個「鏡球」會有效反射其周圍的整個場景，因此您可以輕鬆判斷光源的位置、方向或大小。 在環境光線的情況下，您可在鏡球中看到其反射，這有助於設定其在空間中的定向。
 
@@ -101,7 +106,7 @@ ht-degree: 0%
 
 ![圖表說明3D物件在光照及投射陰影時的光照強度、方向及大小效果](assets/Mastering3dlighting_13.jpg)
 
-![ 3D光線的大小如何影響CGI汽車模型投射的陰影柔和度的範例](assets/Mastering3dlighting_14.gif)
+![&#x200B; 3D光線的大小如何影響CGI汽車模型投射的陰影柔和度的範例](assets/Mastering3dlighting_14.gif)
 
 ### 太陽和天空
 

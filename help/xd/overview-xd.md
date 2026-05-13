@@ -7,10 +7,16 @@ level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
 TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86dbid: e9001ce2-5245-4a8e-8601-dd958009072f
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 462
@@ -29,9 +35,9 @@ Adobe XD是使用者體驗設計和原型工具，用於設計網站、應用程
       <img alt="熟悉Adobe XD中的元件" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>熟悉Adobe XD中的[！UICONTROL元件]</strong></a>
+   <a href="components.md"><strong>熟悉Adobe XD中的[!UICONTROL 元件]</strong></a>
     </div>
-    <em>瞭解如何使用[！UICONTROL Components]，讓您在套用設計工作流程的速度和一致性時，擁有前所未有的彈性</em>
+    <em>瞭解如何使用[!UICONTROL Components]，讓您在套用設計工作流程的速度和一致性時，擁有前所未有的彈性</em>
     <br>
   </td>
   <td>
