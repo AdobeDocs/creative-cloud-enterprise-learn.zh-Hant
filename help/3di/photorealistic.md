@@ -7,15 +7,10 @@ level: Beginner, Intermediate
 keywords: 虛擬攝影， 100個全球MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
-product_v2:
-  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2:
-  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 2406
@@ -31,7 +26,7 @@ ht-degree: 0%
 
 ![在James Cameron的《深淵》中，Mary Mastrantonio伸手觸控CGI水觸角的場景](assets/Photorealistic_2.jpg)
 
-這種將3D模型分層，或將3D模型「合成」成影像或視訊的技巧並不新鮮，事實上其來源可以追溯到VFX的早期（早在1980年代）。 令人興奮的新功能是，這項技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/tw/products/dimension.html)使用者的強大工具，也是攝影師有趣的新工作流程。
+這種將3D模型分層，或將3D模型「合成」成影像或視訊的技巧並不新鮮，事實上其來源可以追溯到VFX的早期（早在1980年代）。 令人興奮的新功能是，這項技術已成為[Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)使用者的強大工具，也是攝影師有趣的新工作流程。
 
 
 ## 在Adobe [!DNL Dimension]中建立複合影像背後的技術
@@ -40,7 +35,7 @@ ht-degree: 0%
 
 Adobe [!DNL Dimension]可讓使用者使用Adobe AI，直接在應用程式中順暢地結合2D與3D元素。 以此方式合成元素的主要優點在於，它turbo將完全實現的3D場景替換為背景影像（可從現實中擷取），可加快建立逼真外觀影像的流程。
 
-![&#x200B; Adobe中的「符合影像」功能[!DNL Dimension]會分析背景影像，並估計用來擷取該影像的攝影機的焦距和位置](assets/Photorealistic_4.gif)
+![ Adobe中的「符合影像」功能[!DNL Dimension]會分析背景影像，並估計用來擷取該影像的攝影機的焦距和位置](assets/Photorealistic_4.gif)
 
 「符合影像」功能會分析背景影像，並估計用來擷取該影像的相機的焦距和位置。 接著會在[!DNL Dimension]場景中建立3D攝影機，可用來在與背景影像相同的透視內呈現3D元素，以便將它們複合在一起。
 
@@ -68,7 +63,7 @@ Ricoh Theta、Gopro MAX和Insta 360等相機可擷取360張全景。 Ricoh Theta
 
 ### 選擇位置
 
-尋找前後關聯和光源都感興趣的位置。 考慮上下文時，想像場景的潛在用途會很有幫助。 例如，空白道路的檢視可用於加入3D汽車，而咖啡館的桌檢視則可用於[顯示食品包裝](https://www.adobe.com/tw/products/dimension/packaging-design-mockup.html)。
+尋找前後關聯和光源都感興趣的位置。 考慮上下文時，想像場景的潛在用途會很有幫助。 例如，空白道路的檢視可用於加入3D汽車，而咖啡館的桌檢視則可用於[顯示食品包裝](https://www.adobe.com/products/dimension/packaging-design-mockup.html)。
 
 將虛擬像片的![4個位置場景與3D複合的相同場景做比較](assets/Photorealistic_8.png)
 
