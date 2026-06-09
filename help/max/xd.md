@@ -224,7 +224,7 @@ Emilie Enke，助理解決方案顧問（數位媒體）
 
 **XD資源**
 
-[學習與支援](https://helpx.adobe.com/support/xd.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)和社群論壇連結的中樞。
+[學習與支援](https://helpx.adobe.com/tw/support/xd.html)是您其他教學課程、[新增功能](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)和社群論壇連結的中樞。
 
 **2020年10月發行版本**
 
