@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 6%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
       + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速創意創意](firefly/accelerate-ideas.md)
       + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -123,11 +123,11 @@ ht-degree: 6%
       + [產生式重新上色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
       + [提高創意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
       + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
       + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
    + Creative生產教學課程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除與取代](firefly/creative-production/background.md)
    + 網路研討會 {#firefly-webinars}
       + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [在CGI中精通3D光線的秘訣與技巧](3di/mastering3dlighting.md)
       + [使用3D呈現和合成技術創作如像片般逼真的虛擬攝影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自訂3D模型並將其品牌化](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Adobe影片 {#videooverview}
    + [概觀](dva/overview-dva.md)
    + 教學課程 {#videotutorials}
       + [專業動態圖形範本](dva/motion-graphics-templates.md)
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [概觀](deploy/overview-deploy.md)
    + [序號到期](deploy/cceserial.md)
    + [指名的用戶授權](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [概觀](max/overview-max.md)
-   + 教學課程 {#tutorials}
-      + [概觀](max/maxtutorials.md)
-      + 桌上型產品 {#desktop-products}
-         + [Acrobat &amp; Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + 行動應用程式 {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [iPad上的Illustrator](max/illustratoripad.md)
-         + [iPad 版 Photoshop](max/photoshopipad.md)
-      + 整合 {#integrations}
-         + [AEM](max/aem.md)
-         + [Creative Cloud 桌面應用程式](max/creativeclouddesktopapp.md)
-         + [CC Libraries](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [企業管理](max/enterprise.md)
-      + 實作專案 {#project}
-         + [建立自己的面罩](max/handsonproject.md)
