@@ -111,7 +111,7 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
-      + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+      + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
       + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速創意創意](firefly/accelerate-ideas.md)
       + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -123,11 +123,11 @@ ht-degree: 4%
       + [產生式重新上色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
       + [提高創意效率](firefly/enable-creative-efficiency.md)
-      + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+      + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
       + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
       + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
    + Creative生產教學課程 {#firefly-creative-production}
-      + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+      + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除與取代](firefly/creative-production/background.md)
    + 網路研討會 {#firefly-webinars}
       + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
