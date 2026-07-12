@@ -17,16 +17,16 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+source-git-commit: 667608382c7de46bf14136c4591c5d2384333129
 workflow-type: tm+mt
-source-wordcount: 1286
+source-wordcount: 1907
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly]總覽
 
-Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和文字效果產生。 Firefly提供全新的概念、建立和溝通方式，同時大幅改善創意工作流程。
+Firefly是Adobe產品中的創意創作AI模型系列，專注於產生影像和文字效果。 Firefly提供全新的概念、建立和溝通方式，同時大幅改善創意工作流程。
 
 ## Firefly教學課程
 
@@ -153,7 +153,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -176,7 +176,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -199,7 +199,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -222,7 +222,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -245,7 +245,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -268,7 +268,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -291,7 +291,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -314,7 +314,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -337,7 +337,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -360,7 +360,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -383,7 +383,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -406,7 +406,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -429,7 +429,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -452,7 +452,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -475,7 +475,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -498,7 +498,7 @@ Firefly是Adobe產品推出的新創意AI模型系列，最初著重於影像和
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視教學課程</span>
-                </a>
+                
             </div>
         </div>
     </div>

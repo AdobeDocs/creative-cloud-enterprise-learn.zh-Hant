@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
+source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '782'
 ht-degree: 4%
 
 ---
@@ -129,6 +129,13 @@ ht-degree: 4%
    + Creative生產教學課程 {#firefly-creative-production}
       + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除與取代](firefly/creative-production/background.md)
+   + 圖表教學課程 {#firefly-graph}
+      + [&#x200B; [!DNL Adobe Firefly Graph]的概觀](firefly/graph/overview-firefly-graph.md)
+      + [什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
+      + [Firefly Graph重要概念](firefly/graph/key-concepts.md)
+      + [建立您的第一個圖形](firefly/graph/create-your-first-graph.md)
+      + [自訂範本](firefly/graph/customize-template.md)
+      + [範本程式庫](firefly/graph/template-library.md)
    + 網路研討會 {#firefly-webinars}
       + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
