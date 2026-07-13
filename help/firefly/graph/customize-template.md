@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 3%
@@ -26,4 +26,4 @@ ht-degree: 3%
 
 ## 下一步
 
-不確定從哪個範本開始？ 瀏覽[範本程式庫](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)，尋找接近使用案例的範本。
+不確定從哪個範本開始？ 瀏覽[範本程式庫](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)，尋找接近使用案例的範本。
