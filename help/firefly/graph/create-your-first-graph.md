@@ -24,4 +24,4 @@ ht-degree: 2%
 
 ## 下一步
 
-要從範本開始嗎？ 前往[4。 範本程式庫](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
+要從範本開始嗎？ 前往[4。 範本程式庫](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
