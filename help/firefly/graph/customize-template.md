@@ -26,4 +26,4 @@ ht-degree: 3%
 
 ## 下一步
 
-不確定從哪個範本開始？ 瀏覽[範本程式庫](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)，尋找接近使用案例的範本。
+不確定從哪個範本開始？ 瀏覽[範本程式庫](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)，尋找接近使用案例的範本。
