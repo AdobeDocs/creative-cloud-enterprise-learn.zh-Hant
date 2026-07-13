@@ -1,5 +1,5 @@
 ---
-title: ​5. Firefly圖表範本程式庫
+title: ​4. Firefly圖表範本程式庫
 description: 瀏覽現成的Firefly Graph範本，以讓您開啟並適應自己的專案
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Firefly Graph範本資料庫
+# &#x200B;4. Firefly Graph範本資料庫
 
 每個範本都是某人已建立的完整圖表。 開啟一個按鈕來檢視其運作方式，然後交換您自己的輸入內容來讓它成為您擁有的。
 
