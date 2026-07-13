@@ -1,5 +1,5 @@
 ---
-title: 建立您的第一個圖表
+title: ​3. 建立您的第一個圖表
 description: 建置第一個Firefly Graph工作流程（從空白畫布到匯出）的逐步解說
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# 建立您的第一個圖表
+# &#x200B;3. 建立您的第一個圖表
 
 一旦您知道節點、連線和範本是什麼，您就可以準備建立第一個工作流程。
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 下一步
 
-從範本開始？ 前往[自訂範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
+從範本開始？ 前往[4。 自訂範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
