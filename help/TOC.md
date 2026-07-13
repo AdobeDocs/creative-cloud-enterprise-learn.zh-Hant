@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
       + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速創意創意](firefly/accelerate-ideas.md)
       + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -123,20 +123,20 @@ ht-degree: 4%
       + [產生式重新上色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
       + [提高創意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
       + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
       + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
    + Creative生產教學課程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除與取代](firefly/creative-production/background.md)
-   + 圖表教學課程 {#firefly-graph}
-      + [&#x200B; [!DNL Adobe Firefly Graph]的概觀](firefly/graph/overview-firefly-graph.md)
-      + [什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
-      + [Firefly Graph重要概念](firefly/graph/key-concepts.md)
-      + [建立您的第一個圖形](firefly/graph/create-your-first-graph.md)
-      + [自訂範本](firefly/graph/customize-template.md)
-      + [範本程式庫](firefly/graph/template-library.md)
-      + [Firefly Graph網路研討會簡介](firefly/graph/introducing-graph.md)
+   + {hide-from-toc}圖表教學課程 {#firefly-graph}
+      + {hide-from-toc}[總覽 [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Firefly Graph重要概念](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[建立您的第一個圖形](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[自訂範本](firefly/graph/customize-template.md)
+      + {hide-from-toc}[範本程式庫](firefly/graph/template-library.md)
+      + {hide-from-toc}[介紹Firefly Graph網路研討會](firefly/graph/introducing-graph.md)
    + 網路研討會 {#firefly-webinars}
       + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
