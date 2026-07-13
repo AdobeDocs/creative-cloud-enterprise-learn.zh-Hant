@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '789'
 ht-degree: 3%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概觀](firefly/overview-firefly.md)
    + 教學課程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
       + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速創意創意](firefly/accelerate-ideas.md)
       + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -123,14 +123,14 @@ ht-degree: 3%
       + [產生式重新上色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
       + [提高創意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
       + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
       + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
    + Creative生產教學課程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除與取代](firefly/creative-production/background.md)
    + {hide-from-toc}圖表教學課程 {#firefly-graph}
-      + {hide-from-toc}[總覽 [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Adobe Firefly Graph概觀](firefly/graph/overview-firefly-graph.md)
       + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Firefly Graph重要概念](firefly/graph/key-concepts.md)
       + {hide-from-toc}[建立您的第一個圖形](firefly/graph/create-your-first-graph.md)
