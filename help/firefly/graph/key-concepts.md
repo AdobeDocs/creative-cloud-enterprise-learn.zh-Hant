@@ -6,8 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
-source-git-commit: e0b6ded8af7d895674af4b060087f2be00e76e6f
+source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -38,6 +37,6 @@ ht-degree: 1%
 
 ## 下一步
 
-準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
+準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
