@@ -37,6 +37,6 @@ ht-degree: 1%
 
 ## 下一步
 
-準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
+準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
