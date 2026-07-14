@@ -19,6 +19,6 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492631?captions=chi_hant&quality=12&learn=on&hidetitle=true)
 
 返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
