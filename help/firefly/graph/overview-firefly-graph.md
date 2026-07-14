@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ ht-degree: 0%
       <img alt="化妝jar" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>什麼是Firefly Graph？</strong></a>
-    </div>
-    <em>圖表與單一提示的比較方式</em>
+   <a href="what-is-firefly-graph.md"><strong>1. 什麼是Firefly Graph？</strong></a></div>
+    <em>瞭解什麼是Firefly Graph以及如何與單一提示進行比較</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ ht-degree: 0%
       <img alt="具背景的化妝jar" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>重要概念</strong></a>
-    </div>
-    <em>節點、連線和範本</em>
+   <a href="key-concepts.md"><strong>2. 重要概念</strong></a></div>
+    <em>瞭解節點、連線和範本</em>
     
   </td>
   <td>
@@ -49,31 +47,28 @@ ht-degree: 0%
       <img alt="Make jar new background" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>建立您的第一個圖表</strong></a>
-    </div>
-    <em>從畫布到匯出的5步驟逐步解說</em>
+   <a href="create-your-first-graph.md"><strong>3. 建立您的第一個圖表</strong></a></div>
+    從畫布到匯出<em>逐步說明</em>
     
   </td>
+  <td>
+   <a href="template-library.md">
+      <img alt="具最終背景的化妝罐" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>4. 範本程式庫</strong></a></div>
+    <em>瀏覽所有範本，每個範本都有說明和連結</em>
+    
+  </td>
+</tr>
+<tr>
   <td>
    <a href="customize-template.md">
       <img alt="組成jar不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>自訂範本</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>5. 自訂範本</strong></a></div>
     <em>讓範本反映您自己的開始想法</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
-   <a href="template-library.md">
-      <img alt="具最終背景的化妝罐" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>範本程式庫</strong></a>
-    </div>
-    <em>瀏覽所有範本，每個範本都有說明和連結</em>
     
   </td>
   <td>
