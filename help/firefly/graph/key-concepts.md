@@ -1,24 +1,24 @@
 ---
 title: ​2. Firefly Graph重要概念
-description: 涵蓋Firefly Graph心智模型的四個概念 — 節點、連線、工作流程和範本
+description: 瞭解重要概念，協助您開始使用Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: e0b6ded8af7d895674af4b060087f2be00e76e6f
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
 # &#x200B;2. Firefly Graph重要概念
 
-有四個想法涵蓋您開始使用Firefly Graph所需的心理模型。
+瞭解重要概念，協助您開始使用Firefly Graph。
 
-![重要概念](../assets/concepts.png)
+![重要概念](../assets/concepts.png){align="center"}
 
 ## 節點
 
@@ -34,8 +34,10 @@ ht-degree: 0%
 
 ## 為什麼這會在您建置之前很重要
 
-圖表從設計上來說是有彈性的。 這種靈活性表示值得針對您想要的結果和工作流程進行具體說明&#x200B;*在*&#x200B;您開始建立之前 — 這就是讓範本和節點程式庫容易指向正確工作的原因。
+圖表從設計上來說是有彈性的。 這種靈活性表示值得具體說明您想要在&#x200B;*之前*&#x200B;開始建立的結果和工作流程。
 
 ## 下一步
 
 準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
