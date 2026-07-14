@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
+source-git-commit: e0b6ded8af7d895674af4b060087f2be00e76e6f
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 ## 為什麼這會在您建置之前很重要
 
-圖表從設計上來說是有彈性的。 這種靈活性表示值得針對您想要的結果和工作流程進行具體說明&#x200B;*在*&#x200B;您開始建立之前 — 這就是讓範本和節點程式庫容易指向正確工作的原因。
+圖表從設計上來說是有彈性的。 這種靈活性表示值得具體說明您想要在&#x200B;*之前*&#x200B;開始建立的結果和工作流程。
 
 ## 下一步
 
-準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
+準備好建置一些東西了嗎？ 移至[3。 建立您的第一個圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以進行逐步解說。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
