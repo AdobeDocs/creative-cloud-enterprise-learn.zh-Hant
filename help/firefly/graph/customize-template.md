@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 4%
+source-wordcount: '134'
+ht-degree: 3%
 
 ---
 
@@ -23,3 +23,5 @@ ht-degree: 4%
 3. **在依賴結果之前，先執行一次圖表，完全執行。**
 4. **變更一個變數並重新執行它**，以便您能夠檢視該步驟控制項。
 5. **以您自己的名稱儲存您的自訂版本。**
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
