@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Firefly Graph的運作方式不同。 您建置&#x200B;**圖形**，而非單一提示：視覺化的逐步工作流程，將每個輸入、轉換和輸出擷取在一起。 變更一個步驟並重新執行 — 您不會重建整個鏈結。 每個步驟都是可見節點，您的團隊可以完整地檢查、調整並移交。
 
-![視覺化圖表熒幕擷圖](../assets/what-is-1.png)
+![視覺化圖表熒幕擷圖](../assets/what-is-1.png){align="center"}
 
 簡言之，Graph不會取代您的創意程式，而是將該程式轉換為您可以看到、重複使用和擴展的內容。
 
@@ -40,6 +40,6 @@ Firefly Graph的運作方式不同。 您建置&#x200B;**圖形**，而非單一
 
 ## 下一步
 
-一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
+一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
