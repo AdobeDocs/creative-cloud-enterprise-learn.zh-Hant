@@ -1,5 +1,5 @@
 ---
-title: ​5. 自訂範本
+title: ​4. 自訂範本
 description: 將Firefly Graph範本轉換為可反映您個人簡介和資產的工作流程的簡短檢查清單
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 3%
+source-wordcount: '110'
+ht-degree: 4%
 
 ---
 
-# &#x200B;5. 自訂範本
+# &#x200B;4. 自訂範本
 
 每個範本都隨附範例輸入和一般使用案例。 它會變成只適用於&#x200B;*您*&#x200B;的工作流程，只有在它反映您自己的簡短、資產和結果時。
 
@@ -23,7 +23,3 @@ ht-degree: 3%
 3. **在依賴結果之前，先執行一次圖表，完全執行。**
 4. **變更一個變數並重新執行它**，以便您能夠檢視該步驟控制項。
 5. **以您自己的名稱儲存您的自訂版本。**
-
-## 下一步
-
-不確定從哪個範本開始？ 瀏覽[範本程式庫](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)，尋找接近使用案例的範本。

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 2%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -52,25 +52,16 @@ ht-degree: 2%
     
   </td>
   <td>
-   <a href="template-library.md">
-      <img alt="具最終背景的化妝罐" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>4. 範本程式庫</strong></a></div>
-    <em>瀏覽所有範本，每個範本都有說明和連結</em>
-    
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="customize-template.md">
       <img alt="組成jar不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. 自訂範本</strong></a></div>
+   <a href="customize-template.md"><strong>4. 自訂範本</strong></a></div>
     <em>讓範本反映您自己的開始想法</em>
     
   </td>
+</tr>
+<tr>
   <td>
    <a href="introducing-graph.md">
       <img alt="巧克力盒" src="../assets/graph-introducing.png" />
@@ -80,6 +71,11 @@ ht-degree: 2%
     </div>
     <em>在此網路研討會中，瞭解Firefly完整視覺化工作流程系統Graph</em>的所有相關資訊
     
+  </td>
+  <td>
+    <img alt="分隔符號" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
   <td>
     <img alt="分隔符號" src="../../assets/Gray_thumbnail.png" />
