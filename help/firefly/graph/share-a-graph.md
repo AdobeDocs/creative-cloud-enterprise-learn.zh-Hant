@@ -4,12 +4,12 @@ description: 瞭解如何與其他人共用圖表
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ ht-degree: 0%
 
    ![存取](../assets/share_3.png){align="center"}
 
-   透過搜尋開啟「可探索」，讓成員可以找到圖表，完全不需要連結。
-確認橫幅會明確指出誰可以使用連結檢檢視形。 將連結傳送至任何地方前請先勾選此方塊。 它適用於該連結的每個未來收件者，而不只是下一個受邀人員。
+1. 透過搜尋開啟「可探索」，讓成員可以找到圖表，完全不需要連結。
 
    ![橫幅](../assets/share_4.png){align="center"}
+
+   確認橫幅會明確指出誰可以使用連結檢檢視形。 將連結傳送至任何地方前請先勾選此方塊。 它適用於該連結的每個未來收件者，而不只是下一個受邀人員。
 
 1. 在「邀請」欄位中直接輸入電子郵件地址，與一般連結設定分開，給予一個名為存取權的人存取權。 從欄位下方顯示的建議中選取其專案。
 
@@ -55,6 +56,6 @@ ht-degree: 0%
 
 ## 下一步
 
-要從範本開始嗎？ 前往[5。 自訂範本](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
+要從範本開始嗎？ 前往[5。 自訂範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
