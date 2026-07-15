@@ -39,6 +39,6 @@ Firefly Graph的運作方式不同。 您建置&#x200B;**圖形**，而非單一
 
 ## 下一步
 
-一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
+一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
