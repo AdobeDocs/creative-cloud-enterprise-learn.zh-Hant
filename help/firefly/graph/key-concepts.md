@@ -4,12 +4,12 @@ description: 瞭解重要概念，協助您開始使用Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,35 @@ ht-degree: 1%
 
 瞭解重要概念，協助您開始使用Firefly Graph。
 
-![重要概念](../assets/concepts.png){align="center"}
-
 ## 節點
 
 節點會在工作流程中執行一個步驟 — 一個節點，一個工作。 節點可以產生影像、套用遮色片、移動顏色，或執行任何其他單一創意動作。
+
+![節點](../assets/node.png){align="center"}
+
+## 連線埠
+
+節點上的連線點。 輸出連線埠會從節點傳送資料；輸入連線埠會接收傳入的資料。 連線埠是資料流經工作流程的方式。
+
+![連線埠](../assets/port.png){align="center"}
+
+## Widget
+
+節點上的互動式控制項，例如文字欄位、下拉式清單和滑桿，可讓您直接在編輯器中設定其設定。
+
+![介面工具集](../assets/widget.png){align="center"}
 
 ## 連線
 
 連線會在兩個節點之間傳輸輸入或輸出。 圖形會從左到右讀出，從來源輸入到最終輸出。
 
-## 範本
+![連線](../assets/connection.png){align="center"}
 
-範本是某人已建立的圖表。 從範本開始會移除空白畫布，並為您提供一個調整您自己的簡介的工作起點。
+## 圖表
 
-## 為什麼這會在您建置之前很重要
+您在編輯器中建立的完整工作流程。 圖表是由安排在畫布上以產生最終輸出的節點和連線所組成。
 
-圖表從設計上來說是有彈性的。 這種靈活性表示值得具體說明您想要在&#x200B;*之前*&#x200B;開始建立的結果和工作流程。
+![圖表](../assets/graph.png){align="center"}
 
 ## 下一步
 

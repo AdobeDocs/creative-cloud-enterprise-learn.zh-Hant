@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dccb91143eafcea26362e77f119b0bcbfef7d3b6
+source-git-commit: 2228d76351909fe09423f9715f15e644b5d74d12
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '790'
 ht-degree: 3%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 3%
       + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Firefly Graph重要概念](firefly/graph/key-concepts.md)
       + {hide-from-toc}[建立您的第一個圖表](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[共用您的圖表](firefly/graph/share-a-graph.md)
       + {hide-from-toc}[自訂範本](firefly/graph/customize-template.md)
       + {hide-from-toc}[介紹Firefly Graph網路研討會](firefly/graph/introducing-graph.md)
    + 網路研討會 {#firefly-webinars}
