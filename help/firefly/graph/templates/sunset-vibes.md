@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲料** — 搭配季節性標語與溫暖的生活風格背景，進行夏季促銷活動。
 * **零售業** — 產生快速樣式文字和背景資產，以利快閃銷售公告。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

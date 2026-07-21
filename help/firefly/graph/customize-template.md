@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **變更一個變數並重新執行它**，以便您能夠檢視該步驟控制項。
 5. **以您自己的名稱儲存您的自訂版本。**
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
