@@ -4,9 +4,9 @@ description: 瞭解如何將主旨與其背景隔離
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22100
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 將服裝與生活風格像片隔離，以建立純淨產品的目錄影像。
 * **汽車** — 將車輛從拍攝位置剪下，放在攝影棚背景中列印。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
