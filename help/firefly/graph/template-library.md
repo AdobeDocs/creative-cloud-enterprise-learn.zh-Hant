@@ -1,5 +1,5 @@
 ---
-title: Firefly圖表範本程式庫
+title: 範本程式庫
 description: 瀏覽現成的Firefly Graph範本，以讓您開啟並適應自己的專案
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Firefly Graph範本資料庫
+# &#x200B;5. 範本程式庫
 
-每個範本都是某人已建立的完整圖表。 開啟一個按鈕來檢視其運作方式，然後交換您自己的輸入內容來讓它成為您擁有的。
+Firefly Graph範本的快速參考索引，依每個範本產生或執行的內容組織。 每個範例都是起點 — 在生產中使用範本之前，交換您自己的品牌、產品和提示。
 
-| 範本 | 作用 | 連結 |
-|---|---|---|
-| **Bullet-Time VFX產生器** | 產生專案符號時間樣式的VFX序列。 | 開啟範本 |
-| **設計系統產生器** | 建置可重複使用的設計系統資產。 | 開啟範本 |
-| **Hero&#39;s Journey Story Builder** | 為故事板或行銷活動圓弧建立敘述序列和故事結構。 | 開啟範本 |
-| **自訂即時著色器和筆刷筆畫** | 建立自訂即時著色器和筆刷筆畫效果。 | 開啟範本 |
-| **草繪3D週轉** | 將草繪轉換為3D迴轉檢視。 | 開啟範本 |
-| **目標色彩校正** | 以非破壞性的方式套用選擇性的當地語系化色彩校正。 | 開啟範本 |
-| **一致的頭像** | 為群組產生一致的頭像集。 | 開啟範本 |
-| **編輯拍照+換衣** | 製作編輯性照片的外觀，讓服裝在拍攝中切換。 | 開啟範本 |
+## 影像產生與樣式
 
-## 下一步
-
-不確定哪個範本適合您的專案？ 從開始瞭解核心概念，然後返回開啟最接近的相符專案。
+* [**快速入門 — 產生影像**](/help/firefly/graph/templates/get-started-gen-image.md) — 最簡單的圖表：將一個提示節點變成一個產生節點變成一個輸出。 使用它作為第一個與任何全新使用者一起開啟的範本。
+* [**一致的字元產生**](/help/firefly/graph/templates/character-gen.md) — 載入一個字元的參考影像，然後交換每個新快照的場景或姿勢提示。 當周圍場景變更時，字元參照會保持鎖定狀態。
+* [**樣式擷取**](/help/firefly/graph/templates/style-extraction.md) — 在一個核准的參考影像中饋送。 樣式節點會擷取其顏色、光和紋理處理，然後將該處理套用至透過相同圖形執行的任何新影像。
+* [**日落影像**](/help/firefly/graph/templates/sunset-vibes.md) — 瞭解如何從文字提示建立以「Vibe」一詞為主的3D印刷影像。 範本會自動處理位置和色彩平衡。
