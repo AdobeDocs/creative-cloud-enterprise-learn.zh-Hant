@@ -1,5 +1,5 @@
 ---
-title: ​5. 自訂範本
+title: 自訂範本
 description: 將Firefly Graph範本轉換為可反映您個人簡介和資產的工作流程的簡短檢查清單
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 3%
 
 ---
 
-# &#x200B;5. 自訂範本
+# &#x200B;6. 自訂範本
 
 每個範本都隨附範例輸入和一般使用案例。 它會變成只適用於&#x200B;*您*&#x200B;的工作流程，只有在它反映您自己的簡短、資產和結果時。
 
