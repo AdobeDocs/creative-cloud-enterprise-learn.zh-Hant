@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # 產生一致的字元
 
-瞭解如何在周圍場景變更時產生一致的字元參考。 [開啟一致的字元產生範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
+瞭解如何載入一個字元的參考影像，然後交換每個新快照的場景或姿勢提示。 [開啟一致的字元產生範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在數十個季節性產品插圖和社交貼文中維護一個品牌輻條字元。
 * **教育** — 在課程的每個課程影片中，保持動畫講師字元一致。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

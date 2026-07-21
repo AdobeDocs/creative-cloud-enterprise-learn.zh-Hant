@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
 # 樣式擷取
 
-瞭解參考影像的樣式如何套用至任何新影像。 [開啟樣式擷取範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
+瞭解如何在參考影像中輸入，以擷取其顏色、光線和紋理處理。 然後，您可以將該處理套用至透過相同圖形執行的任何新影像。 [開啟樣式擷取範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售業** — 從主圖快照擷取藝術總監核准的外觀，並將其套用至整個季的產品攝影。
 * **飲料** — 搭配新包裝，呈現獲獎行銷活動像片的氣氛。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

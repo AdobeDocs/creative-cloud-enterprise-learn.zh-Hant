@@ -1,21 +1,21 @@
 ---
 title: 快速入門 — 產生影像
-description: 瞭解如何以最簡單的圖表開始使用
+description: 瞭解如何建立基本圖形 — 將單一提示節點建立為將單一一代節點建立為單一輸出
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # 快速入門 — 產生影像
 
-透過最簡單的圖表瞭解基本知識：一個提示節點放入一個世代節點放入一個輸出。 [開啟快速入門 — 產生影像範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d)。
+瞭解如何建立基本圖形：將一個提示節點變成一代節點變成一個輸出。 [開啟快速入門 — 產生影像範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d)。
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ ht-degree: 1%
 * **教育** — 在指派真正的專案工作之前，先建置第一個範例影像以示範新團隊成員的圖形。
 
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
