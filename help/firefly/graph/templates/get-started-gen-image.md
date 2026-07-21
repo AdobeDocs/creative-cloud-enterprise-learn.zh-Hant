@@ -30,4 +30,4 @@ ht-degree: 1%
 * **教育** — 在指派真正的專案工作之前，先建置第一個範例影像以示範新團隊成員的圖形。
 
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在不一致的照明下標準化像片組中的產品顏色。
 * **財務** — 在發佈之前，修正整批行銷攝影中的雜散品牌顏色。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

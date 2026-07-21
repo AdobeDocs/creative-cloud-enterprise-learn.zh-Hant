@@ -30,4 +30,4 @@ ht-degree: 1%
 * **零售** — 為產品上市頁面建立新運動鞋的360度凍結影格快照。
 * **汽車** — 為數位陳列室製作旋轉式車輛主圖快照，而不使用可旋轉的工作室會議。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
