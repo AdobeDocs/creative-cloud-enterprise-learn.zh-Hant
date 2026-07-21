@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售業** — 從主圖快照擷取藝術總監核准的外觀，並將其套用至整個季的產品攝影。
 * **飲料** — 搭配新包裝，呈現獲獎行銷活動像片的氣氛。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

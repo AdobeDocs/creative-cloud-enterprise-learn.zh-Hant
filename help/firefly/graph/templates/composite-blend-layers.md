@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 將產品切割融入首頁橫幅的季節性生活方式背景。
 * **旅遊** — 在聯合品牌促銷的產品快照後面合成目的地背景。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

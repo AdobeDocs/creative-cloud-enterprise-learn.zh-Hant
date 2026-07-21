@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在數十個季節性產品插圖和社交貼文中維護一個品牌輻條字元。
 * **教育** — 在課程的每個課程影片中，保持動畫講師字元一致。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
