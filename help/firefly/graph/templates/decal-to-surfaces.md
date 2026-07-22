@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽車** — 在包裝生產前，預覽車輛模型上的全新裝飾或貼花設計。
 * **零售業** — 在列印核准之前，先測試整件服裝模型行上的新標誌位置。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

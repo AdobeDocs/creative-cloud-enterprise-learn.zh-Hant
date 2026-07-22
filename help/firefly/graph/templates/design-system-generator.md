@@ -29,4 +29,4 @@ ht-degree: 1%
 * **財務** — 在開發開始之前，為新應用程式重新設計建置一致的圖示和色彩系統。
 * **通訊與電信** — 為跨網路和店內招牌的新計畫層級產生相符的視覺語言。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

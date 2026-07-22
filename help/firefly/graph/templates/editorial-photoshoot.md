@@ -29,4 +29,4 @@ ht-degree: 1%
 * **美容** — 使用單一模型參考建立跨越多個產品外觀的一致編輯系列。
 * **戶外** — 從單一模型拍攝產生新的外套色彩系列的完整編輯集。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

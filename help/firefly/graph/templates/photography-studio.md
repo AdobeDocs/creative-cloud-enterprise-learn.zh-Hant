@@ -29,4 +29,4 @@ ht-degree: 1%
 * **技術** — 在裝置可供拍照之前，為啟動頁面建立工作室品質的新裝置轉譯。
 * **零售** — 在整個產品線中建立一致的攝影棚快照，而不需預訂個別的攝影課程。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

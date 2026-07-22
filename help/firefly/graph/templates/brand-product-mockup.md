@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲料** — 在正式生產之前，在品牌零售較涼爽的場景中，預覽新的瓶裝設計。
 * **技術** — 在品牌零售架場景中模擬新裝置，作為上市投影片。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

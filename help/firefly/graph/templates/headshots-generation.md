@@ -30,4 +30,4 @@ ht-degree: 1%
 * **財務** — 將顧問團隊中的標題擷取標準化，以取得團隊會議頁面。
 * **健康情況** — 將多個診所地點的員工頭像標準化，以統一網站外觀。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
