@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲料** — 請先測試三個標誌和調色盤方向，作為外觀精美的關鍵藝術品，然後再選擇其中一個進行生產。
 * **財務** — 在到達設計稽核之前，以品牌視覺效果預覽新卡片或應用程式身分識別。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
