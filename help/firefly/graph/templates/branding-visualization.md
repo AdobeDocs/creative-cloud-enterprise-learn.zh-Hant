@@ -1,21 +1,21 @@
 ---
 title: 品牌視覺效果
-description: 瞭解如何在產品場景中將您的標誌視覺化
+description: 瞭解如何在產品場景中將您的標誌或品牌視覺化
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
 
 # 品牌視覺效果
 
-瞭解如何在產品場景中將您的標誌視覺化。 品牌方針或標誌與調色盤中的摘要，以及圖形在一次執行中同時輸出靜態關鍵線條和短時間移動路徑，因此兩種格式在視覺上都會保持一致。[開啟品牌視覺化範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51)。
+瞭解如何在產品場景中將您的標誌或品牌視覺化。 品牌方針或標誌與調色盤中的摘要，以及圖形在一次執行中同時輸出靜態關鍵線條和短時間移動路徑，因此兩種格式在視覺上都會保持一致。[開啟品牌視覺化範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51)。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲料** — 請先測試三個標誌和調色盤方向，作為外觀精美的關鍵藝術品，然後再選擇其中一個進行生產。
 * **財務** — 在到達設計稽核之前，以品牌視覺效果預覽新卡片或應用程式身分識別。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
