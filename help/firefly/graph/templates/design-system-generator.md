@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-![設計系統產生器](../../assets/design-system.png){align="center"}
-
 [!BADGE 使用案例]{type=Informative tooltip="使用案例"}
 
 * **技術** — 為每季的功能推出產生可重複使用的圖示和背景模式，可跨廣告、登陸頁面和社交重複使用，無需重新簡報設計。
 * **財務** — 在開發開始之前，為新應用程式重新設計建置一致的圖示和色彩系統。
 * **通訊與電信** — 為跨網路和店內招牌的新計畫層級產生相符的視覺語言。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![設計系統產生器](../../assets/design-system.png){align="center"}
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

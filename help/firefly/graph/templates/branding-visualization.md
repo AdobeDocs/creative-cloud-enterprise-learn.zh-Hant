@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-![品牌視覺效果](../../assets/branding-visualization.png){align="center"}
-
 [!BADGE 使用案例]{type=Informative tooltip="使用案例"}
 
 * **技術** — 在將設計或媒體預算認可至完整生產之前，將新產品子品牌視覺化為重要藝術品和啟動Teaser。
 * **飲料** — 請先測試三個標誌和調色盤方向，作為外觀精美的關鍵藝術品，然後再選擇其中一個進行生產。
 * **財務** — 在到達設計稽核之前，以品牌視覺效果預覽新卡片或應用程式身分識別。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![品牌視覺效果](../../assets/branding-visualization.png){align="center"}
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

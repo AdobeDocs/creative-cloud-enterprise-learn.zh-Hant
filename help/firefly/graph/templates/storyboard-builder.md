@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-![分鏡指令碼產生器](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE 使用案例]{type=Informative tooltip="使用案例"}
 
 * **通訊與電信** — 分鏡指令碼是新計畫的30秒啟動點，在預約拍攝之前會測試三種不同的敘述結構。
 * **飲料** — 依據季節行銷活動的場景指令碼建立場景，並重新排序節拍以測試節拍在鎖定剪下內容之前的步調。
 * **旅遊** — 在認可拍攝清單之前，先將目的地行銷活動的敘述弧線加入故事板。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![分鏡指令碼產生器](../../assets/storyboard-builder.png){align="center"}
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

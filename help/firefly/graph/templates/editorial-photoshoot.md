@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-![編輯拍照](../../assets/editorial-photoshoot.png){align="center"}
-
 [!BADGE 使用案例]{type=Informative tooltip="使用案例"}
 
 * **零售** — 在季節性型錄的完整編輯拍攝中，於單一模型上交換服裝，而不需為每個個人造型重新訂定模型。
 * **美容** — 使用單一模型參考建立跨越多個產品外觀的一致編輯系列。
 * **戶外** — 從單一模型拍攝產生新的外套色彩系列的完整編輯集。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![編輯拍照](../../assets/editorial-photoshoot.png){align="center"}
+
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
