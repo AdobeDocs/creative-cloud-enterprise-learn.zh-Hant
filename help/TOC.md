@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,12 @@ ht-degree: 3%
       + {hide-from-toc}[選擇性色彩校正](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[快速入門 — 視訊產生](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[專案符號時間VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[文字到分鏡指令碼](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[分鏡指令碼產生器](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[即時著色器](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[字元模型產生](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[乙烯基玩具設計](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[草繪3D週轉](firefly/graph/templates/sketch-to-3d.md)
   + 網路研討會 {#firefly-webinars}
     + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
