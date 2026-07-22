@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [概觀](firefly/overview-firefly.md)
   + 教學課程 {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
     + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
     + [加速創意創意](firefly/accelerate-ideas.md)
     + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -124,11 +124,11 @@ ht-degree: 3%
     + [產生式重新上色](firefly/gen-recolor.md)
     + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
     + [提高創意效率](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
     + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
     + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
   + Creative生產教學課程 {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除與取代](firefly/creative-production/background.md)
   + {hide-from-toc}圖表教學課程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly Graph概觀](firefly/graph/overview-firefly-graph.md)
@@ -149,6 +149,12 @@ ht-degree: 3%
       + {hide-from-toc}[選擇性色彩校正](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[快速入門 — 視訊產生](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[專案符號時間VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[文字到分鏡指令碼](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[分鏡指令碼產生器](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[即時著色器](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[字元模型產生](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[乙烯基玩具設計](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[草繪3D週轉](firefly/graph/templates/sketch-to-3d.md)
   + 網路研討會 {#firefly-webinars}
     + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
