@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售業** — 在主管預約之前，直接從行銷活動簡報將產品上市影片加入分鏡指令碼。
 * **技術** — 在動畫開始之前，從功能指令碼中製作插圖說明影片，以對齊利害關係人。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲料** — 依據季節行銷活動的場景指令碼建立場景，並重新排序節拍以測試節拍在鎖定剪下內容之前的步調。
 * **旅遊** — 在認可拍攝清單之前，先將目的地行銷活動的敘述弧線加入故事板。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽車** — 將早期車輛概念草圖視覺化為旋轉的3D轉向，以供內部檢閱。
 * **娛樂** — 將字元概念草圖轉換為3D轉折，以製作投影片投影片。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

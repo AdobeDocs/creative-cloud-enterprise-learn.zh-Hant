@@ -29,4 +29,4 @@ ht-degree: 1%
 * **技術** — 從書面簡報產生基礎3D字元模型，準備交給模型工具進行清除。
 * **教育** — 建置3D講師字元模型，用於課程的影片課程。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

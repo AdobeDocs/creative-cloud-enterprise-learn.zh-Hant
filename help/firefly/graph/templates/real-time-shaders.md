@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽車** — 在實體原型存在之前，在車輛模型上預覽自訂油漆和材質著色器。
 * **零售** — 測試樣式的材料會在3D產品轉譯器上尋找數位架顯示器。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **飲品** — 模擬限量經營商品託運的品牌吉祥物收藏圖。
 * **娛樂** — 預覽授權宣傳投影片的乙烯基玩具格式字元。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
