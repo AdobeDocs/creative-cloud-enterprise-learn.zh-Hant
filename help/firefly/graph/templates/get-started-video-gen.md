@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 瞭解如何加入核准的靜態關鍵藝術和簡短動作提示。 此範本會產生視訊剪下，該剪下是由相同的關鍵藝術作品所建置，而非新的拍攝。 [開啟快速入門 — 視訊產生](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:4729e537-95d5-56a6-b7c4-a1d4dadb76c9)。
 
->[!TIP]
->
->**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
-
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+[!BADGE 產業範例]{type=Informative tooltip="產業範例"}
 
 * **財務** — 將核准的列印行銷活動的關鍵藝術轉換為付費社交的短片，而不需另外排程視訊拍攝。
 * **飲料** — 在上市當天將主圖產品拍攝到簡短Teaser的動畫。
 * **零售業** — 將單一行銷活動像片擴充為短格式視訊，以利社交。
+
+>[!TIP]
+>
+>**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
 ![視訊產生](../../assets/video-generation.png){align="center"}
 
