@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+![選擇性色彩校正](../../assets/selective-color.png){align="center"}
+
+[!BADGE 產業範例]{type=Informative tooltip="使用案例"}
 
 * **通訊與電信** — 整批零售商店攝影的品牌色彩正確無誤，因此每個位置都符合品牌的標誌色彩，不論是否完全符合。
 * **零售** — 在不一致的照明下標準化像片組中的產品顏色。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![選擇性色彩校正](../../assets/selective-color.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

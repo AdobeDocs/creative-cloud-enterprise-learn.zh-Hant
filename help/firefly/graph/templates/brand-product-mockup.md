@@ -4,11 +4,11 @@ description: 瞭解如何在不同的場景中顯示您的產品
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22121
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+![品牌產品模型](../../assets/brand-mockup.png){align="center"}
+
+[!BADGE 產業範例]{type=Informative tooltip="使用案例"}
 
 * **零售** — 在實體展示存在之前，在品牌店內展示場景中模擬新的季節性產品線。
 * **飲料** — 在正式生產之前，在品牌零售較涼爽的場景中，預覽新的瓶裝設計。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![品牌產品模型](../../assets/brand-mockup.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

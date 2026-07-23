@@ -5,9 +5,9 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+![複合與混合圖層](../../assets/composite-blend-layers.png){align="center"}
+
+[!BADGE 產業範例]{type=Informative tooltip="使用案例"}
 
 * **飲品** — 將新的飲品組合成沙灘生活風格場景，以供夏季行銷活動使用，而不需飛翔
 攝影團隊前往某個位置。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![複合與混合圖層](../../assets/composite-blend-layers.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

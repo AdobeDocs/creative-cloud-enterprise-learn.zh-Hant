@@ -4,11 +4,11 @@ description: 瞭解如何在產品場景中將您的標誌或品牌視覺化
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+![品牌視覺效果](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE 產業範例]{type=Informative tooltip="使用案例"}
 
 * **技術** — 在將設計或媒體預算認可至完整生產之前，將新產品子品牌視覺化為重要藝術品和啟動Teaser。
 * **飲料** — 請先測試三個標誌和調色盤方向，作為外觀精美的關鍵藝術品，然後再選擇其中一個進行生產。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![品牌視覺效果](../../assets/branding-visualization.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

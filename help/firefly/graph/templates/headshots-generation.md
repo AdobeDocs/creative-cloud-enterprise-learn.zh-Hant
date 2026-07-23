@@ -1,19 +1,19 @@
 ---
-title: Headshots世代
+title: 產生大頭照
 description: 瞭解如何協調批次的企業頭像
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22127
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
 
-# Headshots世代
+# 產生快照
 
 瞭解如何協調批次的企業頭像。 圖表會標準化光線、背景、
 並在一次回合中裁切整個集合。 [開啟的快照產生範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:5da3f95f-63e5-5335-9e10-58cfadd7ad3f)。
@@ -22,7 +22,9 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-[!BADGE 使用案例]{type=Informative tooltip="使用案例"}
+![產生大頭照](../../assets/headshots-generation.png){align="center"}
+
+[!BADGE 產業範例]{type=Informative tooltip="使用案例"}
 
 * **技術** — 在全體員工之前，為更新的員工目錄產生一致的頭像集，而不需要為每位新員工安排攝影師。
 * **財務** — 將顧問團隊中的標題擷取標準化，以取得團隊會議頁面。
@@ -30,4 +32,4 @@ ht-degree: 1%
 
 ![產生大頭照](../../assets/headshots-generation.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly圖形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
