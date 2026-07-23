@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**開始之前** — 為獲得最佳結果，請根據您自己的品牌、產品和工作流程自訂此範本。 在使用任何輸出之前，交換參考影像、提示和複製。
 
-![即時著色器](../../assets/real-time-shaders.png){align="center"}
-
 [!BADGE 使用案例]{type=Informative tooltip="使用案例"}
 
 * **技術** — 建立自訂風格化著色器，尋找用於互動式貿易展覽示範中的3D產品組態程式。
 * **汽車** — 在實體原型存在之前，在車輛模型上預覽自訂油漆和材質著色器。
 * **零售** — 測試樣式的材料會在3D產品轉譯器上尋找數位架顯示器。
+
+![即時著色器](../../assets/real-time-shaders.png){align="center"}
 
 返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
