@@ -6,13 +6,9 @@ level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
-product_v2:
-  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 871
@@ -42,7 +38,7 @@ ht-degree: 4%
 
 ### 檢查到期日期
 
-[AdobeExpiryCheck](https://helpx.adobe.com/tw/enterprise/kb/volume-license-expiration-check.html)是命令列公用程式，可供IT管理員檢查電腦上的Adobe產品是否使用已過期或即將過期的序號。 此工具會顯示產品授權識別碼(LEID)、加密序號和到期日等資訊。 此[頁面](https://helpx.adobe.com/tw/enterprise/kb/volume-license-expiration-check.html)包含在Mac或Windows電腦上下載及使用此工具的指示。
+[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)是命令列公用程式，可供IT管理員檢查電腦上的Adobe產品是否使用已過期或即將過期的序號。 此工具會顯示產品授權識別碼(LEID)、加密序號和到期日等資訊。 此[頁面](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)包含在Mac或Windows電腦上下載及使用此工具的指示。
 
 ## 瞭解序號過期之前和之後的一般使用者體驗
 
@@ -52,7 +48,7 @@ ht-degree: 4%
 
 下列資訊概述一般使用者體驗。 以下是簡短影片，隨後是使用者體驗的檢閱。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441290?captions=chi_hant&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
 **到期之前**
 
@@ -93,13 +89,13 @@ ht-degree: 4%
 
 對於所有後續啟動Acrobat的嘗試，系統將提示使用者&#x200B;**立即登入**，之後再選擇建立自己的Adobe ID並進入試用模式。 不過，一般使用者建立的任何新Adobe ID都不會與您組織的授權建立關聯，而且會對您的使用者造成額外的混淆。
 
-對話方塊1![&#128279;](assets/acrobatsignin1.png)中的Acrobat Sign
+對話方塊1](assets/acrobatsignin1.png)中的![Acrobat Sign
 
-對話方塊2![&#128279;](assets/acrobatsignin2.png)中的Acrobat Sign
+對話方塊2](assets/acrobatsignin2.png)中的![Acrobat Sign
 
 ## 如果您需要協助，請聯絡我們
 
-如果您對使用[AdobeExpiryCheck](https://helpx.adobe.com/tw/enterprise/kb/volume-license-expiration-check.html)工具有任何疑問，或需要協助從序號部署移轉至具名使用者，您有幾個選擇：
+如果您對使用[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)工具有任何疑問，或需要協助從序號部署移轉至具名使用者，您有幾個選擇：
 * 傳送電子郵件給Adobe Enterprise入門團隊 — **entonb@adobe.com**
 * 在[Admin Console](https://adminconsole.adobe.com/support/?locale=zh-Hant)中開啟支援票證
 * 聯絡您的Adobe客戶團隊
