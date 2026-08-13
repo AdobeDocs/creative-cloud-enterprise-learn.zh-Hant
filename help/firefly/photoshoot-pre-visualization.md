@@ -18,4 +18,4 @@ ht-degree: 0%
 
 使用Adobe Firefly的完整功能預覽您整個拍照的視覺。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497058?captions=chi_hant&quality=12&learn=on&hidetitle=true)

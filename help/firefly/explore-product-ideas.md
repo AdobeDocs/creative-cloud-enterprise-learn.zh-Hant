@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Firefly Boards提供您團隊極致的腦力激盪環境，將粗略的概念變成分享的視覺效果，不僅限於文字清單和靜態插圖。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497138?captions=chi_hant&quality=12&learn=on&hidetitle=true)
