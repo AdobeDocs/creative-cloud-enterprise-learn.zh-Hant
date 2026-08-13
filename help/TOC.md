@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 3%
 
 # 適用於企業的Creative Cloud教學課程 {#cce-learning-hub}
 
-+ [概觀](overview.md)
++ [總覽](overview.md)
 + 適用於企業的 Creative Cloud {#cceoverview}
-  + [概觀](cce/overview-cce.md)
+  + [總覽](cce/overview-cce.md)
   + 教學課程 {#ccetutorials}
     + [適用於內容創作者的Acrobat](cce/acrobat-content-creators.md)
     + [使用CC Libraries改善CC工作流程](cce/cc-workflows-cc-libraries.md)
@@ -37,9 +37,9 @@ ht-degree: 3%
   + 快速參考指南 {#ccerefguides}
     + [CCE指南](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
-  + [概觀](express/overview-express.md)
+  + [總覽](express/overview-express.md)
   + 操作說明教學課程 {#expresshowto}
-    + [概觀](express/overview-express-how-to.md)
+    + [總覽](express/overview-express-how-to.md)
     + [首頁內容](express/get-started.md)
     + [快速動作簡介](express/quick-actions.md)
     + [範本簡介](express/introduction-templates.md)
@@ -92,7 +92,7 @@ ht-degree: 3%
     + [儲存並共用範本](express/share-templates.md)
     + [如何使用範本](express/use-templates.md)
   + 使用案例教學課程 {#expressusecase}
-    + [概觀](express/overview-express-use-case-tutorials.md)
+    + [總覽](express/overview-express-use-case-tutorials.md)
     + [為事件建立多管道人力資源內容](express/create-hr-content.md)
     + [建立線上學習課程的促銷視覺效果](express/promo-visual.md)
     + [建立年終影片](express/end-of-year-video.md)
@@ -110,7 +110,7 @@ ht-degree: 3%
     + [輕鬆執行社交宣傳](express/create-blog-graphics.md)
     + [使用Firefly建立網路研討會海報](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
-  + [概觀](firefly/overview-firefly.md)
+  + [總覽](firefly/overview-firefly.md)
   + 教學課程 {#firefly-tutorials}
     + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
     + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
@@ -130,6 +130,8 @@ ht-degree: 3%
   + Creative生產教學課程 {#firefly-creative-production}
     + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除與取代](firefly/creative-production/background.md)
+    + {hide-from-toc}[拍照前的視覺效果](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc}[探索不含會議、標籤和模型的產品構想](firefly/explore-product-ideas.md)
   + {hide-from-toc}圖表教學課程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly Graph概觀](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
@@ -165,7 +167,7 @@ ht-degree: 3%
   + 網路研討會 {#firefly-webinars}
     + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
-  + [概觀](stock/overview-stock.md)
+  + [總覽](stock/overview-stock.md)
   + 教學課程 {#stocktutorials}
     + [令人驚歎的數位資產](stock/stunning-digital-assets.md)
     + [搜尋Adobe [!DNL Stock] 授權記錄](stock/searchstock.md)
@@ -192,25 +194,25 @@ ht-degree: 3%
     + [自訂Adobe [!DNL Stock] 簡報範本，以提供專業外觀](stock/presentationtemplate.md)
     + [在Adobe [!DNL Stock] 向量插圖中自訂顏色](stock/customizecolors.md)
 + Adobe 3D與VR {#3doverview}
-  + [概觀](3di/overview-3di.md)
+  + [總覽](3di/overview-3di.md)
   + 教學課程 {#3dtutorials}
     + [3D設計和呈現](3di/substance-3d-stager.md)
     + [在CGI中精通3D光線的秘訣與技巧](3di/mastering3dlighting.md)
     + [使用3D呈現和合成技術創作如像片般逼真的虛擬攝影](3di/photorealistic.md)
     + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自訂3D模型並將其品牌化](3di/3ddimensionstock.md)
 + Adobe影片 {#videooverview}
-  + [概觀](dva/overview-dva.md)
+  + [總覽](dva/overview-dva.md)
   + 教學課程 {#videotutorials}
     + [專業動態圖形範本](dva/motion-graphics-templates.md)
     + [使用Frame.io進行影片審查](dva/video-review-frame-io.md)
   + 快速參考指南 {#videorefguides}
     + [視訊指南](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-  + [概觀](xd/overview-xd.md)
+  + [總覽](xd/overview-xd.md)
   + 教學課程 {#xdtutorials}
     + [熟悉Adobe XD中的[!UICONTROL 元件]](xd/components.md)
 + 部署和管理 {#deploy}
-  + [概觀](deploy/overview-deploy.md)
+  + [總覽](deploy/overview-deploy.md)
   + [序號到期](deploy/cceserial.md)
   + [指名的用戶授權](deploy/nameduserlicensing.md)
 
