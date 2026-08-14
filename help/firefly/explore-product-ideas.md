@@ -18,4 +18,4 @@ ht-degree: 0%
 
 產品概念是指等待3D藝術家和插圖者只為了看一個構想成型。 瞭解Firefly展示板如何讓您以令人驚豔的真實感產生概念，使用靜態和3D轉譯器，無須使用記號、不需要模型，即可將想法生動呈現。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497138?captions=chi_hant&quality=12&learn=on&hidetitle=true)

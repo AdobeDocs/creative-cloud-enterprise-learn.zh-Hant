@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解Gen AI如何讓您預覽整個拍照，將產品置於理想的環境中，這樣您就可以在擷取單一影格前，透過使用者端簽署來鎖定位置、設定和字元。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497058?captions=chi_hant&quality=12&learn=on&hidetitle=true)

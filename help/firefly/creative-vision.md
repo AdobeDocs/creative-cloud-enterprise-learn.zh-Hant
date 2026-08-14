@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解如何釋放您的創意團隊創意，並儘早定義分享風格，讓您的客戶能夠立即回應。 有了Adobe Firefly，概念超越文字而變成豐富的視覺效果，不會留下誤解的空間。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497191?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497204?captions=chi_hant&quality=12&learn=on&hidetitle=true)
