@@ -1,21 +1,21 @@
 ---
 title: 拍照前的視覺效果
-description: 使用Adobe Firefly的完整功能預覽您整個拍照視覺
+description: 瞭解Gen AI如何讓您以視覺效果呈現整個拍照
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 拍照前的視覺效果
 
-使用Adobe Firefly的完整功能預覽您整個拍照的視覺。
+瞭解Gen AI如何讓您預覽整個拍照，將產品置於理想的環境中，這樣您就可以在擷取單一影格前，透過使用者端簽署來鎖定位置、設定和字元。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497058?captions=chi_hant&quality=12&learn=on&hidetitle=true)

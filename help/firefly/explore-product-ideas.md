@@ -1,21 +1,21 @@
 ---
 title: 探索產品概念，而不使用會議、標籤和模型
-description: Firefly展示板為團隊提供極致的腦力激盪環境
+description: 瞭解Firefly展示板如何讓您以令人驚豔的逼真度產生概念
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22321
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # 探索產品概念，而不使用會議、標籤和模型
 
-Firefly Boards提供您團隊極致的腦力激盪環境，將粗略的概念變成分享的視覺效果，不僅限於文字清單和靜態插圖。
+產品概念是指等待3D藝術家和插圖者只為了看一個構想成型。 瞭解Firefly展示板如何讓您以令人驚豔的真實感產生概念，使用靜態和3D轉譯器，無須使用記號、不需要模型，即可將想法生動呈現。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497138?captions=chi_hant&quality=12&learn=on&hidetitle=true)

@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '880'
 ht-degree: 3%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 3%
     + [背景移除與取代](firefly/creative-production/background.md)
     + {hide-from-toc}[拍照前的視覺效果](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[探索不含會議、標籤和模型的產品構想](firefly/explore-product-ideas.md)
+    + {hide-from-toc}[將一個字轉換成共用的創意願景](firefly/creative-vision.md)
   + {hide-from-toc}圖表教學課程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly Graph概觀](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
