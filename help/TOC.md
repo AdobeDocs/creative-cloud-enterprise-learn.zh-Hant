@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '880'
 ht-degree: 3%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [總覽](firefly/overview-firefly.md)
   + 教學課程 {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
     + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
     + [加速創意創意](firefly/accelerate-ideas.md)
     + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -124,14 +124,15 @@ ht-degree: 3%
     + [產生式重新上色](firefly/gen-recolor.md)
     + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
     + [提高創意效率](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
     + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
     + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
   + Creative生產教學課程 {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除與取代](firefly/creative-production/background.md)
     + {hide-from-toc}[拍照前的視覺效果](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[探索不含會議、標籤和模型的產品構想](firefly/explore-product-ideas.md)
+    + {hide-from-toc}[將一個字轉換成共用的創意願景](firefly/creative-vision.md)
   + {hide-from-toc}圖表教學課程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly Graph概觀](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[什麼是Firefly Graph？](firefly/graph/what-is-firefly-graph.md)
