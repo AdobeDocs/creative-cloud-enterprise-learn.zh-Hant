@@ -18,4 +18,4 @@ ht-degree: 0%
 
 瞭解創意團隊如何使用Adobe Firefly面板及早施壓測試創意，並且滿懷信心地達成每次擷取都會如期進展。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502289?captions=chi_hant&quality=12&learn=on&hidetitle=true)
