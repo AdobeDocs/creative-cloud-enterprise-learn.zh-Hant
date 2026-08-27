@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
+source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 3%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [總覽](firefly/overview-firefly.md)
   + 教學課程 {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]的概觀](firefly/overview-of-firefly.md)
     + [探索 [!DNL Adobe Firefly]](firefly/discover.md)
     + [加速創意創意](firefly/accelerate-ideas.md)
     + [為商品建立可重複使用的場景](firefly/reusable-scenes.md)
@@ -124,11 +124,11 @@ ht-degree: 3%
     + [產生式重新上色](firefly/gen-recolor.md)
     + [如何使用 [!DNL Firefly]的範例](firefly/examples.md)
     + [提高創意效率](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]中的橫幅廣告變化](firefly/web-banner-ad.md)
     + [產生式填入 [!DNL Photoshop]](firefly/generative-fill.md)
     + [在 [!DNL Illustrator]中產生重新上色](firefly/generative-recolor.md)
   + Creative生產教學課程 {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] Creative生產概覽](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除與取代](firefly/creative-production/background.md)
     + {hide-from-toc}[拍照前的視覺效果](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[探索不含會議、標籤和模型的產品構想](firefly/explore-product-ideas.md)
@@ -168,6 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[產生大頭照](firefly/graph/templates/headshots-generation.md)
   + 網路研討會 {#firefly-webinars}
     + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
+    + [大聲思考：將您的想法變成驚人的視覺效果](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [總覽](stock/overview-stock.md)
   + 教學課程 {#stocktutorials}
