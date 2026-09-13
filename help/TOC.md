@@ -168,7 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[產生大頭照](firefly/graph/templates/headshots-generation.md)
   + 網路研討會 {#firefly-webinars}
     + [使用Adobe Firefly進行實驗](firefly/webinar-experimenting.md)
-    + [大聲思考：將您的想法變成驚人的視覺效果](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [大聲思考：將您的想法變成驚人的視覺效果](https://experienceleague.adobe.com/zh-hant/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [總覽](stock/overview-stock.md)
   + 教學課程 {#stocktutorials}
