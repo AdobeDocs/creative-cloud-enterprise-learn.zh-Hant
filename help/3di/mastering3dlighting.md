@@ -57,7 +57,7 @@ ht-degree: 0%
 
 您最好一次操作一個指示燈。 作用中光源應該是場景中唯一可見的光，而所有其他光源應該暫時關閉。 如此一來，您就可以看到特定光線如何影響場景，並透過處理其屬性（例如位置、方向、強度等）來變更該效果。
 
-![ 3盞燈的範例，分別照明3d車型，且全部3盞燈一起運作](assets/Mastering3dlighting_3.gif)
+![&#x200B; 3盞燈的範例，分別照明3d車型，且全部3盞燈一起運作](assets/Mastering3dlighting_3.gif)
 
 另一個有用的技巧是使用閃亮的金屬材料（鉻或鏡子）來建立球面。 這個「鏡球」會有效反射其周圍的整個場景，因此您可以輕鬆判斷光源的位置、方向或大小。 在環境光線的情況下，您可在鏡球中看到其反射，這有助於設定其在空間中的定向。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ![由像片、3D工作室場景和抽象3D場景所組成的環境燈光範例](assets/Mastering3dlighting_5.jpg)
 
-當您在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中建立新場景時，將會為您建立預設的環境光。 這就是您能夠立即實際看到場景中任何內容的原因。 Adobe [!DNL Dimension] Starter Assets包含特定數量的環境指示燈，您可以立即試用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)提供大量精選的環境光。
+當您在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中建立新場景時，將會為您建立預設的環境光。 這就是您能夠立即實際看到場景中任何內容的原因。 Adobe [!DNL Dimension] Starter Assets包含特定數量的環境指示燈，您可以立即試用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id]&#x200B;[0]=2&load_type=3d+lp)提供大量精選的環境光。
 
 環境燈光會產生非常逼真的效果，可以節省您許多時間。 為了以手動方式達到類似效果，您必須實際在3D中建立整個環境（包括各種光源），這是相當大量的工作。
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 ![圖表說明3D物件在光照及投射陰影時的光照強度、方向及大小效果](assets/Mastering3dlighting_13.jpg)
 
-![ 3D光線的大小如何影響CGI汽車模型投射的陰影柔和度的範例](assets/Mastering3dlighting_14.gif)
+![&#x200B; 3D光線的大小如何影響CGI汽車模型投射的陰影柔和度的範例](assets/Mastering3dlighting_14.gif)
 
 ### 太陽和天空
 

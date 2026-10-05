@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!TAB 建立年終影片]
 
-瞭解如何建立鼓舞人心的年終影片[](end-of-year-video.md)。
+瞭解如何建立鼓舞人心的年終影片[&#128279;](end-of-year-video.md)。
 
 >[!ENDTABS]
 

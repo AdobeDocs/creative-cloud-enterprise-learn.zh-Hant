@@ -45,7 +45,7 @@ ht-degree: 0%
 
 Adobe [!DNL Dimension]可讓使用者使用Adobe AI，直接在應用程式中順暢地結合2D與3D元素。 以此方式合成元素的主要優點在於，它turbo將完全實現的3D場景替換為背景影像（可從現實中擷取），可加快建立逼真外觀影像的流程。
 
-![ Adobe中的「符合影像」功能[!DNL Dimension]會分析背景影像，並估計用來擷取該影像的攝影機的焦距和位置](assets/Photorealistic_4.gif)
+![&#x200B; Adobe中的「符合影像」功能[!DNL Dimension]會分析背景影像，並估計用來擷取該影像的攝影機的焦距和位置](assets/Photorealistic_4.gif)
 
 「符合影像」功能會分析背景影像，並估計用來擷取該影像的相機的焦距和位置。 接著會在[!DNL Dimension]場景中建立3D攝影機，可用來在與背景影像相同的透視內呈現3D元素，以便將它們複合在一起。
 

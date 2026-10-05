@@ -98,9 +98,9 @@ ht-degree: 4%
 
 對於所有後續啟動Acrobat的嘗試，系統將提示使用者&#x200B;**立即登入**，之後再選擇建立自己的Adobe ID並進入試用模式。 不過，一般使用者建立的任何新Adobe ID都不會與您組織的授權建立關聯，而且會對您的使用者造成額外的混淆。
 
-對話方塊1](assets/acrobatsignin1.png)中的![Acrobat Sign
+對話方塊1![&#128279;](assets/acrobatsignin1.png)中的Acrobat Sign
 
-對話方塊2](assets/acrobatsignin2.png)中的![Acrobat Sign
+對話方塊2![&#128279;](assets/acrobatsignin2.png)中的Acrobat Sign
 
 ## 如果您需要協助，請聯絡我們
 
