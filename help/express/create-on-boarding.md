@@ -32,4 +32,4 @@ ht-degree: 3%
 
 瞭解如何在Adobe Express中使用由Adobe Firefly提供支援的文字對影像，為員工招募和上線內容建立唯一的圖形。 在此範例中，範本是用來讓公司內的每個人都建立完全符合品牌的內容。 此教學課程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444271?captions=chi_hant&quality=12&learn=on&hidetitle=true)
