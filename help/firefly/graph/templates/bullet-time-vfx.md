@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ![專案符號時間VFX](../../assets/bullet-time-vfx.png){align="center"}
 
-返回[開始使用Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly Graph](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
