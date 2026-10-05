@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-TQID: https://experienceleague.adobe.com/fKtZZFwi7HI-1JOrdM7YicWs8nU6tjZv9AEtTfjdkaE
+TQID: 'https://experienceleague.adobe.com/fKtZZFwi7HI-1JOrdM7YicWs8nU6tjZv9AEtTfjdkaE'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 0%
-
 ---
-
 # 鎖定圖層的方式與原因
 
 瞭解為何必須鎖定範本的各種元素，使其無法變更。 某些元素（例如標誌）不應變更，因此可在共用範本前加以鎖定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437078?captions=chi_hant&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
 
 ## 此系列的其他影片
 

@@ -5,23 +5,29 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+TQID: 'https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Security
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 638
+source-wordcount: '638'
 ht-degree: 1%
-
 ---
-
 # 即將到期的序號？ 為何是指定使用者授權的時機
 
 在現今的環境下，IT管理必須快速轉向全數位體驗。 隨著團隊瞭解如何在家中有效工作，對協助業務持續性的工具需求也日益增加。 這些挑戰會對任何大型IT部署造成影響，尤其是在管理虛擬工作環境中的使用者時。
@@ -32,7 +38,7 @@ ht-degree: 1%
 
 ## 關於指名使用者授權
 
-[具名使用者授權](https://helpx.adobe.com/tw/enterprise/using/licensing.html)是一種軟體授權模式，允許將軟體指派給個人，而非序號或裝置。 NUL透過進階的使用者身分管理，為IT管理員提供企業級安全性，並可使用Adobe Admin Console輕鬆部署和管理應用程式。
+[具名使用者授權](https://helpx.adobe.com/enterprise/using/licensing.html)是一種軟體授權模式，允許將軟體指派給個人，而非序號或裝置。 NUL透過進階的使用者身分管理，為IT管理員提供企業級安全性，並可使用Adobe Admin Console輕鬆部署和管理應用程式。
 
 ## 指名使用者授權的優點：
 
@@ -42,7 +48,7 @@ ht-degree: 1%
 
 * 充分利用專家服務。
 
-  您與Adobe簽署的企業授權合約可透過電話或網路會議，為Adobe專家提供無限制的30分鐘工作階段，協助您解決任何問題。 若要預約工作階段，請前往Admin Console中的[支援]索引標籤，然後按一下[要求專家工作階段]&#x200B;**&#x200B;**。
+  您與Adobe簽署的企業授權合約可透過電話或網路會議，為Adobe專家提供無限制的30分鐘工作階段，協助您解決任何問題。 若要預約工作階段，請前往Admin Console中的[支援]索引標籤，然後按一下[要求專家工作階段]****。
 
 * 大量使用者？ 沒問題。
 

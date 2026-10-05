@@ -1,18 +1,33 @@
 ---
-title: ​1. 什麼是 [!DNL Firefly Graph]？
+title: 1. 什麼是[!DNL Firefly Graph]？
 description: 瞭解圖表與單一提示的比較情形，以及讓每個步驟可見且可重複使用的原因
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22055
 hide: true
-source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # &#x200B;1. 什麼是[!DNL Firefly Graph]？
 
 大多數創作AI工具都會從提示中提供一個輸出。 如果簡短變更，您會手動重建整個檔案，除了最終檔案外，沒有其他要傳遞的內容。
@@ -39,6 +54,6 @@ Firefly Graph的運作方式不同。 您建置&#x200B;**圖形**，而非單一
 
 ## 下一步
 
-一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
+一旦您對此想法感到滿意，請繼續進行[2。 重要概念：節點、連線和範本](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，瞭解您實際建立圖表時所使用的辭彙。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
