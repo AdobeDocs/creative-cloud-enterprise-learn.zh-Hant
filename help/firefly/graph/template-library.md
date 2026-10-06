@@ -1,19 +1,34 @@
 ---
 title: 範本程式庫
-description: 瀏覽現成的Firefly Graph範本，以讓您開啟並適應自己的專案
+description: 瀏覽現成的Firefly Graph範本，供您開啟並適應自己的專案
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22134
 hide: true
-hidefromtoc: true
-source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
+hidefromtoc: 'yes'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
-
 ---
-
 # &#x200B;5. 範本程式庫
 
 Firefly Graph範本的快速參考索引，依每個範本產生或執行的內容組織。 每個範例都是起點 — 在生產中使用範本之前，交換您自己的品牌、產品和提示。

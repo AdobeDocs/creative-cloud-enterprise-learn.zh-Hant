@@ -5,13 +5,20 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
-
 ---
-
 # 複合與混合圖層
 
 瞭解如何將產品切除和背景場景棧疊為單獨的圖層輸入。 調整混合模式和光源節點，直到複合讀取為單次拍攝為止。 [開啟複合與混合圖層範本](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
@@ -29,4 +36,4 @@ ht-degree: 0%
 
 ![複合與混合圖層](../../assets/composite-blend-layers.png){align="center"}
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly Graph](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

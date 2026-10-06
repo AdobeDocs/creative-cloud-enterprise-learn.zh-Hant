@@ -1,5 +1,5 @@
 ---
-title: ​5. 共用圖表
+title: 5. 共用圖表
 description: 瞭解如何與其他人共用圖表
 feature: Image Editing, Gen AI
 role: User
@@ -7,13 +7,28 @@ level: Beginner
 jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 21ac1c37cd76408493eda8cfc8aa1f56f250ed26
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # &#x200B;5. 共用圖表
 
 瞭解如何與其他人共用圖表。 共用圖表會共用即時工作流程，而不只是輸出。 任何擁有編輯存取許可權的人都可以重新執行、變更它，並將其交給其他人。 使用連結層級存取權在組織內獲得廣泛的可見度，並為需要直接存取的任何人提供具有特定角色的已命名邀請。
@@ -56,4 +71,4 @@ ht-degree: 0%
 
 要從範本開始嗎？ 前往[5。 自訂範本](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的簡報。
 
-返回[開始使用Firefly圖形](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[開始使用Firefly Graph](https://experienceleague.adobe.com/zh-hant/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14828
 exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
-TQID: https://experienceleague.adobe.com/nelySfZhQU9yfnOS1MwXJjpNEREZvbsSGgeWuF6XI5s
+TQID: 'https://experienceleague.adobe.com/nelySfZhQU9yfnOS1MwXJjpNEREZvbsSGgeWuF6XI5s'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 0%
-
 ---
-
 # 如何共用和下載
 
 瞭解以不同檔案格式（如PNG、JPEG或PDF）下載和共用專案的選項。 將專案發佈到網頁並產生連結以方便存取，或直接排程和分享媒體到社群媒體平台，並提供為每個平台自訂貼文的選項。
